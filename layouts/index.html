@@ -1,8 +1,5 @@
 {{ define "main" }}
   <main>
-    <h1>{{ .Site.Title }}</h1>
-    <p role="alert"><strong>Hugo migration test build</strong></p>
-    <p>NOT production. Development deployment only.</p>
-    <p>Test URL: <a href="{{ .Site.BaseURL }}">{{ .Site.BaseURL }}</a></p>
+    {{ .Content }}
   </main>
 {{ end }}
