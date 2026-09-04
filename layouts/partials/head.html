@@ -1,0 +1,28 @@
+{{- /* S.6-C.2-H single head rendering path (called once from baseof.html)
+   - title: frontmatter .Title verbatim (no double site-brand append)
+   - canonical: .Permalink (env-safe; derived from hugo.toml baseURL — github.io in test, alumcasting.com at cutover)
+   - meta description: frontmatter .Description (verified; omitted if absent)
+   - robots: frontmatter .Params.robots (verified; omitted if absent — no invented directives)
+   - OpenGraph / Twitter: verified text fields only, env-safe URLs; no invented images
+*/ -}}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ .Title }}</title>
+<link rel="canonical" href="{{ .Permalink }}">
+{{- with .Params.robots }}<meta name="robots" content="{{ . }}">
+{{- end -}}
+{{- with .Description }}<meta name="description" content="{{ . }}">
+{{- end -}}
+{{- /* OpenGraph */ -}}
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:title" content="{{ .Title }}">
+{{- with .Description }}<meta property="og:description" content="{{ . }}">{{ end -}}
+<meta property="og:url" content="{{ .Permalink }}">
+{{- /* Twitter */ -}}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ .Title }}">
+{{- with .Description }}<meta name="twitter:description" content="{{ . }}">{{ end -}}
+{{- /* Structured data */ -}}
+{{- partial "seo-jsonld.html" . -}}

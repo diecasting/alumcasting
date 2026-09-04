@@ -1,0 +1,65 @@
+{{- /* S.6-C.2-H JSON-LD wiring
+   - Organization: ONE canonical authority, verified identity only (no invented address/phone/certs/sameAs/knowsAbout)
+   - WebPage + BreadcrumbList: every Batch 1 page (env-safe URLs via .Permalink / .Site.Home.Permalink)
+   - FAQPage: owners only (about 5Q / precision-cnc 6Q / automotive 4Q) from frontmatter faq
+   - Article: intentionally NOT emitted (reserved for 44 WP posts)
+   - No kingship.alumcasting.com references anywhere
+   - Pattern: literal JSON braces; jsonify applied ONLY to individual string values (safe-Hugo, valid object output)
+*/ -}}
+{{- $orgId := "https://alumcasting.com/#organization" -}}
+{{- $pageUrl := .Permalink -}}
+{{- $homeUrl := .Site.Home.Permalink -}}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": {{ $orgId | jsonify }},
+  "name": "AlumCasting",
+  "legalName": "Kingship (Dongguan) Precision Manufacturing Co., Ltd.",
+  "url": "https://alumcasting.com/",
+  "logo": "https://alumcasting.com/wp-content/uploads/2026/03/KingShip-Logo.png"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": {{ printf "%s#webpage" $pageUrl | jsonify }},
+  "url": {{ $pageUrl | jsonify }},
+  "name": {{ .Title | jsonify }},
+  "description": {{ .Description | jsonify }},
+  "isPartOf": { "@id": {{ $orgId | jsonify }} },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "@id": {{ printf "%s#breadcrumb" $pageUrl | jsonify }},
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": {{ $homeUrl | jsonify }} }{{ if not .IsHome }},
+      { "@type": "ListItem", "position": 2, "name": {{ .Title | jsonify }}, "item": {{ $pageUrl | jsonify }} }{{ end }}
+    ]
+  }
+}
+</script>
+
+{{- with .Params.faq -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+  {{- range $i, $item := . -}}
+    {{- if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $item.question | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $item.answer | jsonify }}
+      }
+    }
+  {{- end -}}
+  ]
+}
+</script>
+{{- end -}}
