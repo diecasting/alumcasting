@@ -2,6 +2,8 @@
 /public/
 /resources/_gen/
 /hugo_stats.json
+# Hugo build lock
+/.hugo_build.lock
 # OS
 .DS_Store
 # Editor
