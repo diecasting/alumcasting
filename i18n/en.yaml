@@ -1,0 +1,6 @@
+- id: brand
+  translation: "AlumCasting"
+- id: testBuild
+  translation: "Hugo migration test build"
+- id: notProduction
+  translation: "NOT production"
