@@ -13,6 +13,7 @@ cta: "Request a Quote"
 cta_url: "/contact/"
 date: "2026-03-20T09:13:15"
 modified: "2026-06-28T12:46:29"
+image: "https://alumcasting.com/wp-content/uploads/2026/03/vertically-integrated-manufacturing-process-casting-to-finishing.webp"
 related_services:
   - "/magnesium-die-casting-services/"
   - "/aluminum-die-casting/"
@@ -57,9 +58,9 @@ A Deep-Dive Case Study: Converting a UAV Structural Frame from Aluminum to Magne
 [Request a Lightweighting Review](/contact/)
 
 ## FAQ
- How much lighter is magnesium compared to aluminum in die casting? ****
-
+ How much lighter is magnesium compared to aluminum in die casting?
 Magnesium is approximately 33% lighter than aluminum. In our recent structural frame case studies, converting from aluminum to magnesium achieved a full 33% weight reduction while maintaining identical structural rigidity and performance.
- How do you protect magnesium castings from corrosion? ****
-
+ How do you protect magnesium castings from corrosion?
 We utilize Micro-arc Oxidation (MAO) to create a ceramic-like protective layer on the magnesium surface. This advanced finishing process provides over 720 hours of salt spray resistance, meeting strict ASTM B117 environmental standards.
+
+{{< formspree >}}

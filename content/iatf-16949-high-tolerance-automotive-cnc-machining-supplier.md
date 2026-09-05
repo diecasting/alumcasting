@@ -13,6 +13,7 @@ cta: "Request a Quote"
 cta_url: "/contact/"
 date: "2026-04-02T08:22:21"
 modified: "2026-06-28T12:54:51"
+image: "https://alumcasting.com/wp-content/uploads/2026/03/precision-multi-axis-cnc-machining-tight-tolerance-parts.webp"
 related_services:
   - "/precision-cnc-machining/"
   - "/automotive-die-casting-parts/"
@@ -40,3 +41,5 @@ Equipped with Hexagon CMM and Zeiss scanning to ensure every batch meets automot
 
 Our 20 years of manufacturing experience ensures your automotive project is delivered on time and within spec.
 [Submit Your RFQ Today](/contact/)
+
+{{< formspree >}}

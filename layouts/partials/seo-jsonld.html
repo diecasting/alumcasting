@@ -55,21 +55,25 @@
 {{ end }}
 
 {{/* S.6-C.3-A: Article schema ONLY for verified posts (schema_type == "Article").
-   Single Organization authority reused via #organization @id — no invented
-   author/person or publisher fields. */}}
+   Built via dict + jsonify so the JSON is always well-formed (no manual brace
+   juggling). Single Organization authority reused via #organization @id — no
+   invented author/person or publisher fields. */}}
 {{ if eq .Params.schema_type "Article" }}
+{{ $org := "https://alumcasting.com/#organization" }}
+{{ $art := dict
+  "@context" "https://schema.org"
+  "@type" "Article"
+  "@id" (printf "%s#article" .Permalink)
+  "headline" .Title
+  "description" .Description
+  "author" (dict "@id" $org)
+  "publisher" (dict "@id" $org)
+  "datePublished" .Params.date
+  "dateModified" .Params.modified
+  "mainEntityOfPage" (dict "@id" (printf "%s#webpage" .Permalink))
+}}
+{{ with .Params.image }}{{ $art = merge $art (dict "image" .) }}{{ end }}
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "@id": {{ printf "%s#article" .Permalink | jsonify | safeJS }},
-  "headline": {{ .Title | jsonify | safeJS }},
-  "description": {{ .Description | jsonify | safeJS }},
-  "author": { "@id": {{ "https://alumcasting.com/#organization" | jsonify | safeJS }} },
-  "publisher": { "@id": {{ "https://alumcasting.com/#organization" | jsonify | safeJS }} },
-  "datePublished": {{ .Params.date | jsonify | safeJS }},
-  "dateModified": {{ .Params.modified | jsonify | safeJS }},
-  "mainEntityOfPage": { "@id": {{ printf "%s#webpage" .Permalink | jsonify | safeJS }} }
-}
+{{ $art | jsonify | safeJS }}
 </script>
 {{ end }}
