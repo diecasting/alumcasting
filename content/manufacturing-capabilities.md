@@ -53,7 +53,7 @@ Traditional liquid pressure casting faces limitations caused by turbulence, gas 
 
 Our engineering team applies [Semi-Solid Rheocasting technology](/semi-solid-die-casting-manufacturers/) *(page deferred — not in Batch 1)* to create a controlled globular slurry structure before injection.
 
-Using advanced aluminum alloys including [A356](/a356-aluminum-die-casting-porosity-control/) *(page deferred — not in Batch 1)*, the semi-solid metal flow produces lower porosity, improved mechanical performance, and compatibility with [T6 heat treatment processes](/t6-heat-treatment-semi-solid-die-casting-aluminum/) *(page deferred — not in Batch 1)*.
+Using advanced aluminum alloys including [A356](/a356-aluminum-die-casting-porosity-control/) *(page deferred — not in Batch 1)*, the semi-solid metal flow produces lower porosity, improved mechanical performance, and compatibility with [T6 heat treatment processes](/semi-solid-die-casting-heat-treatable-aluminum/) *(page deferred — not in Batch 1)*.
 
 - Laminar Metal Flow
 - T6 Ready

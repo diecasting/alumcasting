@@ -12,7 +12,6 @@ rfq: true
 cta: "Request a Quote"
 cta_url: "/contact/"
 related_services:
-  - "/semi-solid-die-casting/"
   - "/aluminum-die-casting/"
   - "/contact/"
 ---

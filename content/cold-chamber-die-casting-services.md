@@ -13,7 +13,7 @@ cta: "Request a Quote"
 cta_url: "/contact/"
 related_services:
   - "/aluminum-die-casting/"
-  - "/semi-solid-die-casting/"
+  - "/semi-solid-die-casting-heat-treatable-aluminum/"
   - "/contact/"
 ---
 
@@ -54,7 +54,7 @@ related_services:
 
  Our metallurgy lab focuses heavily on managing specialized properties for harsh mechanical environments:
 
-- **Aluminum Alloys:** We run massive volumes of standard [A380 properties](/a380-aluminum-die-casting-alloy-properties/) and [ADC12 properties](/aluminum-alloy-adc12-properties-engineering-guide/) for cost-effective mass production. However, our true specialty lies in [recommending A356 over ADC12 for high-stress structural parts](/why-we-recommended-a356-over-adc12-high-stress-structural-parts/). A356 combined with our specialized vacuum techniques enables flawless [T6 heat treatments while entirely preventing blistering](/t6-heat-treatment-semi-solid-die-casting-aluminum/).
+- **Aluminum Alloys:** We run massive volumes of standard [A380 properties](/a380-aluminum-die-casting-alloy-properties/) and [ADC12 properties](/aluminum-alloy-adc12-properties-engineering-guide/) for cost-effective mass production. However, our true specialty lies in [recommending A356 over ADC12 for high-stress structural parts](/why-we-recommended-a356-over-adc12-high-stress-structural-parts/). A356 combined with our specialized vacuum techniques enables flawless [T6 heat treatments while entirely preventing blistering](/semi-solid-die-casting-heat-treatable-aluminum/).
 - **Magnesium Alloys:** For ultra-lightweight structural shifts, we run [AZ91D magnesium parts](/az91d-magnesium-die-casting-automotive-parts/) for exceptional rigidity-to-weight ratios. When impact resistance is non-negotiable (such as automotive steering wheel cores or shock towers), we execute [AM60B magnesium casting](/am60b-magnesium-alloy-die-casting-suppliers/) due to its exceptional elongation and crashworthiness profiles.
 
 ## 3. Conquering Tool Life and Cracking via Rigorous DFM

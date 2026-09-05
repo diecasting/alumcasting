@@ -41,7 +41,7 @@ I've seen projects fail because a client used one shop for casting and another f
 
 ## The Secret Sauce: Density and T6 Heat Treatment
 
-The biggest reason clients come to us is for structural integrity. Because GDC uses a slower filling rate, the level of entrapped air is significantly lower. This is critical because it allows us to perform [T6 heat treatment](/t6-heat-treatment-semi-solid-die-casting-aluminum/) *(page deferred — not in Batch 1)* without fear.
+The biggest reason clients come to us is for structural integrity. Because GDC uses a slower filling rate, the level of entrapped air is significantly lower. This is critical because it allows us to perform [T6 heat treatment](/semi-solid-die-casting-heat-treatable-aluminum/) *(page deferred — not in Batch 1)* without fear.
 
 You simply can't do this with standard HPDC without risking surface blisters. By choosing a manufacturer that understands the nuance of [preventing blistering during T6](/prevent-blistering-aluminum-t6-heat-treatment/) *(page deferred — not in Batch 1)*, you unlock mechanical properties that high-pressure parts can only dream of.
 

@@ -12,7 +12,7 @@ rfq: true
 cta: "Request a Quote"
 cta_url: "/contact/"
 related_services:
-  - "/semi-solid-die-casting/"
+  - "/semi-solid-die-casting-heat-treatable-aluminum/"
   - "/automotive-die-casting-parts/"
   - "/contact/"
 ---
@@ -45,7 +45,7 @@ However, once the design is frozen and the requirements for “zero porosity” 
 
 ## Post-Casting Excellence
 
-Sand casting is a raw process, but the finish doesn’t have to be. We combine our casting expertise with [high-tolerance automotive CNC machining](/high-tolerance-automotive-cnc-machining/) to ensure every mounting surface is perfect. To reach peak performance, we almost always recommend a [T6 heat treatment](/t6-heat-treatment-semi-solid-die-casting-aluminum/) to stabilize the grain structure.
+Sand casting is a raw process, but the finish doesn’t have to be. We combine our casting expertise with [high-tolerance automotive CNC machining](/high-tolerance-automotive-cnc-machining/) to ensure every mounting surface is perfect. To reach peak performance, we almost always recommend a [T6 heat treatment](/semi-solid-die-casting-heat-treatable-aluminum/) to stabilize the grain structure.
 Q: Can I use sand casting for small batch production?
 
 A: Absolutely. It is the gold standard for [small batch production](/small-batch-die-casting-cnc-finishing-guide/) where mold costs would otherwise kill the project ROI.

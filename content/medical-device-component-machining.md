@@ -38,7 +38,7 @@ As shown in the image above, the complexity we can achieve today allows for intr
 
 ## Precision at Scale: From T0 to the Operating Room
 
-For structural medical components that require absolute density, we often recommend [semi-solid casting](/semi-solid-die-casting-heat-treatable-aluminum/) followed by [T6 heat treatment](/t6-heat-treatment-semi-solid-die-casting-aluminum/). This ensures that when the part hits our 5-axis CNC machines, the grain structure is stable enough to hold the tolerances your engineers demand.
+For structural medical components that require absolute density, we often recommend [semi-solid casting](/semi-solid-die-casting-heat-treatable-aluminum/) followed by [T6 heat treatment](/semi-solid-die-casting-heat-treatable-aluminum/). This ensures that when the part hits our 5-axis CNC machines, the grain structure is stable enough to hold the tolerances your engineers demand.
 
 Scaling these projects requires a partner who understands the journey from [T0 trials to 10,000 units](/scaling-die-casting-production-t0-to-10000-units/). In medical machining, you can’t just ‘speed up’ the line; you must maintain the same Cpk from the first part to the last.
 Q: Can you handle low-volume medical device prototyping?

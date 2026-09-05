@@ -1,0 +1,90 @@
+{
+  "phase": "S.6-C.4-F",
+  "mode": "OWNER_CONSOLIDATION",
+  "status": "HOLD",
+  "status_reason": "Hugo-side Semi-Solid owner consolidation COMPLETE and verified (READY FOR REVIEW). Production WordPress Redirection writes (3169 retarget to 1-hop + removal of generic->heat-treatable alias) are BLOCKED from sandbox: WP Redirection REST returns 404 (/rule) and 401 (/redirect). Per spec section 13 -> HOLD with exact admin action list. No WP/Cloudflare/DNS writes performed.",
+  "final_owner": "/semi-solid-die-casting-heat-treatable-aluminum/",
+  "generic_url": "/semi-solid-die-casting/",
+  "legacy_3169_url": "/semi-solid-die-casting-manufacturers/",
+  "pre_change_chain": {
+    "generic": {"status": 301, "location": "/semi-solid-die-casting-heat-treatable-aluminum/", "final_status": 200, "redirect_count": 1},
+    "heat_treatable": {"status": 200, "final_status": 200, "redirect_count": 0},
+    "legacy_3169": {"status": 301, "hops": ["/semi-solid-die-casting/", "/semi-solid-die-casting-heat-treatable-aluminum/"], "final_status": 200, "redirect_count": 2, "chain": "2-HOP"}
+  },
+  "post_change_chain": {
+    "generic_hugo": {"build_output": "DELETED", "github_io_state": "404 (natural, no indexable duplicate page)", "note": "Hugo source content/semi-solid-die-casting.md removed; rebuild does not generate public/semi-solid-die-casting/"},
+    "generic_production_wp": {"status": 301, "location": "/semi-solid-die-casting-heat-treatable-aluminum/", "note": "UNCHANGED - requires admin WP Redirection action (sandbox cannot write)"},
+    "heat_treatable": {"status": 200, "self_canonical": true, "robots": "index,follow", "h1": 1, "jsonld_valid": true},
+    "legacy_3169_production_wp": {"status": 301, "hops": ["/semi-solid-die-casting/", "/semi-solid-die-casting-heat-treatable-aluminum/"], "final_status": 200, "redirect_count": 2, "chain": "2-HOP (UNCHANGED - admin WP action required)"}
+  },
+  "generic_final_state": {
+    "hugo": "retired/deleted (404 on GitHub Pages)",
+    "production_wp": "still 301 -> heat-treatable (admin-deferred)",
+    "strategy": "natural 404 via Hugo architecture (no new 301 created, no redirect target chosen)"
+  },
+  "final_owner_state": {
+    "http": 200,
+    "h1_count": 1,
+    "canonical": "https://diecasting.github.io/alumcasting/semi-solid-die-casting-heat-treatable-aluminum/",
+    "self_canonical": true,
+    "robots": "index,follow",
+    "jsonld": {"blocks": 2, "valid": 2, "types": ["Organization", "WebPage"], "breadcrumb": "BreadcrumbList (2 items)", "nested_in_webpage": true},
+    "title": "Semi-Solid Die Casting (SSM) | T6 Heat-Treatable Aluminum Parts",
+    "title_unique_after_generic_removal": true
+  },
+  "content_changes": [
+    {"file": "content/semi-solid-die-casting.md", "action": "DELETED", "lines": 90, "reason": "retire duplicate generic SSM page; no unique factual content vs final owner (identical FAQx3, SSM-vs-HPDC table, Target Industries, T6/Zero-Porosity/Superior-Precision sections). No content loss."}
+  ],
+  "internal_link_changes": [
+    {"file": "content/cold-chamber-die-casting-services.md", "field": "related_services", "from": "/semi-solid-die-casting/", "to": "/semi-solid-die-casting-heat-treatable-aluminum/", "reason": "generic slug retired; point to canonical final owner"},
+    {"file": "content/sand-casting-services.md", "field": "related_services", "from": "/semi-solid-die-casting/", "to": "/semi-solid-die-casting-heat-treatable-aluminum/", "reason": "generic slug retired; point to canonical final owner"},
+    {"file": "content/semi-solid-die-casting-heat-treatable-aluminum.md", "field": "related_services", "action": "REMOVED self-ref entry /semi-solid-die-casting/", "reason": "final owner referenced deleted generic page; remove dangling related_service"}
+  ],
+  "untouched_in_scope_links": {
+    "legacy_3169_page_deferred_links": "9 files still reference /semi-solid-die-casting-manufacturers/ as '(page deferred)'; NOT modified this phase (different slug, resolves via 3169->final-owner WP redirect once admin applies it)",
+    "heat_treatable_body_links": "other pages correctly link to /semi-solid-die-casting-heat-treatable-aluminum/; untouched",
+    "t6_dead_links": "7 files reference /t6-heat-treatment-semi-solid-die-casting-aluminum/ (404); DEFERRED to S.6-C.4-G, not touched"
+  },
+  "dead_links_deferred": true,
+  "writes_performed": true,
+  "wp_redirect_writes_performed": false,
+  "wp_redirection_rest_probe": {
+    "GET /wp-json/redirection/v1/rule": 404,
+    "GET /wp-json/redirection/v1/redirect": 401,
+    "conclusion": "sandbox cannot read or write WP Redirection rules; production redirect changes require authorized WP admin UI"
+  },
+  "admin_actions_required": [
+    "In WP admin Redirection: change existing rule '3169 /semi-solid-die-casting-manufacturers/ -> /semi-solid-die-casting/' to target '/semi-solid-die-casting-heat-treatable-aluminum/' (single 1-hop 301).",
+    "In WP admin Redirection: delete/disable the rule '/semi-solid-die-casting/ -> /semi-solid-die-casting-heat-treatable-aluminum/' so generic no longer 301-aliases (after this, generic URL should 404/410 on production unless a WP page still publishes it).",
+    "Verify post-admin: 3169 -> 1 hop 301 -> final owner 200; generic -> NOT 301 -> heat-treatable."
+  ],
+  "pass_criteria": {
+    "final_owner_http_200": "PASS (Hugo build verified)",
+    "final_owner_self_canonical": "PASS",
+    "final_owner_index_follow": "PASS",
+    "final_owner_h1_eq_1": "PASS",
+    "final_owner_jsonld_valid": "PASS",
+    "generic_retired": "PASS (Hugo) / PENDING (WP admin)",
+    "generic_alias_removed": "PENDING (WP admin - sandbox blocked)",
+    "3169_one_hop_301": "PENDING (WP admin - sandbox blocked)",
+    "no_redirect_chain": "PENDING (WP admin - 2-hop remains)",
+    "no_redirect_loop": "PASS",
+    "duplicate_title_eliminated": "PASS (Hugo) / PENDING (WP admin)",
+    "no_content_loss": "PASS",
+    "no_unrelated_changes": "PASS",
+    "7_dead_links_deferred": "PASS",
+    "git_diff_scope_clean": "PASS"
+  },
+  "git_diff_scope": [
+    "M content/cold-chamber-die-casting-services.md",
+    "M content/sand-casting-services.md",
+    "M content/semi-solid-die-casting-heat-treatable-aluminum.md",
+    "D content/semi-solid-die-casting.md"
+  ],
+  "git_head": "51e480a93f49a81470777153939b33436bc6082c",
+  "build": {"command": "hugo --gc --minify", "exit": 0, "pages": 48, "note": "was 49 before generic deletion"},
+  "commit_authorized": false,
+  "push_authorized": false,
+  "deploy_authorized": false,
+  "hard_stop": true
+}
