@@ -28,4 +28,8 @@
 {{- partial "seo-jsonld.html" . -}}
 {{- /* S.6-C.4-P.4 — global visual system (additive; SEO/JSON-LD untouched) */ -}}
 <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
-<link rel="icon" href="{{ "images/KingShip-Logo.webp" | relURL }}" type="image/webp">
+<link rel="icon" href="{{ "images/alumcasting-mark.svg" | relURL }}" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{{ "images/alumcasting-mark.svg" | relURL }}">
+{{- /* OpenGraph image — only when a real front-matter image exists (relURL-safe) */ -}}
+{{- with .Params.image }}<meta property="og:image" content="{{ . | relURL }}">
+<meta property="og:image:alt" content="{{ $.Title }}">{{ end -}}

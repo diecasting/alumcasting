@@ -1,0 +1,11 @@
+{{- /* P.4.7 — image render hook.
+   Rewrites root-absolute /images/* destinations through relURL so static
+   assets resolve correctly on BOTH the production domain (alumcasting.com,
+   root) and the GitHub Pages subpath staging (diecasting.github.io/alumcasting/).
+   On production relURL("/images/x") == "/images/x" (no behaviour change);
+   on staging it becomes "/alumcasting/images/x" (fixes the 404s).
+   All referenced files already exist in static/images/. No placeholders. */ -}}
+<img src="{{ if hasPrefix .Destination "/" }}{{ .Destination | relURL }}{{ else }}{{ .Destination }}{{ end }}"
+     {{- with .Text }} alt="{{ . }}"{{ end -}}
+     {{- if .Title }} title="{{ .Title }}"{{ end -}}
+     loading="lazy" decoding="async">

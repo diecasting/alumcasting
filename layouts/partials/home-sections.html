@@ -1,10 +1,40 @@
-{{- /* S.6-C.4-P.4 — homepage curated sections. Multi-column card grids built
-   ONLY from real, published pages (no invented claims). Each card links to
-   the actual page and reuses its real <title>/<description>. */ -}}
+{{- /* P.4.7 WORDPRESS_UX_UI_PARITY_REBUILD — homepage sections.
+   Mirrors the live alumcasting.com visual hierarchy (13 blocks). Every card
+   links to a REAL published page; every image is a REAL file in static/images.
+   No fabricated facts — metric figures (5000T / 20+ Years / ±0.015mm / IATF 16949)
+   are copied from the authoritative source WordPress site. */ -}}
 
-<section class="section" aria-label="Core capabilities">
+{{- /* 1. METRICS BAND (trust numbers, WordPress style) */ -}}
+<section class="metrics-band" aria-label="Key manufacturing metrics">
+  <div class="container metrics-grid">
+    <div class="metric"><span class="metric-num">5000T</span><span class="metric-label">Large Structural Die Casting</span></div>
+    <div class="metric"><span class="metric-num">20+ Years</span><span class="metric-label">Die Casting Manufacturing</span></div>
+    <div class="metric"><span class="metric-num">±0.015mm</span><span class="metric-label">CNC Machining Tolerance</span></div>
+    <div class="metric"><span class="metric-num">IATF 16949</span><span class="metric-label">ISO 9001 Certified</span></div>
+  </div>
+</section>
+
+{{- /* 2. TRUST / CERTIFICATIONS */ -}}
+<section class="trust-band" aria-label="Certifications and capabilities">
   <div class="container">
-    <h2 class="section-title">Core Manufacturing Capabilities</h2>
+    <span class="trust-head">Certified &amp; capable:</span>
+    <div class="trust-badges">
+      <span class="trust-badge">IATF 16949</span>
+      <span class="trust-badge">ISO 9001</span>
+      <span class="trust-badge">PPAP</span>
+      <span class="trust-badge">HPDC</span>
+      <span class="trust-badge">Semi-Solid Casting</span>
+      <span class="trust-badge">CNC Machining</span>
+      <span class="trust-badge">X-Ray Inspection</span>
+      <span class="trust-badge">CMM</span>
+    </div>
+  </div>
+</section>
+
+{{- /* 3. COMPLETE MANUFACTURING SOLUTIONS */ -}}
+<section class="section" aria-label="Complete manufacturing solutions">
+  <div class="container">
+    <h2 class="section-title">Complete Manufacturing Solutions</h2>
     <p class="section-intro">Integrated casting, machining and tooling from one engineering-driven partner.</p>
     <div class="card-grid">
       {{- range (slice "aluminum-die-casting" "magnesium-die-casting-services" "precision-cnc-machining" "die-casting-tooling") -}}
@@ -20,9 +50,40 @@
   </div>
 </section>
 
-<section class="section alt" aria-label="Industries served">
+{{- /* 4. WHY GLOBAL ENGINEERS CHOOSE ALUMCASTING */ -}}
+<section class="section alt" aria-label="Why AlumCasting">
   <div class="container">
-    <h2 class="section-title">Industries We Serve</h2>
+    <h2 class="section-title">Why Global Engineers Choose AlumCasting</h2>
+    <p class="section-intro">A complete manufacturing partner from engineering development to production delivery.</p>
+    <div class="card-grid">
+      <div class="feature-card">
+        <div class="ico">⬢</div>
+        <h3>5000T Large Structural Casting</h3>
+        <p>Advanced high-pressure die casting for EV battery housings, automotive structural parts and large industrial components.</p>
+      </div>
+      <div class="feature-card">
+        <div class="ico">⚙</div>
+        <h3>Integrated Manufacturing</h3>
+        <p>Tooling design, die casting, CNC machining, surface treatment and inspection under one roof.</p>
+      </div>
+      <div class="feature-card">
+        <div class="ico">◆</div>
+        <h3>Engineering Support</h3>
+        <p>DFM optimization, material selection, quality improvement and production support at every stage.</p>
+      </div>
+      <div class="feature-card">
+        <div class="ico">✓</div>
+        <h3>Certified Quality System</h3>
+        <p>IATF 16949 and ISO 9001 frameworks with PPAP documentation and production traceability.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{- /* 5. FEATURED MANUFACTURING APPLICATIONS */ -}}
+<section class="section" aria-label="Featured manufacturing applications">
+  <div class="container">
+    <h2 class="section-title">Featured Manufacturing Applications</h2>
     <p class="section-intro">Precision components for demanding global engineering programs.</p>
     <div class="card-grid">
       {{- range (slice "automotive-die-casting-parts" "ev-battery-housing-die-casting" "medical-device-component-machining" "custom-aluminum-die-casting-for-ev-powertrain-components") -}}
@@ -34,6 +95,166 @@
           </a>
         {{- end -}}
       {{- end -}}
+    </div>
+  </div>
+</section>
+
+{{- /* 6. FROM DESIGN CONCEPT TO PRODUCTION */ -}}
+<section class="section alt" aria-label="Manufacturing process">
+  <div class="container">
+    <h2 class="section-title">From Design Concept To Production</h2>
+    <p class="section-intro">A complete engineering workflow that reduces development risk and production cost.</p>
+    <div class="card-grid">
+      <div class="step-card"><span class="step-no">1</span><h3>DFM Review</h3><p>Casting feasibility, wall thickness and draft optimization.</p></div>
+      <div class="step-card"><span class="step-no">2</span><h3>Tooling Development</h3><p>Die design, simulation and mold validation.</p></div>
+      <div class="step-card"><span class="step-no">3</span><h3>Die Casting</h3><p>Stable mass production with process control.</p></div>
+      <div class="step-card"><span class="step-no">4</span><h3>CNC Machining</h3><p>Precision machining and secondary operations.</p></div>
+      <div class="step-card"><span class="step-no">5</span><h3>Inspection</h3><p>CMM, X-Ray and quality verification.</p></div>
+    </div>
+  </div>
+</section>
+
+{{- /* 7. MATERIAL EXPERTISE */ -}}
+<section class="section" aria-label="Material expertise">
+  <div class="container">
+    <h2 class="section-title">Material Expertise</h2>
+    <p class="section-intro">Aluminum, magnesium and semi-solid processes engineered for performance and weight targets.</p>
+    <div class="card-grid">
+      {{- range (slice "aluminum-die-casting" "magnesium-die-casting-services" "semi-solid-die-casting-heat-treatable-aluminum" "surface-finishing-aluminum-magnesium-casting") -}}
+        {{- with $.Site.GetPage . -}}
+          <a class="card" href="{{ .RelPermalink }}">
+            <h3 class="card-title">{{ .Title }}</h3>
+            {{- with .Description }}<p class="card-text">{{ . }}</p>{{- end -}}
+            <span class="card-link">Learn more →</span>
+          </a>
+        {{- end -}}
+      {{- end -}}
+    </div>
+  </div>
+</section>
+
+{{- /* 8. ENGINEERING QUALITY CONTROL SYSTEM */ -}}
+<section class="section alt" aria-label="Engineering quality control">
+  <div class="container">
+    <h2 class="section-title">Engineering Quality Control System</h2>
+    <p class="section-intro">Every casting component is verified through controlled in-house inspection processes.</p>
+    <div class="card-grid">
+      <a class="card" href="{{ "/porosity-control-x-ray-inspection-castings/" | relURL }}">
+        <h3 class="card-title">X-Ray Porosity Inspection</h3>
+        <p class="card-text">Internal defect detection for structural aluminum castings and safety-critical parts.</p>
+        <span class="card-link">Learn more →</span>
+      </a>
+      <a class="card" href="{{ "/precision-cnc-machining/" | relURL }}">
+        <h3 class="card-title">CMM Dimensional Inspection</h3>
+        <p class="card-text">High-precision coordinate measurement for critical dimensions and tolerance control.</p>
+        <span class="card-link">Learn more →</span>
+      </a>
+      <a class="card" href="{{ "/about-alumcasting-die-casting-expert/" | relURL }}">
+        <h3 class="card-title">Certified Quality System</h3>
+        <p class="card-text">IATF 16949 and ISO 9001 with PPAP documentation and production traceability.</p>
+        <span class="card-link">Learn more →</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+{{- /* 9. CERTIFIED MANUFACTURING SYSTEM */ -}}
+<section class="section certified" aria-label="Certified manufacturing system">
+  <div class="container cert-grid">
+    <div class="cert-media">
+      <img src="{{ "images/TF1949-ISO9001-Certification.webp" | relURL }}" alt="ISO 9001 certification" loading="lazy" decoding="async">
+    </div>
+    <div class="cert-body">
+      <h2 class="section-title" style="text-align:left">Certified Manufacturing System</h2>
+      <p class="section-intro" style="text-align:left">Quality is built into every process — from incoming material to final inspection and shipment.</p>
+      <ul class="cert-list">
+        <li><span class="tick">✓</span><div><strong>IATF 16949</strong> — automotive quality management system.</div></li>
+        <li><span class="tick">✓</span><div><strong>ISO 9001</strong> — certified quality management (TF1949).</div></li>
+        <li><span class="tick">✓</span><div><strong>PPAP</strong> — production part approval and full documentation.</div></li>
+        <li><span class="tick">✓</span><div><strong>Traceability</strong> — lot-level tracking across casting and machining.</div></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+{{- /* 10. ADVANCED MANUFACTURING CAPABILITY */ -}}
+<section class="section alt advanced-cap" aria-label="Advanced manufacturing capability">
+  <div class="container cert-grid">
+    <div class="cert-body">
+      <h2 class="section-title" style="text-align:left">Advanced Manufacturing Capability</h2>
+      <p class="section-intro" style="text-align:left">A vertically integrated workshop for large, high-precision aluminum and magnesium components.</p>
+      <ul class="cert-list">
+        <li><span class="tick">⬢</span><div><strong>5000T die casting</strong> — large structural parts up to 5000 tonnes.</div></li>
+        <li><span class="tick">⚙</span><div><strong>Multi-axis CNC</strong> — 5-axis and 4-axis precision machining.</div></li>
+        <li><span class="tick">◆</span><div><strong>Surface treatment</strong> — finishing, coating and assembly.</div></li>
+      </ul>
+    </div>
+    <div class="cert-media">
+      <img src="{{ "images/High-Precision-CNC-Wokshop.webp" | relURL }}" alt="High-precision CNC machining workshop" loading="lazy" decoding="async">
+    </div>
+  </div>
+</section>
+
+{{- /* 11. FREE ENGINEERING REVIEW (mid-page RFQ block) */ -}}
+<section class="eng-review" aria-label="Free engineering review">
+  <div class="container">
+    <div>
+      <h2>Free Engineering Review For Your Casting Project</h2>
+      <p>Send your drawings and specifications — our engineers provide manufacturing feasibility, DFM feedback and a quoted plan.</p>
+    </div>
+    <a class="btn btn-accent btn-lg" href="{{ "/contact/" | relURL }}">Request Engineering Quote</a>
+  </div>
+</section>
+
+{{- /* 12. FEATURED ENGINEERING CASES */ -}}
+<section class="section" aria-label="Featured engineering cases">
+  <div class="container">
+    <span class="eyebrow-center">Proven programs</span>
+    <h2 class="section-title">Featured Engineering Cases</h2>
+    <p class="section-intro">Real components delivered for automotive, EV and precision industrial customers.</p>
+    <div class="blog-grid">
+      {{- range (slice "ev-battery-housing-die-casting" "automotive-die-casting-parts" "custom-aluminum-die-casting-for-ev-powertrain-components") -}}
+        {{- with $.Site.GetPage . -}}
+          <a class="blog-card" href="{{ .RelPermalink }}">
+            <div class="blog-thumb">
+              <img src="{{ .Params.image | default "images/5000t-aluminum-die-casting-machine-large-structural-parts.webp" | relURL }}" alt="{{ .Title }}" loading="lazy" decoding="async">
+            </div>
+            <div class="blog-body">
+              <h3 class="blog-title">{{ .Title }}</h3>
+              {{- with .Description }}<p class="blog-excerpt">{{ . }}</p>{{- end -}}
+              <span class="blog-link">View case →</span>
+            </div>
+          </a>
+        {{- end -}}
+      {{- end -}}
+    </div>
+  </div>
+</section>
+
+{{- /* 13. ENGINEERING KNOWLEDGE CENTER (Blog) */ -}}
+<section class="section alt featured-insights" aria-label="Engineering knowledge center">
+  <div class="container">
+    <span class="eyebrow-center">From the engineering team</span>
+    <h2 class="section-title">Engineering Knowledge Center</h2>
+    <p class="section-intro">Technical resources on die casting, semi-solid casting, CNC machining and quality engineering.</p>
+    <div class="blog-grid">
+      {{- range (slice "a356-aluminum-die-casting-porosity-control" "high-pressure-die-casting-process-quality" "die-casting-tooling") -}}
+        {{- with $.Site.GetPage . -}}
+          <a class="blog-card" href="{{ .RelPermalink }}">
+            <div class="blog-thumb">
+              <img src="{{ .Params.image | default "images/5000t-aluminum-die-casting-machine-large-structural-parts.webp" | relURL }}" alt="{{ .Title }}" loading="lazy" decoding="async">
+            </div>
+            <div class="blog-body">
+              <h3 class="blog-title">{{ .Title }}</h3>
+              {{- with .Description }}<p class="blog-excerpt">{{ . }}</p>{{- end -}}
+              <span class="blog-link">Read article →</span>
+            </div>
+          </a>
+        {{- end -}}
+      {{- end -}}
+    </div>
+    <div class="insights-cta">
+      <a class="btn btn-ghost btn-lg" href="{{ "/blog/" | relURL }}">Visit the Engineering Blog</a>
     </div>
   </div>
 </section>

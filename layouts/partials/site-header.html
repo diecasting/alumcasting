@@ -1,11 +1,13 @@
-{{- /* S.6-C.4-P.4 global header. Semantic <header>/<nav>. Mobile menu is a
-   keyboard-accessible checkbox toggle (no JS). All links via relURL so they
-   resolve to the active baseURL (production = alumcasting.com, never
-   /alumcasting/ or diecasting.github.io). */ -}}
+{{- /* P.4.7 WORDPRESS_UX_UI_PARITY_REBUILD — global header.
+   Navigation mirrors the live alumcasting.com main menu (Home, Capabilities
+   dropdown, Aluminum Die Casting, Industries dropdown, About, Blog, Contact)
+   with a prominent orange Request a Quote CTA. Mobile menu is a
+   keyboard-accessible checkbox toggle (no JS); dropdowns become inline on
+   mobile. All links via relURL. */ -}}
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="{{ "/" | relURL }}" aria-label="AlumCasting — home">
-      <img src="{{ "images/KingShip-Logo.webp" | relURL }}" alt="AlumCasting" class="brand-logo" width="34" height="34">
+      <img src="{{ "images/alumcasting-mark.svg" | relURL }}" alt="AlumCasting" class="brand-logo" width="38" height="38">
       <span class="brand-name">AlumCasting</span>
     </a>
 
@@ -17,11 +19,36 @@
     <nav class="nav-menu" aria-label="Primary">
       <ul>
         <li><a href="{{ "/" | relURL }}">Home</a></li>
-        <li><a href="{{ "/services/" | relURL }}">Services</a></li>
-        <li><a href="{{ "/aluminum-die-casting/" | relURL }}">Die Casting</a></li>
-        <li><a href="{{ "/automotive-die-casting-parts/" | relURL }}">Industries</a></li>
+        <li class="has-dropdown">
+          <a href="{{ "/manufacturing-capabilities/" | relURL }}" aria-haspopup="true">Capabilities <span class="caret">▾</span></a>
+          <ul class="dropdown">
+            <li><a href="{{ "/aluminum-die-casting/" | relURL }}">Aluminum Die Casting</a></li>
+            <li><a href="{{ "/magnesium-die-casting-services/" | relURL }}">Magnesium Die Casting</a></li>
+            <li><a href="{{ "/semi-solid-die-casting-heat-treatable-aluminum/" | relURL }}">Semi-Solid Casting</a></li>
+            <li><a href="{{ "/die-casting-tooling/" | relURL }}">Die Casting Tooling</a></li>
+            <li><a href="{{ "/precision-cnc-machining/" | relURL }}">Precision CNC Machining</a></li>
+            <li><a href="{{ "/surface-finishing-aluminum-magnesium-casting/" | relURL }}">Surface Finishing</a></li>
+            <li><a href="{{ "/porosity-control-x-ray-inspection-castings/" | relURL }}">Quality Inspection</a></li>
+          </ul>
+        </li>
+        <li><a href="{{ "/aluminum-die-casting/" | relURL }}">Aluminum Die Casting</a></li>
+        <li class="has-dropdown">
+          <a href="{{ "/automotive-die-casting-parts/" | relURL }}" aria-haspopup="true">Industries <span class="caret">▾</span></a>
+          <ul class="dropdown">
+            <li><a href="{{ "/automotive-die-casting-parts/" | relURL }}">Automotive</a></li>
+            <li><a href="{{ "/ev-battery-housing-die-casting/" | relURL }}">Electric Vehicles</a></li>
+            <li><a href="{{ "/medical-device-component-machining/" | relURL }}">Medical Equipment</a></li>
+            <li><a href="{{ "/custom-aluminum-die-casting-for-ev-powertrain-components/" | relURL }}">EV Powertrain</a></li>
+            <li><a href="{{ "/die-cast-aluminum-electric-motor-housing-suppliers/" | relURL }}">Motor Housings</a></li>
+          </ul>
+        </li>
         <li><a href="{{ "/about-alumcasting-die-casting-expert/" | relURL }}">About</a></li>
+        <li><a href="{{ "/blog/" | relURL }}">Blog</a></li>
+        <li><a href="{{ "/contact/" | relURL }}">Contact</a></li>
       </ul>
+      <div class="mobile-cta">
+        <a class="btn btn-primary btn-lg" href="{{ "/contact/" | relURL }}">Request a Quote</a>
+      </div>
     </nav>
 
     <a class="btn btn-primary header-cta" href="{{ "/contact/" | relURL }}">Request a Quote</a>

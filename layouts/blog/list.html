@@ -1,0 +1,21 @@
+{{- /* P.4.7 — Blog listing (layout: "blog" from content/blog/_index.md).
+   Page hero + curated real-article grid + final CTA. No invented articles. */ -}}
+{{ define "main" }}
+<main class="page" id="main">
+  <header class="page-hero">
+    <div class="container">
+      <span class="article-meta">Resources</span>
+      <h1>{{ .Title }}</h1>
+      {{- with .Description }}<p class="lede">{{ . }}</p>{{- end }}
+    </div>
+  </header>
+
+  <section class="section">
+    <div class="container">
+      {{- partial "blog-grid.html" . -}}
+    </div>
+  </section>
+
+  {{- partial "cta-band.html" . -}}
+</main>
+{{ end }}

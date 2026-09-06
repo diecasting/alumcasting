@@ -1,0 +1,34 @@
+{{- /* P.4.7 — real-article grid. Lists ONLY published, real pages.
+   Each card uses the article's real front-matter image (relURL-aware) or a
+   REAL, relevant fallback image from static/images — never a placeholder. */ -}}
+{{- $imgs := dict
+  "aluminum-die-casting" "images/5000t-aluminum-die-casting-machine-large-structural-parts.webp"
+  "a356-aluminum-die-casting-porosity-control" "images/A356-aluminum-die-casting-porosity-control.webp"
+  "semi-solid-die-casting-heat-treatable-aluminum" "images/semi-solid-casting-microstructure-vs-xray-porosity-test.webp"
+  "high-pressure-die-casting-process-quality" "images/5000t-aluminum-die-casting-machine-large-structural-parts.webp"
+  "vacuum-assisted-die-casting-vs-conventional-hpdc-air-tightness" "images/5000t-aluminum-die-casting-machine-large-structural-parts.webp"
+  "die-casting-tooling" "images/custom-die-casting-mold-design-tooling-fabrication.webp"
+  "precision-cnc-machining" "images/precision-multi-axis-cnc-machining-tight-tolerance-parts.webp"
+  "magnesium-die-casting-services" "images/magnesium-die-casting-automotive-parts.webp"
+  "ev-battery-housing-die-casting" "images/vertically-integrated-manufacturing-process-casting-to-finishing.webp"
+  "automotive-die-casting-parts" "images/semi-solid-casting-ssm-zero-porosity-structural-parts.webp"
+  "custom-aluminum-die-casting-for-ev-powertrain-components" "images/custom-die-casting-mold-design-tooling-fabrication.webp"
+  "thin-wall-die-casting-tooling" "images/custom-die-casting-mold-design-tooling-fabrication.webp"
+-}}
+{{- $default := "images/5000t-aluminum-die-casting-machine-large-structural-parts.webp" -}}
+<div class="blog-grid">
+  {{- range (slice "a356-aluminum-die-casting-porosity-control" "aluminum-die-casting" "semi-solid-die-casting-heat-treatable-aluminum" "high-pressure-die-casting-process-quality" "vacuum-assisted-die-casting-vs-conventional-hpdc-air-tightness" "die-casting-tooling" "precision-cnc-machining" "magnesium-die-casting-services" "ev-battery-housing-die-casting" "automotive-die-casting-parts" "custom-aluminum-die-casting-for-ev-powertrain-components" "thin-wall-die-casting-tooling") -}}
+    {{- with $.Site.GetPage . -}}
+      <a class="blog-card" href="{{ .RelPermalink }}">
+        <div class="blog-thumb">
+          <img src="{{ index $imgs .File.ContentBaseName | default $default | relURL }}" alt="{{ .Title }}" loading="lazy" decoding="async">
+        </div>
+        <div class="blog-body">
+          <h3 class="blog-title">{{ .Title }}</h3>
+          {{- with .Description }}<p class="blog-excerpt">{{ . }}</p>{{- end -}}
+          <span class="blog-link">Read article →</span>
+        </div>
+      </a>
+    {{- end -}}
+  {{- end -}}
+</div>

@@ -3,11 +3,18 @@
   <section class="hero hero-home">
     <div class="container hero-grid">
       <div class="hero-copy">
+        <span class="hero-eyebrow">Aluminum Die Casting · HPDC · CNC Machining</span>
         <h1>{{ .Title }}</h1>
         {{- with .Description }}<p class="lede">{{ . }}</p>{{- end }}
         <div class="hero-cta">
           <a class="btn btn-accent btn-lg" href="{{ "/contact/" | relURL }}">Request a Quote</a>
           <a class="btn btn-ghost btn-lg" href="{{ "/services/" | relURL }}">Explore Services</a>
+        </div>
+        <div class="hero-trust" aria-label="Certifications and process capabilities">
+          <span class="badge">IATF 16949</span>
+          <span class="badge">ISO 9001</span>
+          <span class="badge">HPDC</span>
+          <span class="badge">CNC Machining</span>
         </div>
       </div>
       <div class="hero-media">

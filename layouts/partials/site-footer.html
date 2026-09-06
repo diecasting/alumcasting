@@ -1,7 +1,7 @@
-{{- /* S.6-C.4-P.4 global footer. 4-column grid (company / services /
-   industries / company) + bottom legal bar. Only REAL existing URLs are
-   linked; no invented company facts. Column titles use <p> (not <h2>) to
-   avoid heading-hierarchy spam. */ -}}
+{{- /* P.4.7 WORDPRESS_UX_UI_PARITY_REBUILD — footer.
+   Column structure mirrors the live alumcasting.com footer
+   (Capabilities / Industries / Materials / Engineering). Only REAL existing
+   routes are linked; no invented company facts. */ -}}
 <footer class="site-footer">
   <div class="container footer-grid">
     <div class="footer-col">
@@ -10,13 +10,14 @@
     </div>
 
     <div class="footer-col">
-      <p class="footer-title">Services</p>
+      <p class="footer-title">Capabilities</p>
       <ul>
         <li><a href="{{ "/aluminum-die-casting/" | relURL }}">Aluminum Die Casting</a></li>
         <li><a href="{{ "/magnesium-die-casting-services/" | relURL }}">Magnesium Die Casting</a></li>
-        <li><a href="{{ "/precision-cnc-machining/" | relURL }}">CNC Machining</a></li>
+        <li><a href="{{ "/semi-solid-die-casting-heat-treatable-aluminum/" | relURL }}">Semi-Solid Casting</a></li>
         <li><a href="{{ "/die-casting-tooling/" | relURL }}">Die Casting Tooling</a></li>
-        <li><a href="{{ "/zinc-die-casting-services/" | relURL }}">Zinc Die Casting</a></li>
+        <li><a href="{{ "/precision-cnc-machining/" | relURL }}">Precision CNC Machining</a></li>
+        <li><a href="{{ "/surface-finishing-aluminum-magnesium-casting/" | relURL }}">Surface Finishing</a></li>
       </ul>
     </div>
 
@@ -26,16 +27,28 @@
         <li><a href="{{ "/automotive-die-casting-parts/" | relURL }}">Automotive Parts</a></li>
         <li><a href="{{ "/ev-battery-housing-die-casting/" | relURL }}">EV Components</a></li>
         <li><a href="{{ "/medical-device-component-machining/" | relURL }}">Medical Components</a></li>
-        <li><a href="{{ "/precision-die-casting-medical-equipment/" | relURL }}">Medical Die Casting</a></li>
+        <li><a href="{{ "/custom-aluminum-die-casting-for-ev-powertrain-components/" | relURL }}">EV Powertrain</a></li>
+        <li><a href="{{ "/die-cast-aluminum-electric-motor-housing-suppliers/" | relURL }}">Motor Housings</a></li>
       </ul>
     </div>
 
     <div class="footer-col">
-      <p class="footer-title">Company</p>
+      <p class="footer-title">Materials</p>
       <ul>
+        <li><a href="{{ "/aluminum-die-casting/" | relURL }}">Aluminum Alloys</a></li>
+        <li><a href="{{ "/magnesium-die-casting-services/" | relURL }}">Magnesium Alloys</a></li>
+        <li><a href="{{ "/semi-solid-die-casting-heat-treatable-aluminum/" | relURL }}">Semi-Solid Casting</a></li>
+        <li><a href="{{ "/surface-finishing-aluminum-magnesium-casting/" | relURL }}">Surface Treatment</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-col">
+      <p class="footer-title">Engineering</p>
+      <ul>
+        <li><a href="{{ "/blog/" | relURL }}">Engineering Blog</a></li>
+        <li><a href="{{ "/porosity-control-x-ray-inspection-castings/" | relURL }}">X-Ray &amp; Porosity</a></li>
+        <li><a href="{{ "/high-pressure-die-casting-process-quality/" | relURL }}">HPDC Process Quality</a></li>
         <li><a href="{{ "/about-alumcasting-die-casting-expert/" | relURL }}">About AlumCasting</a></li>
-        <li><a href="{{ "/manufacturing-capabilities/" | relURL }}">Capabilities</a></li>
-        <li><a href="{{ "/services/" | relURL }}">All Services</a></li>
         <li><a href="{{ "/contact/" | relURL }}">Contact / RFQ</a></li>
       </ul>
     </div>
@@ -44,7 +57,7 @@
   <div class="footer-bottom">
     <div class="container">
       <p>© {{ now.Year }} Kingship (Dongguan) Precision Manufacturing Co., Ltd. — AlumCasting. All rights reserved.</p>
-      <p class="footer-legal"><a href="{{ "/" | relURL }}">Home</a> · <a href="{{ "/contact/" | relURL }}">Contact</a></p>
+      <p class="footer-legal"><a href="{{ "/" | relURL }}">Home</a> · <a href="{{ "/contact/" | relURL }}">Contact</a> · <a href="{{ "/blog/" | relURL }}">Blog</a></p>
     </div>
   </div>
 </footer>
