@@ -1,0 +1,12 @@
+{{- /* P.4.9.2 — markdown inline-link renderer (Goldmark render hook).
+   Default Goldmark emits root-relative href="/route/" for [text](/route/),
+   which SILENTLY loses the GitHub Pages /alumcasting subpath and 404s.
+   Route internal destinations through the abspath.html helper (strips leading
+   slash, then absURL) so the subpath is always preserved. External http(s)
+   links and in-page #anchors pass through unchanged. */ -}}
+{{- $dest := .Destination -}}
+{{- if or (hasPrefix $dest "http://") (hasPrefix $dest "https://") (hasPrefix $dest "#") -}}
+<a href="{{ $dest }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- else -}}
+<a href="{{ partial "abspath.html" $dest }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- end -}}

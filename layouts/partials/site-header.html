@@ -1,13 +1,14 @@
-{{- /* P.4.7 WORDPRESS_UX_UI_PARITY_REBUILD — global header.
+{{- /* P.4.9.2 WORDPRESS_UX_UI_PARITY — global header.
    Navigation mirrors the live alumcasting.com main menu (Home, Capabilities
-   dropdown, Aluminum Die Casting, Industries dropdown, About, Blog, Contact)
-   with a prominent orange Request a Quote CTA. Mobile menu is a
-   keyboard-accessible checkbox toggle (no JS); dropdowns become inline on
-   mobile. All links via relURL. */ -}}
+   dropdown, Aluminum Die Casting, Industries dropdown, About, Blog, Contact).
+   VERIFIED: live alumcasting.com header contains ZERO "Request a Quote" CTAs
+   (audit 2026-09-06), so NO request-a-quote button is rendered here — it was
+   removed structurally (not CSS-hidden). Mobile menu is a keyboard-accessible
+   checkbox toggle (no JS); dropdowns become inline on mobile. */ -}}
 <header class="site-header">
   <div class="container header-inner">
-    <a class="brand" href="{{ "/" | relURL }}" aria-label="AlumCasting — home">
-      <img src="{{ "images/alumcasting-mark.svg" | relURL }}" alt="AlumCasting" class="brand-logo" width="38" height="38">
+    <a class="brand" href="{{ partial "abspath.html" "/" }}" aria-label="AlumCasting — home">
+      <img src="{{ "images/alumcasting-mark.svg" | absURL }}" alt="AlumCasting" class="brand-logo" width="38" height="38">
       <span class="brand-name">AlumCasting</span>
     </a>
 
@@ -18,39 +19,35 @@
 
     <nav class="nav-menu" aria-label="Primary">
       <ul>
-        <li><a href="{{ "/" | relURL }}">Home</a></li>
+        <li><a href="{{ partial "abspath.html" "/" }}">Home</a></li>
         <li class="has-dropdown">
-          <a href="{{ "/manufacturing-capabilities/" | relURL }}" aria-haspopup="true">Capabilities <span class="caret">▾</span></a>
+          <a href="{{ partial "abspath.html" "/manufacturing-capabilities/" }}" aria-haspopup="true">Capabilities <span class="caret">▾</span></a>
           <ul class="dropdown">
-            <li><a href="{{ "/aluminum-die-casting/" | relURL }}">Aluminum Die Casting</a></li>
-            <li><a href="{{ "/magnesium-die-casting-services/" | relURL }}">Magnesium Die Casting</a></li>
-            <li><a href="{{ "/semi-solid-die-casting-heat-treatable-aluminum/" | relURL }}">Semi-Solid Casting</a></li>
-            <li><a href="{{ "/die-casting-tooling/" | relURL }}">Die Casting Tooling</a></li>
-            <li><a href="{{ "/precision-cnc-machining/" | relURL }}">Precision CNC Machining</a></li>
-            <li><a href="{{ "/surface-finishing-aluminum-magnesium-casting/" | relURL }}">Surface Finishing</a></li>
-            <li><a href="{{ "/porosity-control-x-ray-inspection-castings/" | relURL }}">Quality Inspection</a></li>
+            <li><a href="{{ partial "abspath.html" "/aluminum-die-casting/" }}">Aluminum Die Casting</a></li>
+            <li><a href="{{ partial "abspath.html" "/magnesium-die-casting-services/" }}">Magnesium Die Casting</a></li>
+            <li><a href="{{ partial "abspath.html" "/semi-solid-die-casting-heat-treatable-aluminum/" }}">Semi-Solid Casting</a></li>
+            <li><a href="{{ partial "abspath.html" "/die-casting-tooling/" }}">Die Casting Tooling</a></li>
+            <li><a href="{{ partial "abspath.html" "/precision-cnc-machining/" }}">Precision CNC Machining</a></li>
+            <li><a href="{{ partial "abspath.html" "/surface-finishing-aluminum-magnesium-casting/" }}">Surface Finishing</a></li>
+            <li><a href="{{ partial "abspath.html" "/porosity-control-x-ray-inspection-castings/" }}">Quality Inspection</a></li>
           </ul>
         </li>
-        <li><a href="{{ "/aluminum-die-casting/" | relURL }}">Aluminum Die Casting</a></li>
+        <li><a href="{{ partial "abspath.html" "/aluminum-die-casting/" }}">Aluminum Die Casting</a></li>
         <li class="has-dropdown">
-          <a href="{{ "/automotive-die-casting-parts/" | relURL }}" aria-haspopup="true">Industries <span class="caret">▾</span></a>
+          <a href="{{ partial "abspath.html" "/automotive-die-casting-parts/" }}" aria-haspopup="true">Industries <span class="caret">▾</span></a>
           <ul class="dropdown">
-            <li><a href="{{ "/automotive-die-casting-parts/" | relURL }}">Automotive</a></li>
-            <li><a href="{{ "/ev-battery-housing-die-casting/" | relURL }}">Electric Vehicles</a></li>
-            <li><a href="{{ "/medical-device-component-machining/" | relURL }}">Medical Equipment</a></li>
-            <li><a href="{{ "/custom-aluminum-die-casting-for-ev-powertrain-components/" | relURL }}">EV Powertrain</a></li>
-            <li><a href="{{ "/die-cast-aluminum-electric-motor-housing-suppliers/" | relURL }}">Motor Housings</a></li>
+            <li><a href="{{ partial "abspath.html" "/automotive-die-casting-parts/" }}">Automotive</a></li>
+            <li><a href="{{ partial "abspath.html" "/ev-battery-housing-die-casting/" }}">Electric Vehicles</a></li>
+            <li><a href="{{ partial "abspath.html" "/medical-device-component-machining/" }}">Medical Equipment</a></li>
+            <li><a href="{{ partial "abspath.html" "/custom-aluminum-die-casting-for-ev-powertrain-components/" }}">EV Powertrain</a></li>
+            <li><a href="{{ partial "abspath.html" "/die-cast-aluminum-electric-motor-housing-suppliers/" }}">Motor Housings</a></li>
           </ul>
         </li>
-        <li><a href="{{ "/about-alumcasting-die-casting-expert/" | relURL }}">About</a></li>
-        <li><a href="{{ "/blog/" | relURL }}">Blog</a></li>
-        <li><a href="{{ "/contact/" | relURL }}">Contact</a></li>
+        <li><a href="{{ partial "abspath.html" "/about-alumcasting-die-casting-expert/" }}">About</a></li>
+        <li><a href="{{ partial "abspath.html" "/blog/" }}">Blog</a></li>
+        <li><a href="{{ partial "abspath.html" "/contact/" }}">Contact</a></li>
       </ul>
-      <div class="mobile-cta">
-        <a class="btn btn-primary btn-lg" href="{{ "/contact/" | relURL }}">Request a Quote</a>
-      </div>
     </nav>
 
-    <a class="btn btn-primary header-cta" href="{{ "/contact/" | relURL }}">Request a Quote</a>
   </div>
 </header>

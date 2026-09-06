@@ -1,11 +1,10 @@
-{{- /* P.4.7 — image render hook.
-   Rewrites root-absolute /images/* destinations through relURL so static
-   assets resolve correctly on BOTH the production domain (alumcasting.com,
-   root) and the GitHub Pages subpath staging (diecasting.github.io/alumcasting/).
-   On production relURL("/images/x") == "/images/x" (no behaviour change);
-   on staging it becomes "/alumcasting/images/x" (fixes the 404s).
-   All referenced files already exist in static/images/. No placeholders. */ -}}
-<img src="{{ if hasPrefix .Destination "/" }}{{ .Destination | relURL }}{{ else }}{{ .Destination }}{{ end }}"
+{{- /* P.4.9.2 — image render hook.
+   CRITICAL: a LEADING-SLASH static path (/images/x.png) silently LOSES the
+   /alumcasting/ subpath under BOTH relURL and absURL (verified by direct eval:
+   absURL "/images/x" -> https://diecasting.github.io/images/x  -> 404 on GH Pages).
+   Fix: strip any leading slash, then absURL so the subpath is always present.
+   External http(s) destinations pass through unchanged. */ -}}
+<img src="{{ partial "imgurl.html" .Destination }}"
      {{- with .Text }} alt="{{ . }}"{{ end -}}
      {{- if .Title }} title="{{ .Title }}"{{ end -}}
      loading="lazy" decoding="async">

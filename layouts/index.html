@@ -1,34 +1,31 @@
 {{ define "main" }}
 <main class="home" id="main">
-  <section class="hero hero-home">
-    <div class="container hero-grid">
-      <div class="hero-copy">
-        <span class="hero-eyebrow">Aluminum Die Casting · HPDC · CNC Machining</span>
-        <h1>{{ .Title }}</h1>
-        {{- with .Description }}<p class="lede">{{ . }}</p>{{- end }}
-        <div class="hero-cta">
-          <a class="btn btn-accent btn-lg" href="{{ "/contact/" | relURL }}">Request a Quote</a>
-          <a class="btn btn-ghost btn-lg" href="{{ "/services/" | relURL }}">Explore Services</a>
-        </div>
-        <div class="hero-trust" aria-label="Certifications and process capabilities">
-          <span class="badge">IATF 16949</span>
-          <span class="badge">ISO 9001</span>
-          <span class="badge">HPDC</span>
-          <span class="badge">CNC Machining</span>
-        </div>
+  {{- /* HERO — full-width cover band (WordPress alum-hero parity).
+     NOT a left-text + right-image split. Background image + dark overlay +
+     centered container + H1 + text + CTA buttons, exactly like alumcasting.com. */ -}}
+  <section class="hero-band" aria-label="AlumCasting aluminum die casting">
+    <img class="hero-bg"
+         src="{{ "images/5000t-aluminum-die-casting-machine-large-structural-parts.webp" | absURL }}"
+         alt="" aria-hidden="true" fetchpriority="high">
+    <div class="hero-overlay" aria-hidden="true"></div>
+    <div class="container hero-content">
+      <span class="hero-eyebrow">Aluminum Die Casting · HPDC · CNC Machining</span>
+      <h1>{{ .Title }}</h1>
+      {{- with .Description }}<p class="lede">{{ . }}</p>{{- end }}
+      <div class="hero-cta">
+        <a class="btn btn-accent btn-lg" href="{{ partial "abspath.html" "/contact/" }}">Request a Quote</a>
+        <a class="btn btn-light btn-lg" href="{{ partial "abspath.html" "/services/" }}">Explore Services</a>
       </div>
-      <div class="hero-media">
-        <img src="{{ "images/5000t-aluminum-die-casting-machine-large-structural-parts.webp" | relURL }}"
-             alt="5000T aluminum die casting machine producing large structural parts" loading="eager">
+      <div class="hero-trust" aria-label="Certifications and process capabilities">
+        <span class="badge">IATF 16949</span>
+        <span class="badge">ISO 9001</span>
+        <span class="badge">HPDC</span>
+        <span class="badge">CNC Machining</span>
       </div>
     </div>
   </section>
 
   {{ partial "home-sections.html" . }}
-
-  <section class="container content home-overview" aria-label="Overview">
-    {{ .Content | replaceRE "<h1[^>]*>.*?</h1>" "" | safeHTML }}
-  </section>
 
   {{- partial "cta-band.html" . -}}
 </main>

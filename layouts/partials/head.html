@@ -8,7 +8,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ .Title }}</title>
-<link rel="canonical" href="{{ .Permalink }}">
+<link rel="canonical" href="{{ partial "produrl.html" .RelPermalink }}">
 {{- with .Params.robots }}<meta name="robots" content="{{ . }}">
 {{- end -}}
 {{- with .Description }}<meta name="description" content="{{ . }}">
@@ -19,7 +19,7 @@
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <meta property="og:title" content="{{ .Title }}">
 {{- with .Description }}<meta property="og:description" content="{{ . }}">{{ end -}}
-<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:url" content="{{ partial "produrl.html" .RelPermalink }}">
 {{- /* Twitter */ -}}
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="{{ .Title }}">
@@ -27,9 +27,9 @@
 {{- /* Structured data */ -}}
 {{- partial "seo-jsonld.html" . -}}
 {{- /* S.6-C.4-P.4 — global visual system (additive; SEO/JSON-LD untouched) */ -}}
-<link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
-<link rel="icon" href="{{ "images/alumcasting-mark.svg" | relURL }}" type="image/svg+xml">
-<link rel="apple-touch-icon" href="{{ "images/alumcasting-mark.svg" | relURL }}">
+<link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
+<link rel="icon" href="{{ "images/alumcasting-mark.svg" | absURL }}" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{{ "images/alumcasting-mark.svg" | absURL }}">
 {{- /* OpenGraph image — only when a real front-matter image exists (relURL-safe) */ -}}
-{{- with .Params.image }}<meta property="og:image" content="{{ . | relURL }}">
+{{- with .Params.image }}<meta property="og:image" content="{{ partial "abspath.html" . }}">
 <meta property="og:image:alt" content="{{ $.Title }}">{{ end -}}

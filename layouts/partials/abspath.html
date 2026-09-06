@@ -1,0 +1,11 @@
+{{- /* P.4.9.2 — subpath-safe ABSOLUTE internal-URL helper (links).
+   GitHub Pages serves this site at /alumcasting/. Hugo absURL/relURL SILENTLY
+   DROP the subpath for leading-slash inputs (verified by direct eval):
+     absURL "/foo/"  -> https://diecasting.github.io/foo/            (BROKEN: no /alumcasting)
+     absURL "foo/"   -> https://diecasting.github.io/alumcasting/foo/  (OK)
+   So we strip any leading slash, then absURL, guaranteeing the subpath is
+   always preserved. External http(s) pass through unchanged. Images should use
+   the imgurl.html helper (same logic, clearer name); this is for nav/links. */ -}}
+{{- $p := . -}}
+{{- if or (hasPrefix $p "http://") (hasPrefix $p "https://") }}{{ $p -}}
+{{- else }}{{ $p | strings.TrimPrefix "/" | absURL -}}{{ end -}}

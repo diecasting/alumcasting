@@ -145,7 +145,7 @@ p { margin: 0 0 1.05rem; }
 .brand-name { color: var(--color-primary); }
 
 .nav-menu { margin-left: auto; }
-.nav-menu ul {
+.nav-menu > ul {
   display: flex;
   align-items: center;
   gap: .15rem;
@@ -168,6 +168,11 @@ p { margin: 0 0 1.05rem; }
 }
 .nav-menu a.is-active { color: var(--color-primary); }
 .header-cta { margin-left: .6rem; white-space: nowrap; }
+/* Request a Quote is a HEADER CTA (desktop) / MOBILE CTA only — never a
+   main-menu item. Hide on desktop so it does not render as a spurious
+   extra entry inside the primary nav; the mobile media query reveals it
+   inside the expanded menu. */
+.mobile-cta { display: none; }
 
 /* mobile toggle (checkbox hack — keyboard accessible, JS-free) */
 .nav-toggle-cb {
@@ -246,16 +251,37 @@ p { margin: 0 0 1.05rem; }
 /* ============================================================================
    HERO
    ========================================================================== */
-.hero {
-  background: linear-gradient(160deg, var(--color-surface) 0%, #ffffff 72%);
-  border-bottom: 1px solid var(--color-border);
-  padding-block: clamp(2.5rem, 6vw, 4.5rem);
+/* ---- HERO — full-width cover band (P.4.9 WordPress alum-hero parity) ---- */
+.hero-band {
+  position: relative;
+  overflow: hidden;
+  background: var(--color-primary-darker);
+  color: #fff;
+  isolation: isolate;
 }
-.hero-grid {
-  display: grid;
-  grid-template-columns: 1.12fr .88fr;
-  gap: clamp(1.5rem, 4vw, 3rem);
-  align-items: center;
+.hero-bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -2;
+}
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background:
+    linear-gradient(180deg, rgba(11,31,58,.82) 0%, rgba(11,31,58,.90) 100%),
+    radial-gradient(120% 90% at 72% 18%, rgba(20,90,150,.40), transparent 60%);
+}
+.hero-content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  max-width: 880px;
+  margin-inline: auto;
+  padding-block: clamp(3.5rem, 9vw, 7rem);
 }
 .hero-eyebrow {
   display: inline-block;
@@ -263,31 +289,32 @@ p { margin: 0 0 1.05rem; }
   font-weight: 800;
   letter-spacing: .6px;
   text-transform: uppercase;
-  color: var(--color-secondary);
-  background: #E7F0F8;
-  padding: .35rem .8rem;
+  color: #fff;
+  background: rgba(249,115,22,.92);
+  padding: .35rem .9rem;
   border-radius: 999px;
-  margin-bottom: 1rem;
+  margin-bottom: 1.1rem;
 }
-.hero h1 {
+.hero-content h1 {
   margin: 0 0 1rem;
-  font-size: clamp(1.95rem, 4.4vw, 3.15rem);
-  line-height: 1.08;
+  font-size: clamp(2rem, 4vw, 2.7rem);
+  line-height: 1.1;
   letter-spacing: -.5px;
-  color: var(--color-primary-darker);
+  color: #fff;
 }
-.hero .lede {
+.hero-content .lede {
   font-size: clamp(1.02rem, 1.6vw, 1.22rem);
-  color: var(--color-text-muted);
-  margin-bottom: 1.6rem;
-  max-width: 56ch;
+  color: #D6E2F0;
+  margin: 0 auto 1.8rem;
+  max-width: 60ch;
 }
-.hero-cta { display: flex; flex-wrap: wrap; gap: .8rem; }
+.hero-cta { display: flex; flex-wrap: wrap; gap: .8rem; justify-content: center; }
 .hero-trust {
   display: flex;
   flex-wrap: wrap;
   gap: .5rem;
-  margin-top: 1.6rem;
+  justify-content: center;
+  margin-top: 1.7rem;
 }
 .hero-trust .badge {
   display: inline-flex;
@@ -295,25 +322,17 @@ p { margin: 0 0 1.05rem; }
   gap: .4rem;
   font-size: .82rem;
   font-weight: 700;
-  color: var(--color-primary);
-  background: #fff;
-  border: 1px solid var(--color-border);
+  color: #fff;
+  background: rgba(255,255,255,.12);
+  border: 1px solid rgba(255,255,255,.28);
   border-radius: 999px;
-  padding: .35rem .8rem;
+  padding: .35rem .85rem;
 }
 .hero-trust .badge::before {
   content: "";
   width: 8px; height: 8px;
   border-radius: 50%;
   background: var(--color-accent);
-}
-.hero-media img {
-  width: 100%;
-  border-radius: var(--radius-lg);
-  box-shadow: var(--shadow-lg);
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-  background: var(--color-surface);
 }
 
 /* page hero (interior pages) */
@@ -347,7 +366,7 @@ p { margin: 0 0 1.05rem; }
 }
 .section-title {
   text-align: center;
-  font-size: clamp(1.5rem, 3vw, 2.1rem);
+  font-size: clamp(1.5rem, 2.6vw, 1.9rem);
   margin: 0 0 .5rem;
   color: var(--color-primary-darker);
 }
@@ -455,6 +474,49 @@ a.card:hover .card-link { color: var(--color-accent-hover); }
 }
 .step-card h3 { margin: 0 0 .4rem; color: var(--color-primary-darker); font-size: 1.12rem; }
 .step-card p { margin: 0; color: var(--color-text-muted); font-size: .96rem; }
+
+/* ============================================================================
+   P.4.9 — GRID UTILITIES (enforce exact desktop column counts) + IMAGE CARDS
+   ========================================================================== */
+.grid-2 { grid-template-columns: repeat(2, 1fr); }
+.grid-3 { grid-template-columns: repeat(3, 1fr); }
+.grid-4 { grid-template-columns: repeat(4, 1fr); }
+.grid-5 { grid-template-columns: repeat(5, 1fr); }
+.card-grid.grid-3,
+.card-grid.grid-4,
+.card-grid.grid-5 { gap: 1.4rem; }
+
+/* image card (image + title + text + cta) — P.4.9 applications/cases fidelity */
+.img-card {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  color: var(--color-text);
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+a.img-card:hover {
+  text-decoration: none;
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--color-accent);
+}
+.img-card-thumb { aspect-ratio: 16 / 9; overflow: hidden; background: var(--color-surface); }
+.img-card-thumb img { width: 100%; height: 100%; object-fit: cover; }
+.img-card-body { padding: 1.25rem 1.35rem 1.45rem; display: flex; flex-direction: column; gap: .55rem; }
+.img-card-title { margin: 0; font-size: 1.12rem; color: var(--color-primary-darker); line-height: 1.3; }
+.img-card-text { margin: 0; color: var(--color-text-muted); font-size: .93rem; }
+a.img-card:hover .card-link { color: var(--color-accent-hover); }
+
+/* section-level CTA (P0-F density) */
+.section-cta { text-align: center; margin-top: 2.2rem; }
+
+/* band rhythm — every homepage section is a distinct full-width band */
+.home-band { position: relative; }
+.home-band + .home-band { border-top: 1px solid var(--color-border); }
 
 /* ============================================================================
    TRUST / CERT BAND
@@ -570,7 +632,7 @@ a.card:hover .card-link { color: var(--color-accent-hover); }
    ========================================================================== */
 .blog-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
 }
 .blog-card {
@@ -716,7 +778,7 @@ a.blog-card:hover .blog-link { color: var(--color-accent-hover); }
     padding: .5rem;
   }
   .nav-toggle-cb:checked ~ .nav-menu { display: block; }
-  .nav-menu ul { flex-direction: column; align-items: stretch; gap: 0; }
+  .nav-menu > ul { flex-direction: column; align-items: stretch; gap: 0; }
   .nav-menu a { display: block; padding: .85rem 1rem; border-bottom: 1px solid var(--color-border); }
   /* keep a prominent Request a Quote entry inside the mobile menu */
   .nav-menu .mobile-cta { display: block; margin-top: .4rem; }
@@ -736,6 +798,8 @@ a.blog-card:hover .blog-link { color: var(--color-accent-hover); }
   /* parity section stacking */
   .metrics-grid { grid-template-columns: repeat(2, 1fr); }
   .cert-grid { grid-template-columns: 1fr; }
+  .grid-2, .grid-3, .grid-4, .blog-grid { grid-template-columns: repeat(2, 1fr); }
+  .grid-5 { grid-template-columns: repeat(2, 1fr); }
 }
 
 @media (max-width: 560px) {
@@ -744,6 +808,8 @@ a.blog-card:hover .blog-link { color: var(--color-accent-hover); }
   .cta-inner { flex-direction: column; align-items: flex-start; }
   .cta-band .btn { width: 100%; }
   .hero-cta .btn { flex: 1 1 auto; }
+  .grid-2, .grid-3, .grid-4, .grid-5, .blog-grid { grid-template-columns: 1fr; }
+  .hero-content { padding-block: clamp(2.8rem, 12vw, 4rem); }
 }
 
 /* ============================================================================
@@ -845,7 +911,7 @@ a.blog-card:hover .blog-link { color: var(--color-accent-hover); }
 }
 .has-dropdown:hover > .dropdown,
 .has-dropdown:focus-within > .dropdown { display: block; }
-.dropdown li { list-style: none; }
+.dropdown li { list-style: none; display: block; width: 100%; }
 .dropdown a {
   display: block;
   padding: .6rem 1.1rem;

@@ -1,0 +1,12 @@
+{{- /* P.4.9.2 — production (alumcasting.com) absolute URL helper.
+   The staging build uses baseURL = https://diecasting.github.io/alumcasting/ so
+   internal links get the /alumcasting subpath; but SEO canonical/og:url/JSON-LD
+   MUST point at the production domain. This strips the GitHub Pages subpath and
+   prefixes https://alumcasting.com. Input must be a RelPermalink or /path string
+   (e.g. "/alumcasting/about/" -> "https://alumcasting.com/about/"). Absolute
+   http(s) URLs are passed through unchanged. Do NOT pass image paths (no leading
+   slash) — those use the imgurl helper instead. */ -}}
+{{- $prod := "https://alumcasting.com" -}}
+{{- $p := . -}}
+{{- if or (hasPrefix $p "http://") (hasPrefix $p "https://") }}{{ $p -}}
+{{- else }}{{ printf "%s%s" $prod (strings.TrimPrefix "/alumcasting" $p) -}}{{ end -}}

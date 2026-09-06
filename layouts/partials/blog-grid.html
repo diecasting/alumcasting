@@ -21,7 +21,7 @@
     {{- with $.Site.GetPage . -}}
       <a class="blog-card" href="{{ .RelPermalink }}">
         <div class="blog-thumb">
-          <img src="{{ index $imgs .File.ContentBaseName | default $default | relURL }}" alt="{{ .Title }}" loading="lazy" decoding="async">
+          <img src="{{ partial "imgurl.html" (index $imgs .File.ContentBaseName | default $default) }}" alt="{{ .Title }}" loading="lazy" decoding="async">
         </div>
         <div class="blog-body">
           <h3 class="blog-title">{{ .Title }}</h3>

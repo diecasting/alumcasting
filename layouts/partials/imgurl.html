@@ -1,0 +1,12 @@
+{{- /* Universal image-URL helper (P.4.9.2).
+   GitHub Pages serves this site at the /alumcasting/ repo subpath.
+   CRITICAL Hugo behavior (verified by direct eval):
+     absURL "/images/x.png"  -> https://diecasting.github.io/images/x.png        (NO subpath -> 404)
+     relURL "/images/x.png"  -> /images/x.png                                     (NO subpath -> 404)
+     absURL "images/x.png"   -> https://diecasting.github.io/alumcasting/images/x.png  (subpath OK)
+     relURL "images/x.png"   -> /alumcasting/images/x.png                        (subpath OK)
+   So a LEADING-SLASH static path silently loses the subpath. Fix: strip any
+   leading slash, then absURL. External http(s) URLs pass through unchanged. */ -}}
+{{- $p := . -}}
+{{- if or (hasPrefix $p "http://") (hasPrefix $p "https://") }}{{ $p -}}
+{{- else }}{{ $p | strings.TrimPrefix "/" | absURL -}}{{ end -}}

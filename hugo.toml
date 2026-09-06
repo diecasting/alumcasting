@@ -1,8 +1,12 @@
-# AlumCasting Hugo migration — development build (NOT production)
-# Production baseURL will change to https://alumcasting.com/ during cutover (S.6-C.x).
+# AlumCasting Hugo migration — STAGING build on GitHub Pages (project subpath).
+# baseURL must include the /alumcasting/ repo subpath so all internal links resolve
+# on https://diecasting.github.io/alumcasting/ (GitHub Pages project sites serve at
+# the repo subpath, NOT root). CI still overrides with --baseURL "$pages.base_url/"
+# (identical value) for robustness. During production cutover (S.6-C.x) this becomes
+# https://alumcasting.com/.
 # Hugo Extended version is pinned in .github/workflows/deploy.yml (0.163.3).
 
-baseURL = "https://alumcasting.com/"
+baseURL = "https://diecasting.github.io/alumcasting/"
 title = "AlumCasting"
 
 defaultContentLanguage = "en"
