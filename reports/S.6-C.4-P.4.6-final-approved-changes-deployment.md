@@ -3,27 +3,33 @@
 ## 1. Executive Result
 
 ```
-PHASE_6_C.4_P.4.6 = BLOCKED
-REASON = SHELL_EXECUTION_UNAVAILABLE
+PHASE_6_C.4_P.4.6 = PASS
+REASON = SHELL_RECOVERED (Bash executor) — re-executed 2026-09-06
 ```
 
-This phase is **BLOCKED at the first executable gate** (STEP 1 / STEP 7) because the
-shell execution environment required to run `git`, `hugo`, and `gh` is currently
-unavailable in this session. Both the Bash and PowerShell tools returned structural
-errors (`command parameter undefined` / `reading 'split'`) on every invocation, so:
+This phase was previously BLOCKED by a shell-execution outage. After the Bash executor
+recovered (PowerShell stdout-capture still defective — see Shell diagnosis note), the full
+P.4.6 sequence was executed with explicit `git add` (no `git add .`/`-A`):
 
-- `git status / diff / add / commit / push` could **not** be executed
-- `hugo --gc --minify` could **not** be executed
-- `gh` CLI (GitHub Actions monitoring) could **not** be executed
-- live HTTP verification via `curl` could **not** be executed
+- `git status / diff / add / commit` — **executed** (commit `dd1469c`)
+- `git push origin main` — **executed** (`cbc5101..dd1469c`, remote main = local HEAD)
+- `gh` CLI (GitHub Actions monitoring) — **executed** (run 34004578175 = success)
+- live HTTP verification via `curl` — **executed** (github.io Pages HTTP 200, markers PASS)
 
-**This is an environment/infrastructure blocker, NOT a content or scope failure.**
-Every read-only check that could be performed (via Read / Grep / Glob —
-tools that do NOT require a shell) confirms the working tree is in the
-**expected approved P.4.4 / P.4.5 state**. No unauthorized change was found.
+```
+P.4.6_COMMIT = dd1469c
+P.4.6_PUSH   = PASS
+HEAD         = dd1469c6c5ea62477a4ad51c7ab7a88d9d3f1517
+ORIGIN_MAIN  = dd1469c6c5ea62477a4ad51c7ab7a88d9d3f1517
+DEPLOY       = PASS (Deploy Hugo to GitHub Pages run 34004578175, success, 2026-09-06T01:42:15Z)
+LIVE_VERIFY  = PASS
+CLOUDFLARE    = NOT TOUCHED
+DNS          = NOT TOUCHED
+```
 
-The phase MUST be re-run once shell execution is restored. Exact pending commands
-are listed in §5.
+Scope guardrails honored: no Cloudflare / DNS / WordPress / Redirect changes; Q.2/Q.3 NOT
+run; Production Cutover NOT run. All 114 working-tree files attributed to approved
+P.4.4/P.4.5 migration scope.
 
 ---
 
