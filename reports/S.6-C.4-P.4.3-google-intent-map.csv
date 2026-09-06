@@ -1,0 +1,39 @@
+query_intent,intent_type,current_url,match_status,business_value,ads_ready,organic_ready,rfq_ready,gap,recommended_action,priority
+aluminum die casting manufacturer,COMMERCIAL_MANUFACTURER,/aluminum-die-casting/,GOOD_MATCH,High,YES,YES,LINK (CTA to /contact/),Flagship LP has no embedded RFQ form (CTA link only),Embed RFQ form on flagship service LPs,P1
+aluminum die casting supplier,COMMERCIAL_MANUFACTURER,/aluminum-die-casting/,GOOD_MATCH,High,YES,YES,LINK (CTA to /contact/),No embedded form on flagship LP,Embed RFQ form on flagship service LPs,P1
+aluminum die casting company,COMMERCIAL_MANUFACTURER,/aluminum-die-casting/,GOOD_MATCH,Medium,YES,YES,LINK (CTA to /contact/),Generic variant; same LP,No change,P2
+aluminum die casting services,COMMERCIAL_MANUFACTURER,/services/,EXACT,High,YES,YES,LINK (CTA to /contact/),Hub page; no embedded form,Embed RFQ form or strengthen CTA,P2
+aluminum die casting factory,COMMERCIAL_MANUFACTURER,/large-scale-5000t-aluminum-die-casting-factory-china/,GOOD_MATCH,Medium,YES,YES,LINK (CTA to /contact/),China-factory angle LP; no embedded form,Embed RFQ form,P2
+5000 ton aluminum die casting,CAPABILITY,/large-scale-5000t-aluminum-die-casting-factory-china/,EXACT,High,YES,YES,LINK (CTA to /contact/),Strong 5000T LP exists; no embedded form,Embed RFQ form,P2
+large aluminum die casting,CAPABILITY,/large-scale-5000t-aluminum-die-casting-factory-china/,GOOD_MATCH,Medium,YES,YES,LINK (CTA to /contact/),Covered by 5000T LP,No change,P2
+large structural die casting,CAPABILITY,(none),MISSING_LANDING_PAGE,High,NO,NO,NO,No dedicated structural LP; 5000T page partially covers,RECOMMENDED_NEW_LP only after verifying structural-capability facts (DEFERRED_FACT_VERIFICATION),P1
+high pressure die casting,CAPABILITY,/high-pressure-die-casting-process-quality/,PARTIAL_MATCH,High,PARTIAL,YES,YES (embedded form),"Process page is quality-focused, not a service LP; service LP is /aluminum-die-casting/",Cross-link HPDC service intent to /aluminum-die-casting/,P2
+HPDC manufacturer,CAPABILITY,/aluminum-die-casting/,GOOD_MATCH,Medium,YES,YES,LINK (CTA to /contact/),Covered by aluminum LP,No change,P2
+A380 die casting,MATERIAL,/380-aluminum-die-casting-service/,EXACT,High,YES,YES,YES (embedded form),Dedicated A380 LP with embedded form,No change,P3
+A356 die casting,MATERIAL,/a356-aluminum-die-casting-porosity-control/,PARTIAL_MATCH,Medium,NO,PARTIAL,YES (embedded form),LP H1 is editorial ('Battle on the Shop Floor') -> intent mismatch for commercial query; no pure A356 service LP,Create separate A356 commercial LP OR adjust H1; keep educational as supporting,P1
+ADC12 die casting,MATERIAL,/adc12-die-casting-cnc-machining/,EXACT,Medium,YES,YES,YES (embedded form),Dedicated ADC12 LP with embedded form,No change,P3
+magnesium die casting,MATERIAL,/magnesium-die-casting-services/,EXACT,High,YES,YES,LINK (CTA to /contact/),Flagship magnesium LP has no embedded form,Embed RFQ form on magnesium LP,P1
+AM60B die casting,MATERIAL,/am60b-magnesium-alloy-die-casting-suppliers/,EXACT,Medium,YES,YES,YES (embedded form),Dedicated AM60B LP with embedded form,No change,P3
+AZ91D die casting,MATERIAL,/az91d-magnesium-die-casting-automotive-parts/,EXACT,Medium,YES,YES,YES (embedded form),Dedicated AZ91D LP with embedded form,No change,P3
+semi solid die casting,PROCESS,/semi-solid-die-casting-heat-treatable-aluminum/,EXACT,Medium,YES,YES,YES (embedded form),SSM LP with embedded form,No change,P3
+SSM die casting,PROCESS,/semi-solid-die-casting-heat-treatable-aluminum/,EXACT,Low,YES,YES,YES (embedded form),Covered,No change,P3
+cold chamber die casting,PROCESS,/cold-chamber-die-casting-services/,EXACT,High,YES,YES,YES (embedded form),Dedicated cold-chamber LP with embedded form,No change,P3
+aluminum die casting process,PROCESS,/high-pressure-die-casting-process-quality/,PARTIAL_MATCH,Medium,PARTIAL,YES,YES (embedded form),Process/quality page; commercial 'process' intent partly served,Cross-link to service LPs,P2
+porosity control die casting,QUALITY,/porosity-control-x-ray-inspection-castings/,EXACT,Medium,YES,YES,LINK (CTA to /contact/),Quality LP; no embedded form,Embed RFQ form or strengthen CTA,P2
+X-ray inspection castings,QUALITY,/porosity-control-x-ray-inspection-castings/,EXACT,Medium,YES,YES,LINK (CTA to /contact/),Quality LP; no embedded form,Embed RFQ form,P2
+IATF die casting supplier,QUALITY,/iatf-16949-high-tolerance-automotive-cnc-machining-supplier/,PARTIAL_MATCH,Medium,PARTIAL,PARTIAL,YES (embedded form),"Only IATF-dedicated page is CNC-focused, not die casting; IATF proof on die casting LPs is weak/low-frequency",Strengthen IATF 16949 proof blocks on die casting service LPs,P1
+PPAP die casting supplier,QUALITY,(none),MISSING_LANDING_PAGE,Medium,NO,NO,NO,PPAP mentioned on 6 pages but no dedicated PPAP proof/landing; commercial PPAP intent unserved,ADD_PPAP_PROOF_BLOCK to service LPs (not full thin LP),P2
+automotive die casting,INDUSTRY,/automotive-die-casting-parts/,EXACT,High,YES,YES,LINK (CTA to /contact/),Strong automotive LP; no embedded form,Embed RFQ form,P1
+EV die casting,INDUSTRY,/ev-battery-housing-die-casting/,GOOD_MATCH,Medium,YES,YES,LINK (CTA to /contact/),EV battery-housing LP; no embedded form,Embed RFQ form,P1
+battery housing die casting,INDUSTRY,/ev-battery-housing-die-casting/,EXACT,High,YES,YES,LINK (CTA to /contact/),Dedicated battery-housing LP; no embedded form,Embed RFQ form,P1
+medical die casting,INDUSTRY,/precision-die-casting-medical-equipment/,EXACT,Medium,YES,YES,YES (embedded form),P.3 medical LP with embedded form,No change,P3
+electronics die casting,INDUSTRY,(none),MISSING_LANDING_PAGE,Medium,NO,NO,NO,No electronics-specific page; creating now would be thin (no dedicated facts),DO_NOT_CREATE; revisit if electronics case studies added,P2
+industrial die casting,INDUSTRY,/explosion-proof-aluminum-enclosures-oil-gas-industry/,PARTIAL_MATCH,Medium,PARTIAL,PARTIAL,YES (embedded form),Only oil&gas niche; no broad industrial LP,DO_NOT_CREATE (thin risk); expand existing industrial proof if facts arise,P2
+die casting tooling mold,CAPABILITY,/die-casting-tooling/,EXACT,Medium,YES,YES,LINK (CTA to /contact/),Tooling LP; no embedded form,Embed RFQ form,P2
+CNC machining aluminum,CAPABILITY,/precision-cnc-machining/,EXACT,Medium,YES,YES,LINK (CTA to /contact/),CNC LP; no embedded form,Embed RFQ form,P2
+aluminum die casting China,COMMERCIAL_MANUFACTURER,/large-scale-5000t-aluminum-die-casting-factory-china/,GOOD_MATCH,Medium,YES,YES,LINK (CTA to /contact/),Geo-factory LP; no embedded form,Embed RFQ form,P2
+vacuum die casting,PROCESS,/vacuum-assisted-die-casting-vs-conventional-hpdc-air-tightness/,PARTIAL_MATCH,Low,NO,PARTIAL,LINK (CTA to /contact/),Comparison article; editorial H1; not a commercial LP,Keep as supporting; do not use as Ads LP,P2
+thin wall die casting,CAPABILITY,/thin-wall-die-casting-tooling/,EXACT,Low,YES,YES,YES (embedded form),Dedicated thin-wall LP with embedded form,No change,P3
+sand casting,SERVICE,/sand-casting-services/,EXACT,Medium,YES,YES,YES (embedded form),Dedicated sand-casting LP with embedded form,No change,P3
+gravity die casting,SERVICE,/gravity-die-casting-manufacturer/,EXACT,Medium,YES,YES,LINK (CTA to /contact/),Dedicated gravity LP; no embedded form,Embed RFQ form,P2
+zinc die casting,SERVICE,/zinc-die-casting-services/,EXACT,Medium,YES,YES,YES (embedded form),Dedicated zinc LP with embedded form,No change,P3

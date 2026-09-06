@@ -31,7 +31,7 @@ For a complete overview of our magnesium alloy program, see our [am60b magnesium
 
  However, unlike AZ91D, AM60B contains less aluminum. This reduction dramatically narrows its freezing range, drastically lowering its fluid flow characteristics while significantly elevating its susceptibility to hot tearing. If your supplier approaches AM60B with a standard aluminum mindset, your scrap rates will skyrocket due to cold shuts and localized shrinkage fractures. It demands massive locking forces and sophisticated thermal balancing.
 
-![5000T Large Scale High Pressure Die Casting Machine for AM60B Magnesium Structural Automotive Components](https://alumcasting.com/wp-content/uploads/2022/10/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+![5000T Large Scale High Pressure Die Casting Machine for AM60B Magnesium Structural Automotive Components](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 Figure 1: Our Giga-scale 5000T high-pressure die casting cell handles thin-walled, large-scale automotive structural elements with localized thermal management.
 
 ## The Shop Floor Reality: Defeating Micro-Porosity in Safety Components
@@ -40,17 +40,17 @@ Figure 1: Our Giga-scale 5000T high-pressure die casting cell handles thin-walle
 
  At these velocities, managing internal air entrapment is everything. We tackle this by implementing a closed-loop multi-stage vacuum system paired with ultra-precise real-time shot sleeve monitoring. If there is even a fractional variance in gas relief, the batch is instantly flagged. We don’t guess about internal structural integrity; we run extensive internal radiographies to maintain an absolute grip over our [porosity control X-ray inspections](/porosity-control-x-ray-inspection-castings/).
 
-![In-line Radiographic X-Ray Defect Testing for AM60B Magnesium Automotive Castings](https://alumcasting.com/wp-content/uploads/2026/05/X-Ray-Detector.webp)
+![In-line Radiographic X-Ray Defect Testing for AM60B Magnesium Automotive Castings](/images/X-Ray-Detector.webp)
 Figure 2: Real-time X-ray screening checks the sub-surface density of every AM60B component to safeguard critical ductility requirements.
 
 ## Execution is Everything: From Molten Ingot to Fully Machined Assembly
 
  Elite B2B buyers don’t have the time to audit three separate vendors for casting, machining, and chemical passivation. Any transportation of raw magnesium parts across external logistics networks invites atmospheric humidity, leading to quick oxidation flaws. Alumcasting bypasses this bottleneck completely through our highly integrated [one-stop die casting, CNC machining, and surface finishing](/one-stop-die-casting-cnc-machining-surface-finishing/) infrastructure based in our Dongguan industrial facilities.
 
-![High Precision CNC Automotive Post-Casting Machining Matrix](https://alumcasting.com/wp-content/uploads/2026/05/High-Precision-CNC-Wokshop.webp)
+![High Precision CNC Automotive Post-Casting Machining Matrix](/images/High-Precision-CNC-Wokshop.webp)
 Figure 3: Multi-axis high-speed CNC clusters maintain critical dimensions under tight tolerances.
 
-![Automated Surface Finishing Line for Magnesium Corrosion Prevention](https://alumcasting.com/wp-content/uploads/2026/05/SureTech-650-Surface-treatment.webp)
+![Automated Surface Finishing Line for Magnesium Corrosion Prevention](/images/SureTech-650-Surface-treatment.webp)
 Figure 4: Automated surface line executing advanced eco-compliant anti-corrosion treatments.
 
  When executing secondary operations via our specialized [high tolerance automotive CNC machining](/high-tolerance-automotive-cnc-machining/) clusters, custom clamping arrays are mandatory. Because magnesium possesses a lower modulus of elasticity, generic pneumatic clamps will distort the thin-wall profile, altering part symmetry and causing head-scratching alignment errors during final Tier-1 vehicle integration.
@@ -59,15 +59,15 @@ Figure 4: Automated surface line executing advanced eco-compliant anti-corrosion
 
  We don’t manage quality via spot-checks; we run an unyielding, data-driven manufacturing ecosystem. For complex structural conversions, our engineering division crafts detailed [mold cost-down DFM analyses](/how-dfm-analysis-reduces-die-casting-costs/) long before cutting steel, optimizing venting paths and minimizing structural stress points.
 
-![Automated Zeiss CMM Dimensional Verification Center](https://alumcasting.com/wp-content/uploads/2026/05/CMM-Inspection-Equipment.webp)
+![Automated Zeiss CMM Dimensional Verification Center](/images/CMM-Inspection-Equipment.webp)
 Figure 5: Temperature-controlled computerized metrology lab validating coordinate geometric accuracy.
 
-![High Sensitivity Sealing and Fluid Leakage Testing Matrix](https://alumcasting.com/wp-content/uploads/2026/05/Leakaging-Testing-Equipment.webp)
+![High Sensitivity Sealing and Fluid Leakage Testing Matrix](/images/Leakaging-Testing-Equipment.webp)
 Figure 6: Custom differential pneumatic leak testing to secure hermetic integrity in hollow assemblies.
 
  Our production plant functions completely under a validated [IATF 16949 manufacturing supplier system](/iatf-16949-high-tolerance-automotive-cnc-machining-supplier/). Every batch of raw ingots undergoes chemical spectrographic analysis to check exact manganese-to-aluminum proportions, preventing trace elements from spoiling the component’s elongation qualities.
 
-![IATF 16949 Global Automotive Quality Certification Badge Alumcasting](https://alumcasting.com/wp-content/uploads/2026/05/TF1949-ISO9001-Certification.webp)
+![IATF 16949 Global Automotive Quality Certification Badge Alumcasting](/images/TF1949-ISO9001-Certification.webp)
 Figure 7: Full IATF 16949 and ISO 9001 international alignment guarantees worry-free global deployment.
 
 ### Let’s Sidestep the Sales Talk. Speak to Our Lead Engineers Today.

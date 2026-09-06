@@ -62,12 +62,12 @@ By completing intricate geometric cutting paths—such as complex split-lines, d
 - Simultaneous multi-axis paths ensuring Class-A geometric surface integration.
 - Automated localized tool-wear trackers executing micron-level offset indexing.
 
-![Multi-Axis High-Tolerance Automotive CNC Machining Cell](https://alumcasting.com/wp-content/uploads/2026/03/precision-multi-axis-cnc-machining-tight-tolerance-parts.webp)
+![Multi-Axis High-Tolerance Automotive CNC Machining Cell](/images/precision-multi-axis-cnc-machining-tight-tolerance-parts.webp)
 **Hank’s Floor Log: Controlling Thermal Distortion in EV Housings**
 
 “When machining large-scale thin-walled aluminum components like integrated [EV battery housing structures](/ev-battery-housing-die-casting/), the primary engineering enemy is residual thermal stress. A temporary temperature jump of just 5°C on the machine bed can pull a long bearing bore completely out of its ±0.015mm geometric true-position profile. We overcome this by utilizing continuous high-volume chilled flood coolants paired with specialized high-feed carbide cutters to move 90% of the friction heat directly into the escaping metal chips, protecting the metal’s internal grain boundaries.”
 
-![High Tolerance Machined Automotive Structural Casting Parts](https://alumcasting.com/wp-content/uploads/2026/03/lightweight-magnesium-die-casting-3c-aerospace-parts.webp)
+![High Tolerance Machined Automotive Structural Casting Parts](/images/lightweight-magnesium-die-casting-3c-aerospace-parts.webp)
 ### Metallurgical Material Mastery in Dynamic Sourcing
 
 Securing stable **high-tolerance automotive CNC machining** outcomes requires a deep understanding of structural metallurgy. Different structural alloys behave distinctively under aggressive shearing forces. For example, high-fluidity cast structures can harbor hidden tensile stresses that risk distorting immediately once the outer metal layer is broken during roughing.

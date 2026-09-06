@@ -2,7 +2,7 @@
 # Production baseURL will change to https://alumcasting.com/ during cutover (S.6-C.x).
 # Hugo Extended version is pinned in .github/workflows/deploy.yml (0.163.3).
 
-baseURL = "https://diecasting.github.io/alumcasting/"
+baseURL = "https://alumcasting.com/"
 title = "AlumCasting"
 
 defaultContentLanguage = "en"

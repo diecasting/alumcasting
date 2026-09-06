@@ -1,5 +1,19 @@
 {{ define "main" }}
-  <article>
-    {{ .Content }}
-  </article>
+<main class="page" id="main">
+  <header class="page-hero">
+    <div class="container">
+      {{- if eq .Params.schema_type "Article" }}<span class="article-meta">Technical Article</span>{{ end -}}
+      <h1>{{ .Title }}</h1>
+      {{- with .Description }}<p class="lede">{{ . }}</p>{{- end }}
+      {{- with .Params.cta }}<a class="btn btn-accent btn-lg" href="{{ $.Params.cta_url | relURL }}">{{ . }}</a>{{- end }}
+    </div>
+  </header>
+
+  <div class="container content">
+    {{ .Content | replaceRE "<h1[^>]*>.*?</h1>" "" | safeHTML }}
+  </div>
+
+  {{- partial "related-cards.html" . -}}
+  {{- partial "cta-band.html" . -}}
+</main>
 {{ end }}

@@ -1,0 +1,29 @@
+{{- /* S.6-C.4-P.4 global header. Semantic <header>/<nav>. Mobile menu is a
+   keyboard-accessible checkbox toggle (no JS). All links via relURL so they
+   resolve to the active baseURL (production = alumcasting.com, never
+   /alumcasting/ or diecasting.github.io). */ -}}
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="{{ "/" | relURL }}" aria-label="AlumCasting — home">
+      <img src="{{ "images/KingShip-Logo.webp" | relURL }}" alt="AlumCasting" class="brand-logo" width="34" height="34">
+      <span class="brand-name">AlumCasting</span>
+    </a>
+
+    <input type="checkbox" id="nav-toggle" class="nav-toggle-cb" aria-label="Toggle navigation menu">
+    <label for="nav-toggle" class="nav-toggle" aria-hidden="true">
+      <span></span><span></span><span></span>
+    </label>
+
+    <nav class="nav-menu" aria-label="Primary">
+      <ul>
+        <li><a href="{{ "/" | relURL }}">Home</a></li>
+        <li><a href="{{ "/services/" | relURL }}">Services</a></li>
+        <li><a href="{{ "/aluminum-die-casting/" | relURL }}">Die Casting</a></li>
+        <li><a href="{{ "/automotive-die-casting-parts/" | relURL }}">Industries</a></li>
+        <li><a href="{{ "/about-alumcasting-die-casting-expert/" | relURL }}">About</a></li>
+      </ul>
+    </nav>
+
+    <a class="btn btn-primary header-cta" href="{{ "/contact/" | relURL }}">Request a Quote</a>
+  </div>
+</header>

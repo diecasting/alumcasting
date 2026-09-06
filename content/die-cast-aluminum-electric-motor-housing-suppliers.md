@@ -40,17 +40,17 @@ Securing high-integrity powertrain components requires working with an engineeri
 
 We do not manage production runs using guesswork. Our plant operates heavy-duty casting machinery paired with strict inspection tools to ensure every enclosure meets drawing limits.
 
-![Large scale 5000-ton high pressure aluminum die casting machine producing structural automotive components](https://alumcasting.com/wp-content/uploads/2022/10/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+![Large scale 5000-ton high pressure aluminum die casting machine producing structural automotive components](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 #### High-Pressure Production Cells
 
 We operate dedicated, large-scale injection infrastructure, including our automated [large scale 5000t aluminum die casting factory China](/large-scale-5000t-aluminum-die-casting-factory-china/) line, to handle the massive projected surface areas and complex [large-scale aluminum die casting expertise](/large-scale-aluminum-die-casting-expertise/) footprints required by multi-kilowatt EV motor shells.
 
-![Multi axis Zeiss CMM metrology equipment scanning bearing concentricity on a cast stator housing](https://alumcasting.com/wp-content/uploads/2026/05/CMM-Inspection-Equipment.webp)
+![Multi axis Zeiss CMM metrology equipment scanning bearing concentricity on a cast stator housing](/images/CMM-Inspection-Equipment.webp)
 #### Zeiss CMM Geometric Controls
 
 Using our temperature-stable **Zeiss CMM metrology systems**, we measure stator bore concentricity and axis parallelism down to **±0.001 mm**, satisfying strict [high tolerance automotive CNC machining](/high-tolerance-automotive-cnc-machining/) standards on every part batch.
 
-![Digital real-time industrial X-ray non-destructive inspection bay scanning aluminum casting sub-surface cavities](https://alumcasting.com/wp-content/uploads/2026/05/X-Ray-Detector.webp)
+![Digital real-time industrial X-ray non-destructive inspection bay scanning aluminum casting sub-surface cavities](/images/X-Ray-Detector.webp)
 #### Sub-Surface Radiographic Grading
 
 Every critical batch of motor frames undergoes inspection through our real-time [porosity control x-ray inspection castings](/porosity-control-x-ray-inspection-castings/) station to check subsurface density before the parts proceed to our high-speed machining loops.
@@ -69,19 +69,19 @@ By evaluating these parameters during early design stages, we can suggest geomet
 ### Q1: How do you achieve true air-tightness in motor housings with integrated cooling channels?
 
 A: Entrapped gas is the enemy of pressure-tight parts. We resolve this by running specialized [vacuum assisted die casting vs conventional hpdc air tightness](/vacuum-assisted-die-casting-vs-conventional-hpdc-air-tightness/) protocols. By drawing a deep vacuum inside the mold cavity below 50 mbar before injection, we prevent turbulent air mixing. This step ensures clean metal structures that consistently pass 100% differential pressure leak tests.
-![High precision differential pressure leak testing machine checking an aluminum motor enclosure jacket](https://alumcasting.com/wp-content/uploads/2026/05/Leakaging-Testing-Equipment.webp)
+![High precision differential pressure leak testing machine checking an aluminum motor enclosure jacket](/images/Leakaging-Testing-Equipment.webp)
 ### Q2: Why must high-voltage motor housings pass strict ASTM E155 standard X-ray porosity grading?
 
 A: Subsurface voids act as stress risers. Under the continuous vibration of an electric vehicle drivetrain, hidden micro-pores can turn into fatigue cracks. We inspect critical structural locations to the **ASTM E155 standard X-ray porosity** grading matrix, rejecting any components that exceed Class 2 specifications to guarantee long-term field reliability. Learn more about our specialized systems by reading about our [5 methods to eliminate porosity in aluminum pressure die casting](/5-methods-eliminate-porosity-aluminum-pressure-die-casting/).
-![High resolution X-ray view exhibiting micro-porosity control inside an A356 structural alloy casting component](https://alumcasting.com/wp-content/uploads/2026/06/A356-aluminum-die-casting-porosity-control.webp)
+![High resolution X-ray view exhibiting micro-porosity control inside an A356 structural alloy casting component](/images/A356-aluminum-die-casting-porosity-control.webp)
 ### Q3: What methods do you use to protect raw aluminum motor enclosures from galvanic environmental corrosion?
 
 A: Electric powertrains are frequently exposed to harsh environment cycles, creating a risk for micro-galvanic oxidation where the housing connects with different steel fasteners. We protect these critical assembly points by managing parts through a continuous wash and surface line using specialized [surface finishing aluminum magnesium casting](/surface-finishing-aluminum-magnesium-casting/) chemical controls. This process provides an even conversion coat that seals the metal surface.
-![SureTech 650 industrial surface treatment chemical tank managing chemical conversion coatings on aluminum parts](https://alumcasting.com/wp-content/uploads/2026/05/SureTech-650-Surface-treatment.webp)
+![SureTech 650 industrial surface treatment chemical tank managing chemical conversion coatings on aluminum parts](/images/SureTech-650-Surface-treatment.webp)
 ### Q4: Can semi-solid processing be utilized for high-output electric motor stator frames?
 
 A: Absolutely. While high-pressure casting is ideal for thin-walled parts, our [semi solid die casting manufacturers](/semi-solid-die-casting-manufacturers/) workflow offers a distinct alternative for heavy structural variants. By injecting aluminum in a thick, semi-solid state, we avoid air entrapment entirely, delivering dense parts capable of full T6 structural heat treatments. For an expert breakdown of the processes, check out our guide on [a356 semi-solid casting benefits](/a356-semi-solid-casting-benefits-expert-guide/).
-![Metallographic microstructure view showcasing uniform globular silicon distribution achieved via semi-solid casting](https://alumcasting.com/wp-content/uploads/2026/06/semi-solid-casting-microstructure-vs-xray-porosity-test.webp)
+![Metallographic microstructure view showcasing uniform globular silicon distribution achieved via semi-solid casting](/images/semi-solid-casting-microstructure-vs-xray-porosity-test.webp)
 ## Tired of Procurement Delays and Porosity Rejections?
 
 Submit your engineering documentation directly to an experienced shop floor team. Whether you are dealing with challenging stator dimensions or developing an integrated [liquid cooled aluminum cooling plates for electric vehicles](/liquid-cooled-aluminum-cooling-plates-for-electric-vehicles/) assembly, we will provide a comprehensive DFM study and formal quotation within 48 business hours. We are fully equipped as an [IATF 16949 high tolerance automotive CNC machining supplier](/iatf-16949-high-tolerance-automotive-cnc-machining-supplier/) to back your global tracking needs.

@@ -1,5 +1,28 @@
 {{ define "main" }}
-  <main>
-    {{ .Content }}
-  </main>
+<main class="home" id="main">
+  <section class="hero hero-home">
+    <div class="container hero-grid">
+      <div class="hero-copy">
+        <h1>{{ .Title }}</h1>
+        {{- with .Description }}<p class="lede">{{ . }}</p>{{- end }}
+        <div class="hero-cta">
+          <a class="btn btn-accent btn-lg" href="{{ "/contact/" | relURL }}">Request a Quote</a>
+          <a class="btn btn-ghost btn-lg" href="{{ "/services/" | relURL }}">Explore Services</a>
+        </div>
+      </div>
+      <div class="hero-media">
+        <img src="{{ "images/5000t-aluminum-die-casting-machine-large-structural-parts.webp" | relURL }}"
+             alt="5000T aluminum die casting machine producing large structural parts" loading="eager">
+      </div>
+    </div>
+  </section>
+
+  {{ partial "home-sections.html" . }}
+
+  <section class="container content home-overview" aria-label="Overview">
+    {{ .Content | replaceRE "<h1[^>]*>.*?</h1>" "" | safeHTML }}
+  </section>
+
+  {{- partial "cta-band.html" . -}}
+</main>
 {{ end }}

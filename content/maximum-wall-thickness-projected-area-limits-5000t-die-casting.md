@@ -23,7 +23,7 @@ related_services:
 
 In the world of modern manufacturing, especially with the surge of gigacasting and structural integration for electric vehicles, the call for massive machines like a 5000T press is louder than ever. However, running a 5000T machine isn’t just about ‘scaling up’ your old 800T mindset. It introduces a completely different dynamic between hydraulic clamping force, fluid flow velocity, heat dissipation rates, and thermal contraction stress.
 
-![5000T Cold Chamber Aluminum Die Casting Machine](https://alumcasting.com/wp-content/uploads/2022/10/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+![5000T Cold Chamber Aluminum Die Casting Machine](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 Figure 1: Our 5000T cold chamber die casting floor running large-scale structural components in China.
 
 ## The 5000T Clamping Force vs. Projected Area Paradox
@@ -41,7 +41,7 @@ In traditional [high pressure die casting process quality](/high-pressure-die-ca
 - **The Maximum Wall Thickness Limit:** Ideally, you want to keep local maximum wall sections under **5.0 mm to 6.0 mm**. Anything reaching 8.0 mm or above turns into a thermal nightmare inside the die steel. It creates isolated hotspots that remain molten long after the perimeter has frozen, triggering severe internal shrink cavities.
 - **The Minimum Wall Thickness Battle:** Conversely, because the projected area is so huge on a 5000T press, the flow length is incredibly long. If your wall is uniformly 2.0 mm across a 1.2-meter-long part, the aluminum will freeze before reaching the furthest rib, causing cold shuts. You generally need a minimum of **2.5 mm to 3.5 mm** base walls for large structural integrity.
 
-![Porosity Control X-Ray Inspection for Castings](https://alumcasting.com/wp-content/uploads/2026/05/X-Ray-Detector.webp)
+![Porosity Control X-Ray Inspection for Castings](/images/X-Ray-Detector.webp)
 Figure 2: Real-time X-Ray inspection detects deep-seated shrinkage porosity caused by improper thickness balances.
 
 To overcome these harsh limitations without adding unnecessary weight, we often implement advanced rheocasting. If you are struggling with thermal balancing, look into our insights on [rheocasting vs conventional HPDC cost analysis](/rheocasting-vs-conventional-hpdc-cost-analysis/). Semi-solid metals flow like toothpaste rather than liquid water, allowing for thick-to-thin transitions without the classic porosity spikes.
@@ -59,12 +59,12 @@ Below is a working threshold table from our project archives here at Alumcasting
 
 When dealing with heavy walls or extended projected geometries on a 5000T machine, air entrapment is your biggest enemy. Traditional venting isn’t enough. We rely on sub-10mbar high-vacuum systems paired with strict inspection gates. When we create structural, weldable parts, we use [porosity control X-ray inspection for castings](/porosity-control-x-ray-inspection-castings/) to look into the core of the ribs.
 
-![CMM Inspection Equipment for Die Castings](https://alumcasting.com/wp-content/uploads/2026/05/CMM-Inspection-Equipment.webp)
+![CMM Inspection Equipment for Die Castings](/images/CMM-Inspection-Equipment.webp)
 Figure 3: High-precision coordinate measuring machines (CMM) ensure massive projected parts do not warp during cooling.
 
 Additionally, large structural components require highly accurate downstream post-processing. Because the projected areas are so wide, residual stress from cooling can warp a part by several millimeters. Every single massive part we drop from our 5000T lines goes straight through custom stabilization fixtures followed by rigorous verification on our specialized [automotive CNC machining and CMM equipment](/automotive-cnc-machining-equipment-list/) rooms.
 
-![High Precision CNC Workshop for Aluminum Castings](https://alumcasting.com/wp-content/uploads/2026/05/High-Precision-CNC-Wokshop.webp)
+![High Precision CNC Workshop for Aluminum Castings](/images/High-Precision-CNC-Wokshop.webp)
 Figure 4: Downstream secondary post-processing at our dedicated CNC finishing bays.
 
 ## The DFM Balancing Act: An Engineer-to-Engineer Summary
@@ -75,7 +75,7 @@ If you take away nothing else from this deep-dive, remember these three practica
 1. **Ribs are better than bulk:** If you need localized stiffness, do not increase the base wall thickness from 4mm to 8mm. Use a grid of intersecting 3mm ribs with generous fillets.
 1. **Partner early on the Tooling Design:** A large 5000T mold can weigh over 40 tons. Getting the thermal layout, cooling lines, and runner locations wrong can cost hundreds of thousands of dollars in re-tooling. Work with a partner backed by absolute manufacturing certifications like [IATE 16949 high-tolerance suppliers](/iatf-16949-high-tolerance-automotive-cnc-machining-supplier/).
 
-![IATF 16949 and ISO9001 Certifications](https://alumcasting.com/wp-content/uploads/2026/05/TF1949-ISO9001-Certification.webp)
+![IATF 16949 and ISO9001 Certifications](/images/TF1949-ISO9001-Certification.webp)
 Figure 5: High-stakes automotive components require ironclad international aerospace and automotive standards.
 
 ## Let’s Get Your Next Large Component Cast Safely

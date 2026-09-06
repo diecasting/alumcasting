@@ -58,22 +58,22 @@ When shipping critical industrial components to manufacturing hubs across North 
 
 Every batch shipped from our facility undergoes comprehensive validation checks. Below are the physical quality testing bays that actively secure our industrial production runs daily:
 
-![Zeiss CMM coordinate measuring machine inspecting custom aluminum die cast parts](https://alumcasting.com/wp-content/uploads/2026/05/CMM-Inspection-Equipment.webp)
+![Zeiss CMM coordinate measuring machine inspecting custom aluminum die cast parts](/images/CMM-Inspection-Equipment.webp)
 Zeiss CMM Metrology System
 
 Validating complex positional tolerances and geometric constraints on our [high-tolerance automotive CNC machining lines](/high-tolerance-automotive-cnc-machining/).
 
-![Industrial X-ray non-destructive flaw detector for casting sub-surface porosity inspection](https://alumcasting.com/wp-content/uploads/2026/05/X-Ray-Detector.webp)
+![Industrial X-ray non-destructive flaw detector for casting sub-surface porosity inspection](/images/X-Ray-Detector.webp)
 Real-time X-Ray NDT Flaw Detector
 
 Scanning internal casting structures and sub-surface material densities using our dedicated [porosity control and X-ray inspection](/custom-casting-ev-battery-housing-prototypes/) station.
 
-![High precision pressure leakage testing equipment for aluminum housing enclosures](https://alumcasting.com/wp-content/uploads/2026/05/Leakaging-Testing-Equipment.webp)
+![High precision pressure leakage testing equipment for aluminum housing enclosures](/images/Leakaging-Testing-Equipment.webp)
 100% Pressure Leakage Testing
 
 Executing critical pressure differential leak verification to safeguard thin-walled oil systems and electronics enclosures from systemic porosity bypass flaws.
 
-![IATF 16949 and ISO 9001 registered automotive quality framework certification](https://alumcasting.com/wp-content/uploads/2026/05/TF1949-ISO9001-Certification.webp)
+![IATF 16949 and ISO 9001 registered automotive quality framework certification](/images/TF1949-ISO9001-Certification.webp)
 IATF 16949 & ISO 9001 Registered
 
 Strict structural manufacturing compliance protocols, covering our active production floor loops to secure reliable international Tier-1 OEM supply chains.
@@ -98,11 +98,11 @@ Receive an exhaustive DFM diagnostic report alongside commercial cost breakouts 
 ### Q1: Why do some machined ADC12 components warp over time, and how do you prevent it?
 
 A: Warping occurs due to the release of internal residual stress when the outer crust of an aluminum casting is cut away by CNC milling. We prevent this distortion by optimizing our tool fixture designs to disperse clamping pressure evenly, controlling our high-speed feed rates to minimize heat spikes, and executing custom stabilization steps between our rough milling and final precision finishing cuts.
-![Advanced multi-axis CNC machining workshop for precision post-processing of ADC12 aluminum die casting components](https://alumcasting.com/wp-content/uploads/2026/05/High-Precision-CNC-Wokshop.webp)
+![Advanced multi-axis CNC machining workshop for precision post-processing of ADC12 aluminum die casting components](/images/High-Precision-CNC-Wokshop.webp)
 ### Q2: Can we achieve high-grade anti-corrosion properties on machined ADC12 cast parts?
 
 A: Yes, absolutely. Machined areas expose the base alloy grain structure, which demands specialized environmental shielding. Following multi-axis machining, we offer a comprehensive array of [surface finishing options for aluminum castings](/surface-finishing-aluminum-magnesium-casting/), including clear chemical conversion chromate coatings, powder coatings, and structural anodizing tailored to protect your components from industrial wear.
-![SureTech 650 surface treatment equipment executing chemical conversion and cleaning for aluminum components](https://alumcasting.com/wp-content/uploads/2026/05/SureTech-650-Surface-treatment.webp)
+![SureTech 650 surface treatment equipment executing chemical conversion and cleaning for aluminum components](/images/SureTech-650-Surface-treatment.webp)
 ### Q3: What makes standard ADC12 a better choice compared to premium alloys like A356 for general electronic and motor housing applications?
 
 A: It primarily comes down to balancing structural costs with raw manufacturing flow. As we discuss in our technical analysis on [why we recommend A356 over ADC12 for high-stress structural parts](/why-we-recommended-a356-over-adc12-high-stress-structural-parts/), A356 delivers superior mechanical elongation and impact resistance. However, for standard non-structural enclosures, electronics housings, and intricate brackets, ADC12 offers exceptional flow filling capabilities for complex thin walls, while keeping tooling cost significantly lower.

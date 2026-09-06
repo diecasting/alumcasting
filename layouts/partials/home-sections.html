@@ -1,0 +1,39 @@
+{{- /* S.6-C.4-P.4 — homepage curated sections. Multi-column card grids built
+   ONLY from real, published pages (no invented claims). Each card links to
+   the actual page and reuses its real <title>/<description>. */ -}}
+
+<section class="section" aria-label="Core capabilities">
+  <div class="container">
+    <h2 class="section-title">Core Manufacturing Capabilities</h2>
+    <p class="section-intro">Integrated casting, machining and tooling from one engineering-driven partner.</p>
+    <div class="card-grid">
+      {{- range (slice "aluminum-die-casting" "magnesium-die-casting-services" "precision-cnc-machining" "die-casting-tooling") -}}
+        {{- with $.Site.GetPage . -}}
+          <a class="card" href="{{ .RelPermalink }}">
+            <h3 class="card-title">{{ .Title }}</h3>
+            {{- with .Description }}<p class="card-text">{{ . }}</p>{{- end -}}
+            <span class="card-link">Learn more →</span>
+          </a>
+        {{- end -}}
+      {{- end -}}
+    </div>
+  </div>
+</section>
+
+<section class="section alt" aria-label="Industries served">
+  <div class="container">
+    <h2 class="section-title">Industries We Serve</h2>
+    <p class="section-intro">Precision components for demanding global engineering programs.</p>
+    <div class="card-grid">
+      {{- range (slice "automotive-die-casting-parts" "ev-battery-housing-die-casting" "medical-device-component-machining" "custom-aluminum-die-casting-for-ev-powertrain-components") -}}
+        {{- with $.Site.GetPage . -}}
+          <a class="card" href="{{ .RelPermalink }}">
+            <h3 class="card-title">{{ .Title }}</h3>
+            {{- with .Description }}<p class="card-text">{{ . }}</p>{{- end -}}
+            <span class="card-link">Learn more →</span>
+          </a>
+        {{- end -}}
+      {{- end -}}
+    </div>
+  </div>
+</section>

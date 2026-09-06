@@ -51,7 +51,7 @@ Leveraging heavy-duty tonnage systems up to 5000T, we introduce immense real-tim
 
 By keeping internal porosity below critical aerospace and automotive structural benchmarks, our castings safely undergo rigorous T6 solution and aging heat treatments with zero surface blistering, unlocking premium mechanical yield strengths for lightweight components.
 
-![High-Integrity Vacuum Assisted Automotive Structural Casting](https://alumcasting.com/wp-content/uploads/2026/03/semi-solid-casting-ssm-zero-porosity-structural-parts.webp)
+![High-Integrity Vacuum Assisted Automotive Structural Casting](/images/semi-solid-casting-ssm-zero-porosity-structural-parts.webp)
 
 ## Critical Automotive Applications
 
@@ -91,3 +91,7 @@ With 21 years of specialized manufacturing expertise, 400+ advanced CNC machinin
 - 🔍 **Quality Assurance:** Full X-Ray inspections, pressure leak tests, and CMM dimension reports.
 
 The RFQ form is submitted on the [contact page](/contact/). *(contact page deferred — not in Batch 1)*
+
+{{< quality-trust >}}
+
+{{< formspree >}}

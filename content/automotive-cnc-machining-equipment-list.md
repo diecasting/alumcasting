@@ -19,28 +19,28 @@ related_services:
 
 ## Our Production Capabilities & Equipment List
 
-![IATF 16949 & ISO 9001 Manufacturing Certification](https://alumcasting.com/wp-content/uploads/2026/05/TF1949-ISO9001-Certification.webp)
+![IATF 16949 & ISO 9001 Manufacturing Certification](/images/TF1949-ISO9001-Certification.webp)
 Figure 1: Our IATF 16949 & ISO 9001 Audited Quality Management Blueprint for Global Automotive Supply Chains.
 
 ### 1. Die Casting Department (铝镁压铸部)
 
 As an integrated manufacturing powerhouse, our foundry bridges the gap between raw metallurgy and net-shape precision. Equipped with advanced cold chamber die casting machines ranging from heavy-duty 400T to ultra-scale 5000T, we provide the raw clamping force and precision process control needed for structural components. Our specialized lean lines seamlessly support both high-ductility aluminum A356 semi-solid rheocasting and thin-wall magnesium alloy structural casting with minimal gas entrapment.
 
-![High-Tonnage Aluminum Die Casting Machine for Large Structural Components](https://alumcasting.com/wp-content/uploads/2022/10/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+![High-Tonnage Aluminum Die Casting Machine for Large Structural Components](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 Figure 2: Heavy-Duty High-Tonnage Aluminum Die Casting Cell Engineered for Structural EV Components and Large Inclosures.
 
 ### 2. Precision CNC Machining (精密机加工)
 
 Our machining floor represents the pinnacle of high-volume post-casting refinement. Operating over 400 advanced CNC units within our 40,000㎡ facility, we achieve dimensional consistency that trivializes complex tool wear. By optimizing spindle speeds and feed rates specifically for non-ferrous alloys, we achieve critical tolerances up to ±0.01mm, eliminating the need for secondary calibration on your assembly lines.
 
-![High Precision Automotive CNC Machining Workshop](https://alumcasting.com/wp-content/uploads/2026/05/High-Precision-CNC-Wokshop.webp)
+![High Precision Automotive CNC Machining Workshop](/images/High-Precision-CNC-Wokshop.webp)
 Figure 3: Mass-Scale Fleet of 400+ Advanced CNC Machining Centers Optimized for Non-Ferrous Alloys Processing.
 
 ### 3. Quality Control & Metrology (品质检测)
 
 In the Tier-1 automotive supply chain, verification is everything. Our zero-defect policy is enforced by an ISO/IATF-compliant metrology laboratory running fully automated quality reporting. From material alloy validation to final volumetric coordinate mapping, every production lot undergoes strict Statistical Process Control (SPC) with standard Cpk tracking exceeding 1.33.
 
-![CMM Multi-Axis Coordinate Inspection Equipment](https://alumcasting.com/wp-content/uploads/2026/05/CMM-Inspection-Equipment.webp)
+![CMM Multi-Axis Coordinate Inspection Equipment](/images/CMM-Inspection-Equipment.webp)
 Figure 4: Automated High-Precision CMM Volumetric Mapping Supporting Full PPAP Level 3 Documentation.
 
 ### 4. Secondary Operations & Surface Finishing (辅助与表面处理)
@@ -51,7 +51,7 @@ To deliver true one-stop turnkey convenience, Alumcasting hosts comprehensive po
 - **Heat Treatment:** In-house T4, T5, and T6 tempering furnaces designed to enhance the tensile strength and elongation profiles of structural aluminum die-castings without dimensional distortion or blistering.
 - **Leak Testing:** Advanced differential high-pressure air and water submersion leak test benches, guaranteeing 100% airtight seals for oil pans, valve bodies, and EV cooling plates.
 
-![SureTech Surface Treatment Machine Setup](https://alumcasting.com/wp-content/uploads/2026/05/SureTech-650-Surface-treatment.webp)
+![SureTech Surface Treatment Machine Setup](/images/SureTech-650-Surface-treatment.webp)
 Figure 5: In-House Continuous Surface Treatment Setup for Optimized Structural Passivation and Cleanliness.
 
 #### **The Backbone of Automotive Component Excellence**
@@ -75,7 +75,7 @@ An equipment list is nothing without technical verification. Our machining floor
 - **Air Gaging & Digital Micrometers:** For micro-level, real-time measurement of high-precision valve bores, fluid passages, and shaft diameters.
 - **X-Ray & Spectrometers:** Non-destructive real-time industrial X-ray imaging and optical emission spectrometers ensure sub-surface material integrity and absolute porosity control before and after tooling contact.
 
-![Industrial Non-Destructive X-Ray Porosity Detector](https://alumcasting.com/wp-content/uploads/2026/05/X-Ray-Detector.webp)
+![Industrial Non-Destructive X-Ray Porosity Detector](/images/X-Ray-Detector.webp)
 Figure 6: Real-time Digital X-Ray Flaw Detection Station for Non-Destructive Volumetric Sub-Surface Porosity Analysis.
 
 | Equipment Type | Quantity | Precision / Capability |
@@ -85,7 +85,7 @@ Figure 6: Real-time Digital X-Ray Flaw Detection Station for Non-Destructive Vol
 | 5-Axis CNC Milling Centers | 12 Units | Complex Multi-Angled Geometries / Single-Setup Structural Parts Processing |
 | CMM Inspection Systems (Hexagon/Zeiss) | 4 Units | Automated QC Dimensional Reporting & Full PPAP Level 3 Document Generation |
 
-![Automotive Component High-Pressure Leakage Testing Station](https://alumcasting.com/wp-content/uploads/2026/05/Leakaging-Testing-Equipment.webp)
+![Automotive Component High-Pressure Leakage Testing Station](/images/Leakaging-Testing-Equipment.webp)
 Figure 7: 100% Submersion and Differential Pressure Leak Testing to Ensure Sealed Integrity of Cast Assemblies.
 
 ## Frequently Asked Questions

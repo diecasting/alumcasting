@@ -42,8 +42,8 @@ Mold design is more than just raw CAD drafting. Our in-house engineering squad a
 - Strategic Gas Venting Paths aimed at Ultra-Low Porosity Castings.
 - Complex Core-Pulling Sliders and Safe Mechanical Moving Ejections.
 
-![Advanced MoldFlow Engineering Design](https://alumcasting.com/wp-content/uploads/2026/03/custom-die-casting-mold-design-tooling-fabrication.webp)
-![High Precision Tooling Fabrication Shop Floor](https://alumcasting.com/wp-content/uploads/2026/03/precision-multi-axis-cnc-machining-tight-tolerance-parts.webp)
+![Advanced MoldFlow Engineering Design](/images/custom-die-casting-mold-design-tooling-fabrication.webp)
+![High Precision Tooling Fabrication Shop Floor](/images/precision-multi-axis-cnc-machining-tight-tolerance-parts.webp)
 
 ### Precision Fabrication & Asset Care
 

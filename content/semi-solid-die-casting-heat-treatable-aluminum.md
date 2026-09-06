@@ -48,7 +48,7 @@ Standard High-Pressure Die Casting (HPDC) shoots molten metal into the mold cavi
 
 Our specialized **Semi-Solid Rheocasting** process utilizes a controlled slurry mix where the alloy remains precisely in a semi-solid state. This globular microstructure flows uniformly into the tool steel matrix via a stable, progressive laminar front—eliminating air pocket creation and establishing forge-density alignment.
 
-![Semi-Solid Casting Microstructure vs X-Ray Porosity Non-Destructive Testing Analysis](https://alumcasting.com/wp-content/uploads/2026/06/semi-solid-casting-microstructure-vs-xray-porosity-test.webp)
+![Semi-Solid Casting Microstructure vs X-Ray Porosity Non-Destructive Testing Analysis](/images/semi-solid-casting-microstructure-vs-xray-porosity-test.webp)
 Target Industries
 
 ## High-Integrity Structural Parts for Mission-Critical Assemblies
@@ -59,7 +59,7 @@ Where high mechanical loading, component lightweighting, and structural integrit
 - ****E-Mobility & Powertrains:** Structural EV battery housings, liquid-cooled inverter casings, and high-strength motor bracket mountings.
 - ****Pneumatic & Hydraulics:** Critical gas valve blocks, regulator manifolds, and airtight pneumatic cylinder components.
 
-![Precision CNC Machining for SSM Parts](https://alumcasting.com/wp-content/uploads/2026/03/precision-multi-axis-cnc-machining-tight-tolerance-parts.webp)
+![Precision CNC Machining for SSM Parts](/images/precision-multi-axis-cnc-machining-tight-tolerance-parts.webp)
 ## Process Parameters:
 SSM vs. Traditional HPDC
 

@@ -31,7 +31,7 @@ From engineering validation to high-volume production, AlumCasting provides comp
 
 [Request Engineering Review](/contact/)
 
-![5000T aluminum die casting machine manufacturing capability](https://alumcasting.com/wp-content/uploads/2022/10/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+![5000T aluminum die casting machine manufacturing capability](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 
 ## A Manufacturing Partner From Concept To Production
 
@@ -120,15 +120,15 @@ From raw material selection to finished components, AlumCasting provides a compl
 
 Every component is inspected through advanced measurement systems to ensure production consistency.
 
-![CMM dimensional inspection](https://alumcasting.com/wp-content/uploads/2026/05/CMM-Inspection-Equipment.webp)
+![CMM dimensional inspection](/images/CMM-Inspection-Equipment.webp)
 
 - **CMM Dimensional Inspection** — Coordinate measurement machines verify critical dimensions and geometric tolerances.
 - **X-Ray Internal Inspection** — Non-destructive inspection identifies internal defects, porosity and casting integrity.
 - **Leak Testing** — Pressure testing ensures air and fluid sealing performance for critical applications.
 
-![X-Ray internal inspection](https://alumcasting.com/wp-content/uploads/2026/05/X-Ray-Detector.webp)
+![X-Ray internal inspection](/images/X-Ray-Detector.webp)
 
-![Leak testing equipment](https://alumcasting.com/wp-content/uploads/2026/05/Leakaging-Testing-Equipment.webp)
+![Leak testing equipment](/images/Leakaging-Testing-Equipment.webp)
 
 ## Certified Manufacturing System
 
@@ -138,7 +138,7 @@ Every component is inspected through advanced measurement systems to ensure prod
 - Continuous Improvement Process
 - Engineering Documentation Support
 
-![ISO9001 and IATF16949 certification](https://alumcasting.com/wp-content/uploads/2026/05/TF1949-ISO9001-Certification.webp)
+![ISO9001 and IATF16949 certification](/images/TF1949-ISO9001-Certification.webp)
 
 ## Industries We Support
 
@@ -214,3 +214,7 @@ AlumCasting is operated by Kingship (Dongguan) Precision Manufacturing Co., Ltd.
 Discuss your next aluminum casting, magnesium casting or CNC machining project with AlumCasting engineers.
 
 [Contact AlumCasting](/contact/)
+
+{{< quality-trust >}}
+
+{{< formspree >}}

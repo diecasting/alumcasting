@@ -25,7 +25,7 @@ AlumCasting provides advanced magnesium die casting solutions using AZ91D and AM
 
 [Request Engineering Quote](/contact/)
 
-![Magnesium die casting automotive parts supplier](https://alumcasting.com/wp-content/uploads/2026/06/magnesium-die-casting-automotive-parts.webp)
+![Magnesium die casting automotive parts supplier](/images/magnesium-die-casting-automotive-parts.webp)
 
 ## More Than Casting — Engineering Lightweight Solutions
 
@@ -65,7 +65,7 @@ Material selection directly affects casting performance. AlumCasting works with 
 
 For automotive applications, our engineers also support projects involving [AZ91D magnesium automotive parts](/az91d-magnesium-die-casting-automotive-parts/) *(page deferred — not in Batch 1)* and [AM60B magnesium alloy components](/am60b-magnesium-alloy-die-casting-suppliers/) *(page deferred — not in Batch 1)*.
 
-![X ray inspection magnesium die casting supplier](https://alumcasting.com/wp-content/uploads/2026/05/X-Ray-Detector.webp)
+![X ray inspection magnesium die casting supplier](/images/X-Ray-Detector.webp)
 
 ## Complete Magnesium Die Casting Manufacturing Process
 
@@ -79,7 +79,7 @@ Through early Design for Manufacturing (DFM) analysis, potential issues such as 
 
 This approach helps customers shorten development cycles and achieve stable mass production. [Learn About DFM Design](/cost-down-dfm-design-aluminum-die-casting-molds/) *(page deferred — not in Batch 1)*
 
-![Large die casting machine manufacturing capability](https://alumcasting.com/wp-content/uploads/2022/10/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+![Large die casting machine manufacturing capability](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 
 ## Precision Tooling for Magnesium Casting
 
@@ -126,7 +126,7 @@ AlumCasting uses advanced inspection equipment to verify casting quality through
 
 For projects requiring strict reliability standards, our inspection capabilities support automotive and industrial customers with consistent quality assurance. [Learn About X-Ray Porosity Inspection](/porosity-control-x-ray-inspection-castings/) *(page deferred — not in Batch 1)*
 
-![CMM inspection equipment magnesium casting](https://alumcasting.com/wp-content/uploads/2026/05/CMM-Inspection-Equipment.webp)
+![CMM inspection equipment magnesium casting](/images/CMM-Inspection-Equipment.webp)
 
 ### Controlling Porosity and Internal Quality
 
@@ -147,7 +147,7 @@ Our capabilities include:
 
 [Explore CNC Machining Capability](/precision-cnc-machining/)
 
-![Magnesium casting surface treatment](https://alumcasting.com/wp-content/uploads/2026/05/SureTech-650-Surface-treatment.webp)
+![Magnesium casting surface treatment](/images/SureTech-650-Surface-treatment.webp)
 
 ## Magnesium Die Casting Corrosion Protection Solutions
 
@@ -164,7 +164,7 @@ Our engineers work with customers to select suitable finishing methods based on 
 
 For more details about magnesium protection technology, visit: [Magnesium Die Casting Corrosion Protection and MAO Coating](/magnesium-die-casting-corrosion-protection-mao-coating/) *(page deferred — not in Batch 1)*
 
-![Magnesium die casting MAO surface treatment](https://alumcasting.com/wp-content/uploads/2026/05/SureTech-650-Surface-treatment.webp)
+![Magnesium die casting MAO surface treatment](/images/SureTech-650-Surface-treatment.webp)
 
 ## Magnesium vs Aluminum Die Casting: How Engineers Choose the Right Material
 
@@ -191,7 +191,7 @@ Our engineers compare material options based on strength, weight, production vol
 
 Choosing a magnesium die casting supplier is not only about finding a factory with casting machines. It is about finding an engineering partner who understands your product challenges.
 
-![ISO certified magnesium die casting manufacturer](https://alumcasting.com/wp-content/uploads/2026/05/TF1949-ISO9001-Certification.webp)
+![ISO certified magnesium die casting manufacturer](/images/TF1949-ISO9001-Certification.webp)
 
 At AlumCasting, we combine:
 
@@ -232,3 +232,7 @@ Quality control includes process monitoring, CMM dimensional inspection, X-Ray i
 Share your drawings, material requirements and production goals. Our engineering team will evaluate your magnesium casting project.
 
 [Request Engineering Quote](/contact/)
+
+{{< quality-trust >}}
+
+{{< formspree >}}

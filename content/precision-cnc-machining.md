@@ -42,7 +42,7 @@ From aluminum die casting machining to complex precision components, AlumCasting
 
 [Request CNC Machining Quote](/contact/)
 
-![Precision CNC machining supplier workshop China](https://alumcasting.com/wp-content/uploads/2026/05/High-Precision-CNC-Wokshop.webp)
+![Precision CNC machining supplier workshop China](/images/High-Precision-CNC-Wokshop.webp)
 
 ## Precision CNC Machining Is More Than Cutting Metal
 
@@ -84,7 +84,7 @@ AlumCasting combines:
 
 This integrated approach allows engineers to control the entire manufacturing chain, from raw material selection to final dimensional inspection. [Explore One Stop Manufacturing Solution](/one-stop-die-casting-cnc-machining-surface-finishing/) *(page deferred — not in Batch 1)*
 
-![Large aluminum die casting and CNC machining capability](https://alumcasting.com/wp-content/uploads/2022/10/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+![Large aluminum die casting and CNC machining capability](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 
 ## CNC Machining Materials Expertise
 
@@ -137,25 +137,25 @@ Typical CNC machined EV components include:
 
 [EV Powertrain Components](/custom-aluminum-die-casting-for-ev-powertrain-components/) *(page deferred — not in Batch 1)*
 
-![Precision CNC machining aluminum structural components](https://alumcasting.com/wp-content/uploads/2026/06/A356-aluminum-die-casting-porosity-control.webp)
+![Precision CNC machining aluminum structural components](/images/A356-aluminum-die-casting-porosity-control.webp)
 
 ## Precision Inspection Ensures Every Dimension Matters
 
 A precision CNC machining supplier is measured not only by machining capability, but by how consistently every part meets customer expectations.
 
-![CMM inspection equipment](https://alumcasting.com/wp-content/uploads/2026/05/CMM-Inspection-Equipment.webp)
+![CMM inspection equipment](/images/CMM-Inspection-Equipment.webp)
 
 ### CMM Dimensional Inspection
 
 Coordinate Measuring Machines verify critical dimensions, position accuracy and geometric tolerances.
 
-![X ray inspection](https://alumcasting.com/wp-content/uploads/2026/05/X-Ray-Detector.webp)
+![X ray inspection](/images/X-Ray-Detector.webp)
 
 ### X-Ray Inspection
 
 For cast and machined components, internal quality verification helps identify potential defects before final delivery. [Casting Quality Control](/porosity-control-x-ray-inspection-castings/) *(page deferred — not in Batch 1)*
 
-![ISO certification](https://alumcasting.com/wp-content/uploads/2026/05/TF1949-ISO9001-Certification.webp)
+![ISO certification](/images/TF1949-ISO9001-Certification.webp)
 
 ### Quality System
 
@@ -225,3 +225,7 @@ Send your drawings, CAD files or project requirements. Our engineers will review
 Share your drawings and requirements with AlumCasting. Our engineering team will evaluate machining feasibility, production methods and cost optimization opportunities.
 
 [Request Precision CNC Machining Quote](/contact/)
+
+{{< quality-trust >}}
+
+{{< formspree >}}

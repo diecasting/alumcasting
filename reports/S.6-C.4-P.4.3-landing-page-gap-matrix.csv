@@ -1,0 +1,7 @@
+candidate_intent,intent_type,current_coverage,recommended_action,priority,rationale
+large structural die casting,CAPABILITY,"PARTIAL (5000T page covers tonnage, not 'structural' framing)",RECOMMENDED_NEW_LP (DEFERRED_FACT_VERIFICATION),P1,High-value intent; 5000T real but 'structural/large-part' framing needs verified facts before building LP; do not invent
+2250T semi-solid die casting,CAPABILITY,MISSING (0 source pages mention 2250T),DEFERRED_FACT_VERIFICATION,P1,No verified facts for 2250T SSM in repo; cannot claim; verify with client before any content
+PPAP die casting supplier,QUALITY,"MISSING_LANDING_PAGE (PPAP on 6 pages, no dedicated proof/landing)",ADD_PPAP_PROOF_BLOCK (not thin LP),P2,Strengthen PPAP proof on existing service LPs instead of new thin page
+electronics die casting,INDUSTRY,MISSING_LANDING_PAGE (no electronics-specific page),DO_NOT_CREATE,P2,No dedicated facts; creating now = thin/spam; revisit if electronics case studies exist
+industrial die casting,INDUSTRY,PARTIAL (only oil&gas niche enclosure page),DO_NOT_CREATE / EXPAND,P2,"Broad industrial intent only partially served; avoid thin page, expand existing proof"
+A356 die casting (commercial),MATERIAL,PARTIAL (only editorial porosity article),CREATE_COMMERCIAL_LP_OR_FIX_H1,P1,Commercial 'A356 die casting' query lands on editorial H1; needs dedicated commercial LP or H1 fix

@@ -33,7 +33,7 @@ I’ve walked countless factory floors in Dongguan and Shenzhen over the past tw
 
 When we utilize [A380 alloy properties](/a380-aluminum-die-casting-alloy-properties/) correctly, we don’t just “make parts”—we engineer rugged solutions that last. Whether your project demands high-stress [automotive die casting parts](/automotive-die-casting-parts/) or rigid consumer electronic housings, A380 remains the undisputed champion of commercial versatility.
 
-![380 Aluminum Secondary Operations and Post-Casting CNC Milling](https://alumcasting.com/wp-content/uploads/2026/03/post-processing-secondary-operations-thread-inserting-assembly.webp)
+![380 Aluminum Secondary Operations and Post-Casting CNC Milling](/images/post-processing-secondary-operations-thread-inserting-assembly.webp)
 Figure 1: Precision matters. We integrate multi-axis secondary operations directly into our A380 service to guarantee every single thread and metric dimension fits perfectly.
 
 ### 📥 Download Technical Sheet: A380 Die Casting Tolerance Limits

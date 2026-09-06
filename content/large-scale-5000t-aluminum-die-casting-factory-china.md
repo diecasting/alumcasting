@@ -48,27 +48,27 @@ By optimizing our [large-scale aluminum die casting expertise](/large-scale-alum
 We understand that our international clients in North America and Europe cannot afford structural failures in the field. Defect elimination is woven directly into our daily shop-floor culture. To ensure zero-defect distribution across overseas supply chains, we combine advanced metallurgy—such as utilizing high-grade [380 aluminum die casting services](/380-aluminum-die-casting-service/)—with rigorous, unyielding post-casting testing procedures.
 
 From controlling the internal [minimum draft angles](/minimum-draft-angle-for-aluminium-die-casting-dfm-guide/) to prevent drag marks, to performing multi-stage stabilization, we oversee every micro-variable. Below is the quality control and downstream processing ecosystem backing every single batch we ship out:
-![IATF 16949 and ISO 9001 quality management system certifications for AlumCasting aluminum die casting and precision tooling manufacturing factory.](https://alumcasting.com/wp-content/uploads/2026/05/TF1949-ISO9001-Certification.webp)
+![IATF 16949 and ISO 9001 quality management system certifications for AlumCasting aluminum die casting and precision tooling manufacturing factory.](/images/TF1949-ISO9001-Certification.webp)
 
 ### Automotive-Grade Credentials
 
 Our verified automotive-grade IATF 16949:2016 and industrial ISO 9001:2015 credentials for zero-defect aluminum die casting components supply.
-![Industrial X-ray non-destructive flaw detector for internal porosity control in large-scale aluminum die casting manufacturing.](https://alumcasting.com/wp-content/uploads/2026/05/X-Ray-Detector.webp)
+![Industrial X-ray non-destructive flaw detector for internal porosity control in large-scale aluminum die casting manufacturing.](/images/X-Ray-Detector.webp)
 
 ### 100% Non-Destructive Testing
 
 Real-time X-ray inspection setup (Unicomp UNC-160) ensuring 100% internal density and zero structural micro-voids for critical automotive components.
-![Extra-large CMM coordinate measuring machine setup for high-tolerance aluminum die casting parts inspection in quality control room.](https://alumcasting.com/wp-content/uploads/2026/05/CMM-Inspection-Equipment.webp)
+![Extra-large CMM coordinate measuring machine setup for high-tolerance aluminum die casting parts inspection in quality control room.](/images/CMM-Inspection-Equipment.webp)
 
 ### High-Precision Metrology
 
 Advanced CMM (Coordinate Measuring Machine) inspection room ensuring strict GD&T compliance for heavy-duty mega castings and EV battery housings.
-![Industrial leakage testing equipment verifying the airtightness and pressure sealing of cast aluminum enclosures.](https://alumcasting.com/wp-content/uploads/2026/05/Leakaging-Testing-Equipment.webp)
+![Industrial leakage testing equipment verifying the airtightness and pressure sealing of cast aluminum enclosures.](/images/Leakaging-Testing-Equipment.webp)
 
 ### Airtightness & Leakage Verification
 
 Specialized pressure leakage testing stations designed to guarantee the sealing reliability and waterproof ratings of massive cast aluminum enclosures and trays.
-![SureTech 650 industrial surface treatment and passivation chemical immersion lines for aluminum die castings.](https://alumcasting.com/wp-content/uploads/2026/05/SureTech-650-Surface-treatment.webp)
+![SureTech 650 industrial surface treatment and passivation chemical immersion lines for aluminum die castings.](/images/SureTech-650-Surface-treatment.webp)
 
 ### Advanced Downstream Surface Coating
 
@@ -118,3 +118,7 @@ A: Over 70% of our production is exported. For mega-scale parts like EV battery 
 Ready to scale your next structural project? Connect with our engineering desk for an authentic technical evaluation.
 
 © 2026 Alumcasting. All Rights Reserved. Built for Global [Casting Industry Applications](/automotive-die-casting-parts/).
+
+{{< quality-trust >}}
+
+{{< formspree >}}

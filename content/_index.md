@@ -25,7 +25,7 @@ Advanced High Pressure Die Casting (400T–5000T), Magnesium Casting, Semi-Solid
 - ISO / IATF Quality System
 - Prototype To Mass Production
 
-[Get Engineering Quote](/contact/) · [Upload CAD Drawing](/contact/)
+[Get Engineering Quote](/contact/) · [Email CAD Drawings](mailto:hank@alumcasting.com)
 
 ## Manufacturing at a Glance
 
@@ -33,8 +33,9 @@ Advanced High Pressure Die Casting (400T–5000T), Magnesium Casting, Semi-Solid
 |--------|------------|
 | 5000T | Maximum HPDC Capability |
 | 20+ | Years Manufacturing Experience |
+| 40,000㎡ | Dongguan Production Base |
 | ±0.015 mm | CNC Machining Accuracy |
-| ISO | Certified Quality System |
+| ISO / IATF | Certified Quality System |
 
 ## Complete Manufacturing Solutions
 
@@ -57,16 +58,16 @@ A complete manufacturing partner from engineering development to production deli
 
 Engineering solutions for EV, automotive and industrial manufacturers.
 
-![EV aluminum die casting structural components](https://alumcasting.com/wp-content/uploads/2026/06/A356-aluminum-die-casting-porosity-control.webp)
+![EV aluminum die casting structural components](/images/A356-aluminum-die-casting-porosity-control.webp)
 
 - [EV Battery Housing](/ev-battery-housing-die-casting/) — Large aluminum structural castings with porosity control, leak testing and machining integration. *(page deferred — not in Batch 1)*
 - [Automotive Structural Parts](/automotive-die-casting-parts/) — High strength aluminum castings for automotive chassis, powertrain and lightweight applications.
 
-![5000 ton aluminum die casting automotive parts](https://alumcasting.com/wp-content/uploads/2022/10/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+![5000 ton aluminum die casting automotive parts](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 
 - [Precision Industrial Components](/precision-cnc-machining/) — Casting, CNC machining and finishing solutions for demanding industries.
 
-![precision CNC machining workshop](https://alumcasting.com/wp-content/uploads/2026/05/High-Precision-CNC-Wokshop.webp)
+![precision CNC machining workshop](/images/High-Precision-CNC-Wokshop.webp)
 
 ## From Design Concept To Production
 
@@ -105,21 +106,21 @@ Every casting component is verified through controlled inspection processes.
 
 [View Quality System](/quality-control/) *(page deferred — not in Batch 1)*
 
-![ISO9001 IATF16949 certified aluminum die casting manufacturer](https://alumcasting.com/wp-content/uploads/2026/05/TF1949-ISO9001-Certification.webp)
+![ISO9001 IATF16949 certified aluminum die casting manufacturer](/images/TF1949-ISO9001-Certification.webp)
 
 ## Advanced Manufacturing Capability
 
 From large-scale die casting to precision inspection, AlumCasting provides complete production support.
 
-![CMM inspection equipment](https://alumcasting.com/wp-content/uploads/2026/05/CMM-Inspection-Equipment.webp)
+![CMM inspection equipment](/images/CMM-Inspection-Equipment.webp)
 
 - **CMM Inspection** — Precision dimensional verification for complex casting components.
 
-![X Ray inspection equipment](https://alumcasting.com/wp-content/uploads/2026/05/X-Ray-Detector.webp)
+![X Ray inspection equipment](/images/X-Ray-Detector.webp)
 
 - **X-Ray Detection** — Advanced internal defect analysis for structural reliability.
 
-![precision CNC machining workshop](https://alumcasting.com/wp-content/uploads/2026/05/High-Precision-CNC-Wokshop.webp)
+![precision CNC machining workshop](/images/High-Precision-CNC-Wokshop.webp)
 
 - **Precision CNC Workshop** — Multi-axis machining capability after casting production.
 

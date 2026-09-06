@@ -13,7 +13,7 @@ cta: "Request a Quote"
 cta_url: "/contact/"
 date: "2026-04-27T05:35:50"
 modified: "2026-06-28T13:07:57"
-image: "https://alumcasting.com/wp-content/uploads/2026/03/semi-solid-casting-ssm-zero-porosity-structural-parts.webp"
+image: "/images/semi-solid-casting-ssm-zero-porosity-structural-parts.webp"
 related_services:
   - "/porosity-control-x-ray-inspection-castings/"
   - "/aluminum-to-magnesium-conversion-weight-reduction/"
@@ -38,7 +38,7 @@ I have spent over two decades standing in front of heavy-duty die-casting machin
 ## Why Semi-Solid (SSM) Changes Everything
 
 In traditional casting, molten metal turbulent flow traps air, creating tiny bubbles—porosity. Semi-solid metal (SSM) flows like toothpaste. This clean, laminar flow completely eliminates air entrapment. We utilize this precise velocity control to achieve [total porosity control](/porosity-control-x-ray-inspection-castings/), which is vital for mission-critical [automotive die casting parts](/automotive-die-casting-parts/).
-![Semi-solid casting SSM zero porosity structural parts in A356 alloy](https://alumcasting.com/wp-content/uploads/2026/03/semi-solid-casting-ssm-zero-porosity-structural-parts.webp)Figure 1: Our advanced A356 semi-solid process ensures zero-porosity, even in hyper-complex structural designs.
+![Semi-solid casting SSM zero porosity structural parts in A356 alloy](/images/semi-solid-casting-ssm-zero-porosity-structural-parts.webp)Figure 1: Our advanced A356 semi-solid process ensures zero-porosity, even in hyper-complex structural designs.
 
 #### 1. Flawless T6 Heat Treatment
 
@@ -65,15 +65,15 @@ To truly understand the benefits of A356 semi-solid processing, we must look dir
 | Yield Strength (YS) | 180 – 190 MPa | 220 – 240 MPa | +22% Higher |
 | Elongation (%) | 2.5% – 3.5% | 6.0% – 9.0% | +120% Ductility |
 | Fatigue Endurance | Low (Porosity Limited) | Exceptional (Globular Phase) | +40% Structural Life |
-![IATF 16949 Automotive Quality Management Standards Certification](https://alumcasting.com/wp-content/uploads/2026/05/TF1949-ISO9001-Certification.webp)Figure 2: Our manufacturing facility operates strictly under verified IATF 16949 automotive quality management standards.
+![IATF 16949 Automotive Quality Management Standards Certification](/images/TF1949-ISO9001-Certification.webp)Figure 2: Our manufacturing facility operates strictly under verified IATF 16949 automotive quality management standards.
 
 ## A356 vs. A380: The Expert Choice
 
 While we love [A380 for its fluidity](/380-aluminum-die-casting-service/) in standard thin-walled electronic housings, it simply cannot match the elongation, impact resistance, and toughness of A356-T6. For complex automotive engineering involving [EV battery housing prototypes](/ev-battery-housing-die-casting/), A356 semi-solid casting is often the only way to meet stringent crash-test requirements.
-![High Precision CNC Workshop for Post-Casting Automotive Components](https://alumcasting.com/wp-content/uploads/2026/05/High-Precision-CNC-Wokshop.webp)Figure 3: Inside our high-precision CNC workshop finishing casting surfaces to strict micron geometric dimensions.
+![High Precision CNC Workshop for Post-Casting Automotive Components](/images/High-Precision-CNC-Wokshop.webp)Figure 3: Inside our high-precision CNC workshop finishing casting surfaces to strict micron geometric dimensions.
 
 We invite you to compare [thixocasting vs rheocasting](/thixocasting-vs-rheocasting-comparison/) to see which SSM branch fits your target production volume. For most automotive clients, our specialized rheocasting setups offer a significant [cost-to-performance benefit](/thixocasting-vs-rheocasting-comparison/).
-![Advanced CMM Inspection Metrology Department](https://alumcasting.com/wp-content/uploads/2026/05/CMM-Inspection-Equipment.webp)Figure 4: Precise coordinate tracking using our advanced CMM metrology equipment ensuring zero dimensional deviation on high-stress geometric profiles.
+![Advanced CMM Inspection Metrology Department](/images/CMM-Inspection-Equipment.webp)Figure 4: Precise coordinate tracking using our advanced CMM metrology equipment ensuring zero dimensional deviation on high-stress geometric profiles.
 
 ### A356 Semi-Solid FAQ
 Q: Can I use A356 for low-volume production?A: Absolutely. We frequently engineer [bridge tooling](/die-casting-tooling/) setups to bridge the gap between initial prototypes and full-scale SSM rheocasting runs.Q: Why is SSM more expensive than traditional die casting?A: The initial tooling setup requires specialized equipment and precise temperature controls. However, when you factor in the drastically reduced component scrap rates and the ability to eliminate secondary processes, the overall [total cost of ownership](/die-casting-tooling/) drops significantly.

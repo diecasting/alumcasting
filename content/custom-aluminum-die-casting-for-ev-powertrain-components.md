@@ -35,10 +35,10 @@ To eliminate these core defects before steel fabrication begins, our facility co
 - **Integrated Single-Source Sourcing:** Seamless management across our proprietary [one-stop die casting, CNC finishing, and surface treatment](/one-stop-die-casting-cnc-machining-surface-finishing/) production lines.
 - **Strict Yield Assurance:** 100% pneumatic leak checking, high-resolution X-ray defect mapping, and tight CMM qualification protocols.
 
-![Custom aluminum die casting mold design and tooling fabrication workshop floor](https://alumcasting.com/wp-content/uploads/2026/03/custom-die-casting-mold-design-tooling-fabrication.webp)
+![Custom aluminum die casting mold design and tooling fabrication workshop floor](/images/custom-die-casting-mold-design-tooling-fabrication.webp)
 Figure 1: Custom Tooling Design & Tool Steel Inserts for EV Powertrain Enclosures.
 
-![Advanced multi-axis CNC machining workshop floor for automotive components](https://alumcasting.com/wp-content/uploads/2022/10/400-units-5-axis-4-axis-cnc-machining-workshop.webp)
+![Advanced multi-axis CNC machining workshop floor for automotive components](/images/400-units-5-axis-4-axis-cnc-machining-workshop.webp)
 Figure 2: Multi-Axis Post-Casting CNC Precision Machining Workstations.
 
 ## Metallurgical Selection: Structural Ductility vs. Mass Optimization

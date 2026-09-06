@@ -45,7 +45,7 @@ This extreme locking force allows injection of high-fluidity aluminum alloys inc
 - Structural Casting
 - Large Scale HPDC
 
-![5000 ton aluminum high pressure die casting machine](https://alumcasting.com/wp-content/uploads/2022/10/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+![5000 ton aluminum high pressure die casting machine](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 
 ## Advanced Semi-Solid Rheocasting (SSM)
 
@@ -59,7 +59,7 @@ Using advanced aluminum alloys including [A356](/a356-aluminum-die-casting-poros
 - T6 Ready
 - Low Porosity Structure
 
-![Semi solid rheocasting aluminum microstructure](https://alumcasting.com/wp-content/uploads/2026/06/semi-solid-casting-microstructure-vs-xray-porosity-test.webp)
+![Semi solid rheocasting aluminum microstructure](/images/semi-solid-casting-microstructure-vs-xray-porosity-test.webp)
 
 ## High-Precision CNC Machining Centers
 
@@ -73,7 +73,7 @@ By using dedicated fixtures, optimized cutting tools, and process-controlled mac
 - ±0.01 mm Accuracy
 - Automotive Precision
 
-![High precision multi axis CNC machining workshop](https://alumcasting.com/wp-content/uploads/2026/05/High-Precision-CNC-Wokshop.webp)
+![High precision multi axis CNC machining workshop](/images/High-Precision-CNC-Wokshop.webp)
 
 ## Industrial Post-Casting Surface Treatments
 
@@ -88,7 +88,7 @@ For lightweight magnesium components, our [magnesium processing solutions](/magn
 - Magnesium MAO Coating
 - 1000+ Hr Salt Spray
 
-![Automated aluminum surface treatment line](https://alumcasting.com/wp-content/uploads/2026/05/SureTech-650-Surface-treatment.webp)
+![Automated aluminum surface treatment line](/images/SureTech-650-Surface-treatment.webp)
 
 ## Metrology and Testing Infrastructure
 
@@ -103,7 +103,7 @@ Critical automotive and EV components including cooling plates, battery housings
 - Air Leak Testing
 - IATF 16949 System
 
-![CMM inspection equipment](https://alumcasting.com/wp-content/uploads/2026/05/CMM-Inspection-Equipment.webp)
+![CMM inspection equipment](/images/CMM-Inspection-Equipment.webp)
 
 ## Casting & Machining Capacity Matrix
 
@@ -116,9 +116,9 @@ Engineering capability overview covering equipment range, materials, and quality
 | **Precision CNC Machining** | 3 Axis, 4 Axis, 5 Axis CNC Centers | Aluminum, Magnesium, Steel Components | ±0.01 mm Position Accuracy |
 | **Inspection & Testing** | CMM, X-Ray, Leak Detection Systems | EV Structures, Cooling Plates, Housings | 100% Critical Inspection |
 
-![IATF 16949 and ISO 9001 certification](https://alumcasting.com/wp-content/uploads/2026/05/TF1949-ISO9001-Certification.webp)
+![IATF 16949 and ISO 9001 certification](/images/TF1949-ISO9001-Certification.webp)
 
-![Automated pressure leak testing equipment](https://alumcasting.com/wp-content/uploads/2026/05/Leakaging-Testing-Equipment.webp)
+![Automated pressure leak testing equipment](/images/Leakaging-Testing-Equipment.webp)
 
 ## Bridge the Gap to Flawless Manufacturing
 
@@ -129,3 +129,7 @@ Facing casting defects, porosity concerns, unstable CNC tolerances, or complex s
 - **Complete Manufacturing Integration** — From casting and machining to surface finishing and inspection, multiple processes are managed under one engineering system.
 
 The RFQ form is submitted on the [contact page](/contact/). *(contact page deferred — not in Batch 1)*
+
+{{< quality-trust >}}
+
+{{< formspree >}}

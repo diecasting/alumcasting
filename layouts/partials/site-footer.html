@@ -1,0 +1,50 @@
+{{- /* S.6-C.4-P.4 global footer. 4-column grid (company / services /
+   industries / company) + bottom legal bar. Only REAL existing URLs are
+   linked; no invented company facts. Column titles use <p> (not <h2>) to
+   avoid heading-hierarchy spam. */ -}}
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div class="footer-col">
+      <p class="footer-title">AlumCasting</p>
+      <p class="footer-about">Kingship (Dongguan) Precision Manufacturing Co., Ltd. — integrated aluminum &amp; magnesium die casting, semi-solid casting, precision CNC machining and tooling for automotive, EV and industrial components.</p>
+    </div>
+
+    <div class="footer-col">
+      <p class="footer-title">Services</p>
+      <ul>
+        <li><a href="{{ "/aluminum-die-casting/" | relURL }}">Aluminum Die Casting</a></li>
+        <li><a href="{{ "/magnesium-die-casting-services/" | relURL }}">Magnesium Die Casting</a></li>
+        <li><a href="{{ "/precision-cnc-machining/" | relURL }}">CNC Machining</a></li>
+        <li><a href="{{ "/die-casting-tooling/" | relURL }}">Die Casting Tooling</a></li>
+        <li><a href="{{ "/zinc-die-casting-services/" | relURL }}">Zinc Die Casting</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-col">
+      <p class="footer-title">Industries</p>
+      <ul>
+        <li><a href="{{ "/automotive-die-casting-parts/" | relURL }}">Automotive Parts</a></li>
+        <li><a href="{{ "/ev-battery-housing-die-casting/" | relURL }}">EV Components</a></li>
+        <li><a href="{{ "/medical-device-component-machining/" | relURL }}">Medical Components</a></li>
+        <li><a href="{{ "/precision-die-casting-medical-equipment/" | relURL }}">Medical Die Casting</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-col">
+      <p class="footer-title">Company</p>
+      <ul>
+        <li><a href="{{ "/about-alumcasting-die-casting-expert/" | relURL }}">About AlumCasting</a></li>
+        <li><a href="{{ "/manufacturing-capabilities/" | relURL }}">Capabilities</a></li>
+        <li><a href="{{ "/services/" | relURL }}">All Services</a></li>
+        <li><a href="{{ "/contact/" | relURL }}">Contact / RFQ</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container">
+      <p>© {{ now.Year }} Kingship (Dongguan) Precision Manufacturing Co., Ltd. — AlumCasting. All rights reserved.</p>
+      <p class="footer-legal"><a href="{{ "/" | relURL }}">Home</a> · <a href="{{ "/contact/" | relURL }}">Contact</a></p>
+    </div>
+  </div>
+</footer>

@@ -36,7 +36,7 @@ Operated by **Kingship (Dongguan) Precision Manufacturing Co., Ltd.**, AlumCasti
 
 [Discuss Your Project](/contact/)
 
-![AlumCasting 5000T aluminum die casting manufacturer China](https://alumcasting.com/wp-content/uploads/2022/10/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+![AlumCasting 5000T aluminum die casting manufacturer China](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 
 ## A Manufacturing Partner Built Around Engineering
 
@@ -50,6 +50,8 @@ From automotive components and EV structural parts to industrial equipment and p
 
 AlumCasting is the international manufacturing brand operated by Kingship (Dongguan) Precision Manufacturing Co., Ltd. Located in Dongguan, Guangdong Province, China, our facility combines metal casting, precision machining and quality inspection capabilities to provide complete manufacturing solutions.
 
+With 21 years of specialized manufacturing expertise and a 40,000㎡ production base in Dongguan, AlumCasting supports automotive, EV and industrial customers worldwide from prototype development through mass production.
+
 - Aluminum Die Casting Production
 - Magnesium Die Casting Manufacturing
 - Semi-Solid Rheocasting Technology
@@ -57,7 +59,7 @@ AlumCasting is the international manufacturing brand operated by Kingship (Dongg
 - Tooling Development
 - Surface Treatment Solutions
 
-![Precision CNC machining workshop China](https://alumcasting.com/wp-content/uploads/2026/05/High-Precision-CNC-Wokshop.webp)
+![Precision CNC machining workshop China](/images/High-Precision-CNC-Wokshop.webp)
 
 ## Manufacturing Facility Location
 
@@ -91,7 +93,7 @@ At AlumCasting, quality management starts from engineering review and continues 
 - Leak testing for sealed components
 - Final quality documentation
 
-![X-Ray inspection system for die casting quality control](https://alumcasting.com/wp-content/uploads/2026/05/X-Ray-Detector.webp)
+![X-Ray inspection system for die casting quality control](/images/X-Ray-Detector.webp)
 
 ## Advanced Inspection Equipment
 
@@ -110,7 +112,7 @@ Our quality management approach follows international manufacturing expectations
 - Production traceability
 - Continuous process improvement
 
-![ISO9001 certification AlumCasting](https://alumcasting.com/wp-content/uploads/2026/05/TF1949-ISO9001-Certification.webp)
+![ISO9001 certification AlumCasting](/images/TF1949-ISO9001-Certification.webp)
 
 ## Industries We Serve
 
@@ -135,7 +137,7 @@ Whether it is lightweight automotive components, EV structural parts, industrial
 - Global export manufacturing experience
 - Long-term customer partnership approach
 
-![Aluminum casting quality control manufacturing partner](https://alumcasting.com/wp-content/uploads/2026/06/A356-aluminum-die-casting-porosity-control.webp)
+![Aluminum casting quality control manufacturing partner](/images/A356-aluminum-die-casting-porosity-control.webp)
 
 ## Why Companies Choose AlumCasting
 

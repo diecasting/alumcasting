@@ -1,0 +1,13 @@
+{{- /* S.6-C.4-P.4 — final CTA band. Reused on all interior pages.
+   Skipped on the contact page itself (it already has the RFQ form). */ -}}
+{{- if and .Params.cta (ne .RelPermalink "/contact/") -}}
+<section class="cta-band" aria-label="Request a quote">
+  <div class="container cta-inner">
+    <div>
+      <h2 class="cta-title">Ready to start your project?</h2>
+      <p class="cta-sub">Talk to AlumCasting engineers about your casting, machining and tooling requirements.</p>
+    </div>
+    <a class="btn btn-primary btn-lg" href="{{ .Params.cta_url | relURL }}">{{ .Params.cta }}</a>
+  </div>
+</section>
+{{- end -}}

@@ -38,17 +38,17 @@ To avoid dangerous failure points in high-vibration drilling fields, components 
 
 We do not rely on assumptions for critical safety components. Our manufacturing floor deploys high-tonnage machinery alongside precise inspection tools to verify drawing requirements.
 
-![Heavy duty 5000t high pressure die casting cell producing thick walled explosion proof housings](https://alumcasting.com/wp-content/uploads/2022/10/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+![Heavy duty 5000t high pressure die casting cell producing thick walled explosion proof housings](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 #### High-Pressure Casting Infrastructure
 
 We use large-scale automated injection cells, including our specialized [large scale 5000t aluminum die casting factory China](/large-scale-5000t-aluminum-die-casting-factory-china/) setup, to deliver the clamping pressure required to cast thick-walled, heavy-duty Ex d instrument boxes without parting-line defects.
 
-![Industrial digital X-ray non-destructive testing machine evaluating internal density of a heavy wall junction box](https://alumcasting.com/wp-content/uploads/2026/05/X-Ray-Detector.webp)
+![Industrial digital X-ray non-destructive testing machine evaluating internal density of a heavy wall junction box](/images/X-Ray-Detector.webp)
 #### Complete Subsurface Integrity Checks
 
 Every structural batch undergoes inspection in our digital [porosity control x-ray inspection castings](/porosity-control-x-ray-inspection-castings/) chamber, scanning the main walls to prevent hidden structural defects from slipping through.
 
-![Multi-axis Zeiss CMM metrology pointer checking flamepath flange planarity on an aluminum enclosure casing](https://alumcasting.com/wp-content/uploads/2026/05/CMM-Inspection-Equipment.webp)
+![Multi-axis Zeiss CMM metrology pointer checking flamepath flange planarity on an aluminum enclosure casing](/images/CMM-Inspection-Equipment.webp)
 #### Precision Flamepath Metrology
 
 Using our precision **Zeiss CMM metrology center** running down to **±0.001 mm**, we verify critical dimensions on flanged surfaces and thread depths, meeting high-level [high tolerance automotive CNC machining](/high-tolerance-automotive-cnc-machining/) alignment requirements.
@@ -70,15 +70,15 @@ By evaluating these parameters before machining, we help engineering groups mini
 ### Q1: How do you adjust the high pressure die casting process quality to cast heavy, thick-walled explosion-proof bodies without shrinkage defects?
 
 A: Thick aluminum features shrink naturally during solidification. To combat this, we run high-pressure injection cycles and modify raw casting speeds. By adjusting fill velocities and applying heavy squeeze pins in slow-cooling areas, we prevent micro-voids. This focus keeps our [high pressure die casting process quality](/high-pressure-die-casting-process-quality/) reliable for heavy pressure containment needs.
-![High resolution X-ray view exhibiting micro-porosity control inside an A356 structural alloy casting component](https://alumcasting.com/wp-content/uploads/2026/06/A356-aluminum-die-casting-porosity-control.webp)
+![High resolution X-ray view exhibiting micro-porosity control inside an A356 structural alloy casting component](/images/A356-aluminum-die-casting-porosity-control.webp)
 ### Q2: Why is vacuum-assisted air-tight processing necessary for hazardous environmental terminal and terminal housings?
 
 A: Standard high-pressure injection can trap pocket air inside mold spaces. For structural enclosures, trapped air creates internal weaknesses. We use advanced [vacuum assisted die casting vs conventional hpdc air tightness](/vacuum-assisted-die-casting-vs-conventional-hpdc-air-tightness/) setups, evacuating mold cavities to under 50 mbar before injecting aluminum. This step ensures clean metal structures that remain stable under pressure.
-![Differential pressure leak testing system checking an explosion proof enclosure for micro structural leakage pathways](https://alumcasting.com/wp-content/uploads/2026/05/Leakaging-Testing-Equipment.webp)
+![Differential pressure leak testing system checking an explosion proof enclosure for micro structural leakage pathways](/images/Leakaging-Testing-Equipment.webp)
 ### Q3: What alternative high-toughness alloys can be cast for extreme arctic drilling environments?
 
 A: When low temperature impacts are a concern, standard alloys can become brittle. We often suggest high-purity aluminum options or manage casting parameters via a specialized [a356 aluminum die casting porosity control](/a356-aluminum-die-casting-porosity-control/) setup. This material option provides higher elongation and impact resistance at low temperatures, ensuring performance on northern drilling platforms.
-![Advanced metallographic microstructural analysis compared alongside real-time X-ray pore inspection validation data](https://alumcasting.com/wp-content/uploads/2026/06/semi-solid-casting-microstructure-vs-xray-porosity-test.webp)
+![Advanced metallographic microstructural analysis compared alongside real-time X-ray pore inspection validation data](/images/semi-solid-casting-microstructure-vs-xray-porosity-test.webp)
 ### Q4: How do you guarantee the plane dimensions of the main Ex d flamepaths after machining?
 
 A: Flamepath joints require high flat-plane accuracy to cool escaping gas during an internal event. We finish these functional faces in our climate-stable CNC rooms using sharp, multi-axis tools. The parts are checked directly via our calibrated [IATF 16949 high tolerance automotive CNC machining supplier](/iatf-16949-high-tolerance-automotive-cnc-machining-supplier/) quality workflow to guarantee the necessary surface flatness.

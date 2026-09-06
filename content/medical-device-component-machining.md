@@ -23,9 +23,9 @@ related_services:
 
 In most industries, a tolerance deviation of 0.05mm is a minor setback. In **medical device component machining**, it is a catastrophic failure. Over my two decades managing production lines in South China, I’ve learned that the medical sector doesn’t buy “parts”—they buy “certainty.”
 
-Whether it’s a structural component for an MRI scanner or a handheld surgical tool, the convergence of [casting applications](/automotive-die-casting-parts/) and precision CNC machining is what makes modern healthcare possible. At AlumCasting, we don’t just see metal; we see the patient at the other end of the supply chain.
+Whether it’s a structural component for an MRI scanner or a handheld surgical tool, the convergence of [casting applications](/automotive-die-casting-parts/) and precision CNC machining is what makes modern healthcare possible. At AlumCasting, we don't just see metal; we see the patient at the other end of the supply chain. For aluminum and magnesium precision die casting of medical components, see our [precision die casting for medical equipment](/precision-die-casting-medical-equipment/) capabilities.
 
-![Lightweight Magnesium Die Casting Components](https://alumcasting.com/wp-content/uploads/2026/03/lightweight-magnesium-die-casting-3c-aerospace-parts.webp)
+![Lightweight Magnesium Die Casting Components](/images/lightweight-magnesium-die-casting-3c-aerospace-parts.webp)
 High-precision magnesium die-cast components: Bridging the gap between extreme lightweighting and structural rigidity in healthcare.
 
 ## The Material Evolution: Beyond Aluminum

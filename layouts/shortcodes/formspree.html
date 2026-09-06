@@ -1,12 +1,21 @@
-{{- /* S.6-C.3-A contact RFQ form. Formspree endpoint forwards to
-   hank@alumcasting.com (per diecasting site-group convention). No JS,
-   no external brand leak, env-safe (static action URL). */ -}}
+{{- /* S.6-C.3-A contact RFQ form + S.6-C.4-P.4.4 B2B qualification fields.
+   Formspree endpoint forwards to hank@alumcasting.com (diecasting site-group
+   convention). No JS, no external brand leak, env-safe (static action URL).
+   P.4.4 adds OPTIONAL B2B fields (material / process / annual_volume) to
+   improve lead qualification while keeping first-submit friction LOW — none
+   are required. Drawing / CAD upload is intentionally NOT included: the
+   Formspree plan cannot be verified from build context, so per STEP 5
+   DRAWING_UPLOAD = DEFERRED (FILE_UPLOAD_STATUS = NOT_IMPLEMENTED). A fake
+   upload field that "looks like it works but doesn't" is explicitly forbidden. */ -}}
 <style>
 .rfq-form{max-width:640px;margin:1.5rem 0;font-family:inherit}
 .rfq-form .rfq-row{display:flex;gap:1rem;flex-wrap:wrap}
 .rfq-form label{display:block;flex:1 1 240px;margin:.4rem 0;font-weight:600;font-size:.95rem}
-.rfq-form input,.rfq-form textarea{display:block;width:100%;margin-top:.3rem;padding:.55rem;
-  border:1px solid #b7c4d6;border-radius:6px;font:inherit;font-weight:400;box-sizing:border-box}
+.rfq-form input,.rfq-form select,.rfq-form textarea{display:block;width:100%;margin-top:.3rem;padding:.55rem;
+  border:1px solid #b7c4d6;border-radius:6px;font:inherit;font-weight:400;box-sizing:border-box;background:#fff}
+.rfq-form fieldset.rfq-qual{border:1px solid #dde5ef;border-radius:8px;padding:.4rem 1rem 1rem;margin:.6rem 0;background:#f7faff}
+.rfq-form fieldset.rfq-qual legend{font-weight:700;font-size:.9rem;color:#0d4a8e;padding:0 .4rem}
+.rfq-form .rfq-note{font-size:.82rem;color:#5a6b7b;margin:.5rem 0 0;line-height:1.4}
 .rfq-form button{margin-top:.8rem;padding:.65rem 1.4rem;border:0;border-radius:6px;cursor:pointer;
   background:#1e88e5;color:#fff;font:inherit;font-weight:700}
 .rfq-form button:hover{background:#0d4a8e}
@@ -21,6 +30,50 @@
     <label for="rfq-company">Company<input id="rfq-company" type="text" name="company"></label>
     <label for="rfq-phone">Phone<input id="rfq-phone" type="tel" name="phone"></label>
   </div>
+  <fieldset class="rfq-qual">
+    <legend>Project qualification (optional)</legend>
+    <div class="rfq-row">
+      <label for="rfq-material">Material
+        <select id="rfq-material" name="material">
+          <option value="">— Select —</option>
+          <option>Aluminum (general)</option>
+          <option>A356 Aluminum</option>
+          <option>A380 Aluminum</option>
+          <option>A383 Aluminum</option>
+          <option>ADC12 Aluminum</option>
+          <option>Magnesium (general)</option>
+          <option>AM60B Magnesium</option>
+          <option>AZ91D Magnesium</option>
+          <option>Zinc</option>
+          <option>Other / Not sure</option>
+        </select>
+      </label>
+      <label for="rfq-process">Manufacturing process
+        <select id="rfq-process" name="process">
+          <option value="">— Select —</option>
+          <option>High-Pressure Die Casting</option>
+          <option>Semi-Solid (Thixo/Rheo)</option>
+          <option>Gravity Die Casting</option>
+          <option>Sand Casting</option>
+          <option>CNC Machining</option>
+          <option>Die Casting Tooling</option>
+          <option>Other / Not sure</option>
+        </select>
+      </label>
+    </div>
+    <div class="rfq-row">
+      <label for="rfq-volume">Estimated annual volume
+        <select id="rfq-volume" name="annual_volume">
+          <option value="">— Select —</option>
+          <option>Prototype</option>
+          <option>Low Volume</option>
+          <option>Production</option>
+          <option>High Volume</option>
+        </select>
+      </label>
+    </div>
+  </fieldset>
   <label for="rfq-message">Project details *<textarea id="rfq-message" name="message" rows="6" required></textarea></label>
-  <button type="submit">Send RFQ</button>
+  <p class="rfq-note">We typically respond within 12 business hours. Your details are used only to evaluate and reply to your inquiry.</p>
+  <button type="submit">Request a Quote</button>
 </form>

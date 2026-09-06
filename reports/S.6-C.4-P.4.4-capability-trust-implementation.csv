@@ -1,0 +1,12 @@
+item,fact_source (repo-verified),status,change,deferred
+IATF 16949 proof on service LPs,P.4.3: 28 source / 35 rendered,STRENGTHENED,New quality-trust block (IATF 16949 badge) added to 11 flagship LPs (P1-4 / STEP 10),-
+ISO 9001 proof,P.4.3: 21 source / 24 rendered,STRENGTHENED,quality-trust block includes ISO 9001 badge on 11 flagship LPs,-
+PPAP proof,"P.4.3: 6 pages, WEAK",STRENGTHENED,quality-trust block includes 'PPAP Support' badge (no fabricated cert numbers/agencies),-
+X-Ray / Porosity Control,"P.4.3: 36/39, 37/40",STRENGTHENED,quality-trust block links X-Ray & Porosity to real /porosity-control-x-ray-inspection-castings/,-
+2250T semi-solid,P.4.3: 0 mentions,NOT PUBLISHED,Evidence search = 0 facts -> DO NOT PUBLISH per hard rule,DEFERRED_FACT_VERIFICATION
+5000T capability,P.4.3: 22 source / 33 rendered,PASS (unchanged),No change; verified fact retained,-
+3500T magnesium,P.4.3: 1 source (WEAK),PASS (re-confirmed),Re-confirmed existing single-source fact; not expanded,-
+21 years,automotive-die-casting-parts.md (verified),SURFACED,Added to About page facility section (STEP 12),-
+"40,000 sqm",automotive-die-casting-parts.md (verified),SURFACED,Added to Homepage 'Manufacturing at a Glance' table + About page (STEP 12),-
+Large structural die casting,5000T page partial (P.4.3 PARTIAL),NO NEW LP,Deferred: build LP only after verified structural facts,NEW_LP_DEFERRED_TO_P.4.5
+Electronics / Industrial die casting,P.4.3 DO_NOT_CREATE,NO NEW LP,Per spec: DO_NOT_CREATE thin pages,-

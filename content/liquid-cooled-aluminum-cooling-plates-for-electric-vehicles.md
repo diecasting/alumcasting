@@ -35,10 +35,10 @@ Our facility manages these variables during pre-production using detailed [how D
 - **Integrated Secondary Processing:** Streamlining lead times through our consolidated [one stop die casting CNC machining surface finishing](/one-stop-die-casting-cnc-machining-surface-finishing/) pipeline.
 - **100% Quality Validation:** Employing multi-stage pneumatic pressure decay checks, real-time X-ray verification, and strict CMM qualification tracking.
 
-![Custom aluminum die casting mold design and tooling fabrication workshop floor](https://alumcasting.com/wp-content/uploads/2026/03/custom-die-casting-mold-design-tooling-fabrication.webp)
+![Custom aluminum die casting mold design and tooling fabrication workshop floor](/images/custom-die-casting-mold-design-tooling-fabrication.webp)
 Figure 1: Custom Tooling Design & Tooling Fabrication for EV Liquid Cooling Infrastructure.
 
-![Advanced multi-axis CNC machining workshop floor for automotive components](https://alumcasting.com/wp-content/uploads/2022/10/400-units-5-axis-4-axis-cnc-machining-workshop.webp)
+![Advanced multi-axis CNC machining workshop floor for automotive components](/images/400-units-5-axis-4-axis-cnc-machining-workshop.webp)
 Figure 2: Multi-Axis CNC Post-Machining Workstations for Complex EV Components.
 
 ## Material Selection: Optimizing Thermal and Structural Integrity

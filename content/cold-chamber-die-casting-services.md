@@ -32,7 +32,7 @@ related_services:
 
  Global buyers and Tier-1 procurement teams don’t care about vague promises; they care about machine capacity and process repeatability. Our facility in Dongguan, China leverages fully closed-loop automated cells ranging from 400T up to our massive 5000T platform designed specifically for [large-scale aluminum die casting](/large-scale-aluminum-die-casting-expertise/).
 
-![5000T large-scale aluminum cold chamber die casting machine cell for automotive structural parts](https://alumcasting.com/wp-content/uploads/2022/10/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+![5000T large-scale aluminum cold chamber die casting machine cell for automotive structural parts](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 *Our 5000T automated cold chamber die casting cell optimized for structural EV castings.*
 
 ### Every machine in our shop operates as a fully integrated robotic cell:
@@ -69,13 +69,13 @@ related_services:
 
  An expert knows that quality is not determined by an inspection at the shipping dock—it is baked into every step of the shop floor process. Our facility operates under tight [IATF 16949 automotive certification](/iatf-16949-high-tolerance-automotive-cnc-machining-supplier/) standards, executing relentless in-process verification.
 
-![IATF 16949 and ISO 9001 quality management framework certificates](https://alumcasting.com/wp-content/uploads/2026/05/TF1949-ISO9001-Certification.webp)
+![IATF 16949 and ISO 9001 quality management framework certificates](/images/TF1949-ISO9001-Certification.webp)
 IATF 16949 Quality Audit Framework
 
-![Real-time X-ray non-destructive porosity inspection equipment](https://alumcasting.com/wp-content/uploads/2026/05/X-Ray-Detector.webp)
+![Real-time X-ray non-destructive porosity inspection equipment](/images/X-Ray-Detector.webp)
 Real-Time X-Ray NDT Inspection
 
-![High-precision CMM coordinate measuring machine inspection room](https://alumcasting.com/wp-content/uploads/2026/05/CMM-Inspection-Equipment.webp)
+![High-precision CMM coordinate measuring machine inspection room](/images/CMM-Inspection-Equipment.webp)
 Precision CMM Metrology Lab
 
 ### Our full-spectrum testing suite includes:
@@ -88,13 +88,13 @@ Precision CMM Metrology Lab
 
  An industrial cold-chamber casting raw out of the mold is rarely a finished part. True execution requires absolute precision down the line. We provide a complete [one-stop die casting, CNC machining, and surface finishing](/one-stop-die-casting-cnc-machining-surface-finishing/) flow entirely in-house.
 
-![High precision 4-axis and 5-axis CNC machining workshop for die castings](https://alumcasting.com/wp-content/uploads/2026/05/High-Precision-CNC-Wokshop.webp)
+![High precision 4-axis and 5-axis CNC machining workshop for die castings](/images/High-Precision-CNC-Wokshop.webp)
 Precision 4 & 5-Axis CNC Workshop
 
-![SureTech 650 surface treatment line for aluminum corrosion protection passivation](https://alumcasting.com/wp-content/uploads/2026/05/SureTech-650-Surface-treatment.webp)
+![SureTech 650 surface treatment line for aluminum corrosion protection passivation](/images/SureTech-650-Surface-treatment.webp)
 Advanced Surface Treatment Passivation
 
-![Automated high pressure differential leakage testing machine for fluid cooling components](https://alumcasting.com/wp-content/uploads/2026/05/Leakaging-Testing-Equipment.webp)
+![Automated high pressure differential leakage testing machine for fluid cooling components](/images/Leakaging-Testing-Equipment.webp)
 Differential Pressure Leak Testing Station
 
 - **High-Precision Machining:** Our climate-controlled [high-tolerance automotive CNC machining](/high-tolerance-automotive-cnc-machining/) centers easily process critical datum points down to +/-0.015mm.

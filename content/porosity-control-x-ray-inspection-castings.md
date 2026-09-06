@@ -48,7 +48,7 @@ Final Quality Control: 100% visual inspection and critical dimension verificatio
 #### OQC
 
 Outgoing Quality Control: Packaging audit and final documentation review before worldwide shipment.
-![Precision Dimensional Inspection](https://alumcasting.com/wp-content/uploads/2026/03/precision-multi-axis-cnc-machining-tight-tolerance-parts.webp)
+![Precision Dimensional Inspection](/images/precision-multi-axis-cnc-machining-tight-tolerance-parts.webp)
 
 ## Advanced Metrology Lab
 
@@ -80,3 +80,7 @@ Need full PPAP documentation or specific quality reports? Our quality engineers 
 
 ## Porosity & Inspection FAQ
 Can you provide 100% X-ray inspection for our entire order? Yes. While many factories only do batch sampling, we have the capacity to provide 100% X-ray inspection for safety-critical components, ensuring every single part delivered meets your internal quality standards. What is the difference between gas porosity and shrinkage porosity? Gas porosity is caused by trapped air or steam and typically appears as smooth, round holes. Shrinkage porosity occurs as the metal cools and contracts, appearing as jagged, irregular voids. We use different vacuum and cooling strategies to eliminate both. Do you provide X-ray reports with the shipment? Absolutely. Every batch can be accompanied by a detailed X-ray inspection report and a certificate of compliance (CoC), providing full traceability and peace of mind for your engineering team.
+
+{{< quality-trust >}}
+
+{{< formspree >}}

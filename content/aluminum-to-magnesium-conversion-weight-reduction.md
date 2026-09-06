@@ -13,7 +13,7 @@ cta: "Request a Quote"
 cta_url: "/contact/"
 date: "2026-03-20T09:13:15"
 modified: "2026-06-28T12:46:29"
-image: "https://alumcasting.com/wp-content/uploads/2026/03/vertically-integrated-manufacturing-process-casting-to-finishing.webp"
+image: "/images/vertically-integrated-manufacturing-process-casting-to-finishing.webp"
 related_services:
   - "/magnesium-die-casting-services/"
   - "/aluminum-die-casting/"
@@ -26,7 +26,7 @@ Achieving 33% Weight Reduction with Magnesium
 A Deep-Dive Case Study: Converting a UAV Structural Frame from Aluminum to Magnesium.
 
  In high-stakes industries like **UAV (Drones)** and **Electric Vehicles (EV)**, every gram matters. We recently partnered with a leading drone manufacturer to hit an aggressive "weight wall." By converting their core structural frame from Aluminum (ADC12) to Magnesium (AZ91D), we delivered a **33% total weight reduction** without compromising structural rigidity.
-![Vertically Integrated Manufacturing Process: Magnesium Casting to Surface Finishing](https://alumcasting.com/wp-content/uploads/2026/03/vertically-integrated-manufacturing-process-casting-to-finishing.webp)
+![Vertically Integrated Manufacturing Process: Magnesium Casting to Surface Finishing](/images/vertically-integrated-manufacturing-process-casting-to-finishing.webp)
 
  Integrated Engineering: From initial AZ91D casting to advanced MAO surface protection.
 

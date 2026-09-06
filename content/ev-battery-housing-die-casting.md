@@ -20,7 +20,7 @@ related_services:
 # High-Pressure EV Battery Housing Die Casting Services
 
 In the rapidly evolving electric vehicle (EV) market, the efficiency and safety of battery systems depend heavily on the quality of their enclosures. At **Alumcasting**, we provide world-class **EV battery housing die casting** solutions, leveraging over 20 years of expertise in **aluminum die casting services** to meet the stringent requirements of modern e-mobility.
-![5000T High Pressure Die Casting Machine for EV Structural Parts](https://alumcasting.com/wp-content/uploads/2022/10/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+![5000T High Pressure Die Casting Machine for EV Structural Parts](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 
 Our 5,000-ton high-pressure die casting (HPDC) equipment is capable of producing massive, single-piece EV battery trays and structural components.
 
@@ -36,7 +36,7 @@ Aluminum is the material of choice for EV battery enclosures due to its exceptio
 ## Vertically Integrated Manufacturing Process
 
 Unlike standard casting shops, we offer a **vertically integrated process** that ensures full traceability and quality control from raw ingot to finished assembly.
-![Full Process: Aluminum Die Casting, CNC Machining, and Surface Treatment](https://alumcasting.com/wp-content/uploads/2026/03/vertically-integrated-manufacturing-process-casting-to-finishing.webp)
+![Full Process: Aluminum Die Casting, CNC Machining, and Surface Treatment](/images/vertically-integrated-manufacturing-process-casting-to-finishing.webp)
 
 From 5000T die casting to 400+ CNC machining centers, we provide a complete one-stop solution for EV components.
 
@@ -56,3 +56,7 @@ Our facility is optimized for **high-volume production** of **custom battery enc
 
 Looking for a reliable manufacturing partner for your EV battery housing? Let our engineering team optimize your design for mass production.
 [Get a Technical Quote](/contact/)
+
+{{< quality-trust >}}
+
+{{< formspree >}}

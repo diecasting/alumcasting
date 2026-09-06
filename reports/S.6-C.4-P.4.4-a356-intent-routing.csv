@@ -1,0 +1,4 @@
+item,before,after,action,deferred
+A356 commercial intent landing,Editorial article '/a356-aluminum-die-casting-porosity-control/' (H1 'Battle on the Shop Floor') — intent mismatch for commercial 'A356 die casting' Ads/queries,"Added 'Sourcing Production-Grade A356 Die Casting' CTA block linking to /semi-solid-die-casting-heat-treatable-aluminum/, /aluminum-die-casting/, /automotive-die-casting-parts/ + Request a Quote",Editorial article RETAINED; commercial routing block added (P1-3 / STEP 9),NEW_LP_DEFERRED — no dedicated thin A356 commercial LP created
+Editorial A356 article (delete?),N/A,NOT deleted,Preserved per spec (do not delete editorial article),-
+Commercial A356 destination pages,None dedicated; only editorial,"Routed to existing real commercial pages (semi-solid, aluminum, automotive)",Internal CTA/links only,-

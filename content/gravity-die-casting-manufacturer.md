@@ -27,7 +27,7 @@ In the high-speed world of modern manufacturing, where "instant" is the default 
 
 While High-Pressure Die Casting (HPDC) is great for thin walls and speed, GDC is where we go when a part needs to *work* under extreme stress. If your component is the heart of an engine or a critical structural mount in [automotive casting applications](/automotive-die-casting-parts/), you don't just want it fast—you want it flawless.
 
-![Vertically Integrated Manufacturing Process: From Casting to Finishing](https://alumcasting.com/wp-content/uploads/2026/03/vertically-integrated-manufacturing-process-casting-to-finishing.webp)
+![Vertically Integrated Manufacturing Process: From Casting to Finishing](/images/vertically-integrated-manufacturing-process-casting-to-finishing.webp)
 
 *Our vertically integrated process: Seamlessly moving from raw gravity casting to T6 heat treatment and precision finishing.*
 
@@ -122,3 +122,7 @@ A: Yes — material certificates (mill certs), dimensional inspection reports (C
 ## Need a Manufacturing Partner Who Speaks "Engineer"?
 
 [Contact us in Dongguan](/contact/). We'll help you decide if gravity is the right force for your next project.
+
+{{< quality-trust >}}
+
+{{< formspree >}}

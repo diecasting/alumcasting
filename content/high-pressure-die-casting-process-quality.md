@@ -21,7 +21,7 @@ related_services:
 
 High Pressure Die Casting (HPDC) is the backbone of modern automotive and industrial manufacturing. At **Alumcasting**, we combine 20+ years of engineering grit with state-of-the-art 5000T machinery to deliver **precision aluminum casting services** that meet the world’s most rigorous standards.
 
-![Automated HPDC Process with 5000T Machine](https://alumcasting.com/wp-content/uploads/2022/10/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+![Automated HPDC Process with 5000T Machine](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 Advanced Automation: Our 5000-ton HPDC cell ensures consistent cycle times and superior structural integrity for large-scale parts.
 
 ## Our HPDC Manufacturing Process
@@ -34,7 +34,7 @@ Success in **aluminum alloy die casting** starts with controlling variables. Our
 
 **3. High-Velocity Injection:** Metal is injected into the mold at extreme pressures, ensuring the filling of complex, thin-walled geometries like **EV battery housings**.
 
-![Quality Inspection and Vertically Integrated Casting Process](https://alumcasting.com/wp-content/uploads/2026/03/vertically-integrated-manufacturing-process-casting-to-finishing.webp)
+![Quality Inspection and Vertically Integrated Casting Process](/images/vertically-integrated-manufacturing-process-casting-to-finishing.webp)
 Vertical Integration: Continuous monitoring from casting to CNC machining ensures that quality is baked into every part.
 
 ## Strict Quality Control & Inspection

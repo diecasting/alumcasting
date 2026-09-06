@@ -78,7 +78,7 @@ We do not just perform coating application runs; we meticulously audit each chem
 - Micron-Level Thickness Control Precision non-destructive inductive probe measurements tracking correct cross-sectional film profiles.
 - Precise Digital Color Matching Utilizing sophisticated spectrophotometer validation pipelines to maintain strict brand batch-to-batch consistency.
 
-![Surface Finished Precision Magnesium Components](https://alumcasting.com/wp-content/uploads/2026/03/lightweight-magnesium-die-casting-3c-aerospace-parts.webp)
+![Surface Finished Precision Magnesium Components](/images/lightweight-magnesium-die-casting-3c-aerospace-parts.webp)
 ## Surface Finish Selection Guide
 
 Cross-reference primary engineering behaviors and core metal matches to discover the ideal spec route for your design parameters.

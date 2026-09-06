@@ -28,7 +28,7 @@ Our tooling engineers work closely with customers from early product review to f
 
 [Discuss Your Tooling Project](/contact/)
 
-![Large aluminum die casting production supported by precision tooling](https://alumcasting.com/wp-content/uploads/2022/10/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+![Large aluminum die casting production supported by precision tooling](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 
 ## Why Die Casting Tooling Determines Final Part Quality
 
@@ -97,19 +97,19 @@ A high-quality mold is only the beginning. The real test comes after thousands o
 
 To maintain consistency, AlumCasting combines tooling experience with advanced inspection technology.
 
-![CMM inspection equipment](https://alumcasting.com/wp-content/uploads/2026/05/CMM-Inspection-Equipment.webp)
+![CMM inspection equipment](/images/CMM-Inspection-Equipment.webp)
 
 ### CMM Dimensional Inspection
 
 Verifying critical dimensions and ensuring castings match customer drawings.
 
-![X-Ray inspection](https://alumcasting.com/wp-content/uploads/2026/05/X-Ray-Detector.webp)
+![X-Ray inspection](/images/X-Ray-Detector.webp)
 
 ### X-Ray Inspection
 
 Detecting internal porosity and structural defects that cannot be seen visually.
 
-![Leak testing equipment](https://alumcasting.com/wp-content/uploads/2026/05/Leakaging-Testing-Equipment.webp)
+![Leak testing equipment](/images/Leakaging-Testing-Equipment.webp)
 
 ### Leak Testing
 
@@ -168,3 +168,7 @@ Whether you are developing a new automotive component, EV structural part or ind
 Send us your drawings, 3D files or project information. We will review mold feasibility, manufacturing approach and potential optimization opportunities.
 
 [Request Tooling Engineering Review](/contact/)
+
+{{< quality-trust >}}
+
+{{< formspree >}}

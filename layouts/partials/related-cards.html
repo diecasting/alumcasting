@@ -1,0 +1,24 @@
+{{- /* S.6-C.4-P.4 — "Related Services" card row, multi-column grid.
+   Built from front-matter related_services (list of real URLs). Only renders
+   a card when the referenced page actually exists (skips deferred pages).
+   No content text is rewritten. */ -}}
+{{- with .Params.related_services -}}
+<section class="related" aria-label="Related services">
+  <div class="container">
+    <h2 class="section-title">Related Services</h2>
+    <div class="card-grid">
+      {{- range . -}}
+        {{- $ref := . -}}
+        {{- if (hasPrefix $ref "/") }}{{ $ref = (substr $ref 1) }}{{ end -}}
+        {{- with $.Site.GetPage $ref -}}
+          <a class="card" href="{{ .RelPermalink }}">
+            <h3 class="card-title">{{ .Title }}</h3>
+            {{- with .Description }}<p class="card-text">{{ . }}</p>{{- end -}}
+            <span class="card-link">Learn more →</span>
+          </a>
+        {{- end -}}
+      {{- end -}}
+    </div>
+  </div>
+</section>
+{{- end -}}

@@ -1,0 +1,17 @@
+page_scope,endpoint,method,field,field_type,required,present,issue,severity,notes
+ALL (30 pages w/ shortcode),https://formspree.io/f/xpqgbdly,POST,<form> element,n/a,n/a,ESCAPED: renders as &lt;form literal text,P0,Form not functional anywhere; fix P4 replaceRE escape bug
+ALL,https://formspree.io/f/xpqgbdly,POST,name,text,yes,present (escaped),P0,Field exists in source but form non-renderable
+ALL,https://formspree.io/f/xpqgbdly,POST,email,email,yes,present (escaped),P0,Required email field exists in source
+ALL,https://formspree.io/f/xpqgbdly,POST,company,text,no,present (escaped),P2,Good qualification field; currently inert
+ALL,https://formspree.io/f/xpqgbdly,POST,phone,tel,no,present (escaped),P2,Useful for B2B; currently inert
+ALL,https://formspree.io/f/xpqgbdly,POST,message,textarea,yes,present (escaped),P0,Primary project-detail field; inert
+ALL,https://formspree.io/f/xpqgbdly,POST,_subject (hidden),hidden,n/a,present (escaped),P2,Email subject preset; inert
+ALL,https://formspree.io/f/xpqgbdly,POST,file upload (CAD/PDF),file,no,ABSENT,P1,No drawing upload = high B2B friction; add file input
+ALL,https://formspree.io/f/xpqgbdly,POST,material select,select,no,ABSENT,P1,No material/service dropdown; add per recommended structure
+ALL,https://formspree.io/f/xpqgbdly,POST,annual volume,text/select,no,ABSENT,P1,No volume field = weak qualification; add
+ALL,https://formspree.io/f/xpqgbdly,POST,spam protection,n/a,n/a,Formspree default only,P2,No visible honeypot/captcha config in source
+ALL,https://formspree.io/f/xpqgbdly,POST,privacy notice,n/a,n/a,ABSENT,P2,No privacy/GDPR statement near form
+ALL,https://formspree.io/f/xpqgbdly,POST,success/error UX,n/a,n/a,Formspree default redirect,P2,No custom success message in source
+GLOBAL,https://formspree.io/f/xpqgbdly,POST,LEGACY_FORM_DEPENDENCY,n/a,n/a,"NO (pure Formspree, no WP/PHP/SiteGround)",INFO,Good: no legacy endpoint dependency
+GLOBAL,https://formspree.io/f/xpqgbdly,POST,MULTIPLE_ENDPOINTS,n/a,n/a,Only xpqgbdly used,INFO,Single authorized endpoint; no leak
+GLOBAL,https://formspree.io/f/xpqgbdly,POST,ENDPOINT_MATCH,n/a,n/a,Matches AUTHORIZED_TARGET_ENDPOINT,INFO,xpqgbdly == authorized

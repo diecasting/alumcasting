@@ -25,7 +25,7 @@ In the twenty years I’ve spent walking the workshop floors from Dongguan to Sh
 
 There is a unique beauty in the sand. It’s a process that demands both the brute force of heavy industry and the delicate touch of a master craftsman. While many favor the speed of high-pressure die casting, sand casting remains the “king of flexibility.”
 
-![Semi-Solid Casting SSM Zero Porosity Structural Parts](https://alumcasting.com/wp-content/uploads/2026/03/semi-solid-casting-ssm-zero-porosity-structural-parts.webp)
+![Semi-Solid Casting SSM Zero Porosity Structural Parts](/images/semi-solid-casting-ssm-zero-porosity-structural-parts.webp)
 Pushing beyond sand: When your design requires the integrity of sand casting but the precision of semi-solid (SSM) structural components.
 
 ## From Prototype to High-Performance Reality

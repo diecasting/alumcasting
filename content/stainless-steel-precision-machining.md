@@ -23,7 +23,7 @@ related_services:
 
 In the twenty years I’ve spent walking the factory floors from Dongguan to global aerospace hubs, no material commands as much respect—and frustration—as stainless steel. It is the gold standard for longevity, yet it is notoriously difficult to tame. When we talk about **stainless steel precision machining**, we are talking about a delicate dance between thermal stability and shear force.
 
-![Precision Machined Magnesium vs Stainless Steel Logic](https://alumcasting.com/wp-content/uploads/2026/03/lightweight-magnesium-die-casting-3c-aerospace-parts.webp)
+![Precision Machined Magnesium vs Stainless Steel Logic](/images/lightweight-magnesium-die-casting-3c-aerospace-parts.webp)
 Material Strategy in Action: While stainless steel offers unmatched corrosion resistance, we often help clients evaluate [aluminum to magnesium conversion](/aluminum-to-magnesium-conversion/) for aerospace parts to achieve 30% weight reduction without sacrificing rigidity.
 
 ## The Strategic Pivot: DFM and Material Choice

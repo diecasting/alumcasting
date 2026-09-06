@@ -13,7 +13,7 @@ cta: "Request a Quote"
 cta_url: "/contact/"
 date: "2026-03-20T09:01:36"
 modified: "2026-06-28T12:47:23"
-image: "https://alumcasting.com/wp-content/uploads/2026/03/vertically-integrated-manufacturing-process-casting-to-finishing.webp"
+image: "/images/vertically-integrated-manufacturing-process-casting-to-finishing.webp"
 related_services:
   - "/aluminum-die-casting/"
   - "/porosity-control-x-ray-inspection-castings/"
@@ -26,7 +26,7 @@ Which Semi-Solid Process for Your EV Parts?
 In the race for EV lightweighting, “good enough” casting is no longer an option. Master the transition to Semi-Solid Metal (SSM) processing.
 
  Engineers are increasingly turning to **Semi-Solid Metal (SSM)** processing to achieve the structural integrity required for battery housings and chassis components. But for Tier 1 automotive suppliers, the big question remains: Thixocasting or Rheocasting?
-![Vertically Integrated Manufacturing Process: SSM Casting to Finishing](https://alumcasting.com/wp-content/uploads/2026/03/vertically-integrated-manufacturing-process-casting-to-finishing.webp)
+![Vertically Integrated Manufacturing Process: SSM Casting to Finishing](/images/vertically-integrated-manufacturing-process-casting-to-finishing.webp)
 
  Figure 1: Our integrated supply chain controls quality from liquid alloy to final precision finishing.
 

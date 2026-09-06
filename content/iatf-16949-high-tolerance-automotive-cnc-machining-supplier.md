@@ -13,7 +13,7 @@ cta: "Request a Quote"
 cta_url: "/contact/"
 date: "2026-04-02T08:22:21"
 modified: "2026-06-28T12:54:51"
-image: "https://alumcasting.com/wp-content/uploads/2026/03/precision-multi-axis-cnc-machining-tight-tolerance-parts.webp"
+image: "/images/precision-multi-axis-cnc-machining-tight-tolerance-parts.webp"
 related_services:
   - "/precision-cnc-machining/"
   - "/automotive-die-casting-parts/"
@@ -35,7 +35,7 @@ Automotive engineering demands consistency across thousands of parts. Our facili
 #### Quality Assurance Lab
 
 Equipped with Hexagon CMM and Zeiss scanning to ensure every batch meets automotive safety standards.
-![](https://alumcasting.com/wp-content/uploads/2026/03/precision-multi-axis-cnc-machining-tight-tolerance-parts.webp)
+![](/images/precision-multi-axis-cnc-machining-tight-tolerance-parts.webp)
 
 ### Ready for RFQ?
 

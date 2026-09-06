@@ -29,7 +29,7 @@ From automotive housings and EV structural components to industrial equipment pa
 
 [Request Aluminum Die Casting Quote](/contact/)
 
-![5000 ton aluminum die casting machine producing large structural parts](https://alumcasting.com/wp-content/uploads/2022/10/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+![5000 ton aluminum die casting machine producing large structural parts](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 
 ## Large Scale Aluminum Die Casting Capability
 
@@ -97,19 +97,19 @@ Besides aluminum die casting, AlumCasting provides:
 
 A high-quality aluminum casting is not judged only by appearance. The most serious casting problems are often invisible: internal porosity, shrinkage defects, dimensional variation and leakage risks. That is why AlumCasting combines advanced inspection equipment with experienced engineers to verify every critical requirement before shipment.
 
-![X-Ray porosity inspection](https://alumcasting.com/wp-content/uploads/2026/05/X-Ray-Detector.webp)
+![X-Ray porosity inspection](/images/X-Ray-Detector.webp)
 
 ### X-Ray Porosity Inspection
 
 Internal quality verification for structural aluminum components where strength and reliability are critical. [Learn About X-Ray Inspection](/die-casting-factory-cmm-xray-inspection/) *(page deferred — not in Batch 1)*
 
-![CMM dimensional inspection](https://alumcasting.com/wp-content/uploads/2026/05/CMM-Inspection-Equipment.webp)
+![CMM dimensional inspection](/images/CMM-Inspection-Equipment.webp)
 
 ### CMM Dimensional Inspection
 
 High precision measurement ensures castings meet customer drawings and assembly requirements. [Quality Inspection Capability](/die-casting-factory-cmm-xray-inspection/) *(page deferred — not in Batch 1)*
 
-![Leak testing equipment](https://alumcasting.com/wp-content/uploads/2026/05/Leakaging-Testing-Equipment.webp)
+![Leak testing equipment](/images/Leakaging-Testing-Equipment.webp)
 
 ### Leak Testing
 
@@ -121,7 +121,7 @@ For global customers, supplier selection is not only about price. It is about co
 
 AlumCasting follows structured quality management systems to support automotive, industrial and engineering applications.
 
-![ISO9001 certification](https://alumcasting.com/wp-content/uploads/2026/05/TF1949-ISO9001-Certification.webp)
+![ISO9001 certification](/images/TF1949-ISO9001-Certification.webp)
 
 ### ISO 9001 Quality Management
 
@@ -146,7 +146,7 @@ Our engineers focus on:
 - Vacuum-assisted casting solutions when required
 - X-Ray inspection validation
 
-![A356 aluminum die casting porosity control](https://alumcasting.com/wp-content/uploads/2026/06/A356-aluminum-die-casting-porosity-control.webp)
+![A356 aluminum die casting porosity control](/images/A356-aluminum-die-casting-porosity-control.webp)
 
 [Learn more about aluminum structural casting](/a356-aluminum-die-casting-porosity-control/) *(page deferred — not in Batch 1)*
 
@@ -156,13 +156,13 @@ Traditional high pressure die casting has helped manufacturers produce millions 
 
 AlumCasting provides engineering support for advanced aluminum applications including semi-solid casting technology. [Explore Semi-Solid Die Casting Manufacturer](/semi-solid-die-casting-manufacturers/) *(page deferred — not in Batch 1)*
 
-![Semi-solid casting microstructure](https://alumcasting.com/wp-content/uploads/2026/06/semi-solid-casting-microstructure-vs-xray-porosity-test.webp)
+![Semi-solid casting microstructure](/images/semi-solid-casting-microstructure-vs-xray-porosity-test.webp)
 
 ## Beyond Aluminum: Lightweight Magnesium Casting Solutions
 
 Weight reduction has become one of the biggest challenges in modern manufacturing. For some applications, magnesium provides excellent lightweight performance while maintaining structural requirements.
 
-![Magnesium die casting automotive lightweight components](https://alumcasting.com/wp-content/uploads/2026/06/magnesium-die-casting-automotive-parts.webp)
+![Magnesium die casting automotive lightweight components](/images/magnesium-die-casting-automotive-parts.webp)
 
 Our lightweight manufacturing solutions include:
 
@@ -179,13 +179,13 @@ In real production projects, aluminum die casting is only one part of the comple
 
 At AlumCasting, we integrate casting, machining, finishing and inspection to provide customers with a complete manufacturing solution.
 
-![High precision CNC machining workshop](https://alumcasting.com/wp-content/uploads/2026/05/High-Precision-CNC-Wokshop.webp)
+![High precision CNC machining workshop](/images/High-Precision-CNC-Wokshop.webp)
 
 ### Precision CNC Machining
 
 After casting, many components require secondary machining for precise interfaces, holes, sealing surfaces and assembly features. [Explore CNC Machining Services](/precision-cnc-machining/)
 
-![Surface treatment process](https://alumcasting.com/wp-content/uploads/2026/05/SureTech-650-Surface-treatment.webp)
+![Surface treatment process](/images/SureTech-650-Surface-treatment.webp)
 
 ### Surface Treatment
 
@@ -268,3 +268,7 @@ Have a new aluminum component design? Send us your drawings, 3D models or projec
 - Quality inspection requirements
 
 [Request Engineering Evaluation](/contact/)
+
+{{< quality-trust >}}
+
+{{< formspree >}}
