@@ -33,3 +33,5 @@
 {{- /* OpenGraph image — only when a real front-matter image exists (relURL-safe) */ -}}
 {{- with .Params.image }}<meta property="og:image" content="{{ partial "abspath.html" . }}">
 <meta property="og:image:alt" content="{{ $.Title }}">{{ end -}}
+{{- /* A.3 — gated analytics (GA4 + Google Ads global tag; public IDs only) */ -}}
+{{ partial "analytics.html" . }}

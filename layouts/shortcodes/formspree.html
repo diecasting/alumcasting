@@ -77,3 +77,32 @@
   <p class="rfq-note">We typically respond within 12 business hours. Your details are used only to evaluate and reply to your inquiry.</p>
   <button type="submit">Request a Quote</button>
 </form>
+{{- /* A.3 Tier-1 — progressive enhancement ONLY.
+   Fires GA4 generate_lead on CONFIRMED Formspree success; native POST stays
+   the no-JS path and the fallback when gtag/fetch fail. The Google Ads
+   conversion send_to event is intentionally omitted (label unavailable).
+   Safety: bind once; never double-submit. */ -}}
+<script>
+(function(){
+  var f = document.querySelector('form.rfq-form');
+  if(!f || f.dataset.a3bound) return;
+  f.dataset.a3bound = "1";
+  f.addEventListener('submit', function(e){
+    if(typeof gtag !== 'function') return;          // gtag not ready → native POST proceeds
+    e.preventDefault();
+    var data = new FormData(f);
+    fetch(f.action, { method:'POST', body:data, headers:{'Accept':'application/json'} })
+      .then(function(r){ return r.json().catch(function(){ return {}; }); })
+      .then(function(res){
+        if(res && (res.ok || res.success)){
+          try { gtag('event','generate_lead', { currency:'USD' }); } catch(_){}
+          f.innerHTML = '<p class="rfq-note" style="font-size:1rem;color:#0d4a8e">'
+            + 'Thank you — your RFQ has been received. We typically respond within 12 business hours.</p>';
+        } else {
+          f.submit();                                // Formspree error → native fallback (single submit)
+        }
+      })
+      .catch(function(){ f.submit(); });             // network failure → native fallback (single submit)
+  });
+})();
+</script>
