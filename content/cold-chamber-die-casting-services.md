@@ -30,17 +30,17 @@ related_services:
 
 ## 1. Tonnage Matrix & Robotic Automation: Our Industrial Muscle
 
- Global buyers and Tier-1 procurement teams don’t care about vague promises; they care about machine capacity and process repeatability. Our facility in Dongguan, China leverages fully closed-loop automated cells ranging from 400T up to our massive 5000T platform designed specifically for [large-scale aluminum die casting](/large-scale-aluminum-die-casting-expertise/).
+ Global buyers and Tier-1 procurement teams don’t care about vague promises; they care about machine capacity and process repeatability. Our facility in Dongguan, China leverages fully closed-loop automated cells ranging from 400T up to our massive 5000T platform designed specifically for [large-scale aluminum die casting](/large-scale-5000t-aluminum-die-casting-factory-china/).
 
 ![5000T large-scale aluminum cold chamber die casting machine cell for automotive structural parts](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
-*Our 5000T automated cold chamber die casting cell optimized for structural EV castings.*
+*Our 5000T automated cold chamber [die casting](/aluminum-die-casting/) cell optimized for structural EV castings.*
 
 ### Every machine in our shop operates as a fully integrated robotic cell:
 
 - **Auto-Ladle Systems:** Highly calibrated mechanical ladles transfer molten metal with minimal temperature drop, preventing cold shuts before the plunger moves.
 - **Automatic Die Spraying:** Multi-axis CNC sprayers ensure absolute thermal uniformity across complex mold cores, preventing localized thermal cracking.
 - **Automated Robotic Extraction:** High-precision robotic arms pull hot parts with zero structural distortion, transferring them directly to trimming presses.
-- **Vacuum-Assisted HPDC (VPDC):** For safety-critical parts, we pull an ultra-high vacuum from the cavity before injection, achieving near [pore-free die casting](/pore-free-die-casting-weldable-automotive-structural-parts/) that allows for reliable structural welding and structural heat treatments.
+- **Vacuum-Assisted HPDC (VPDC):** For safety-critical parts, we pull an ultra-high vacuum from the cavity before injection, achieving near [pore-free die casting](/vacuum-assisted-die-casting-vs-conventional-hpdc-air-tightness/) that allows for reliable structural welding and structural heat treatments.
 | Machine Tonnage Range | Primary Alloys Processed | Typical Target Applications |
 | --- | --- | --- |
 | 400T – 800T | Zamak 3/5, ADC12, AZ91D | Electronics brackets, medical equipment housings, connectors. |
@@ -54,7 +54,7 @@ related_services:
 
  Our metallurgy lab focuses heavily on managing specialized properties for harsh mechanical environments:
 
-- **Aluminum Alloys:** We run massive volumes of standard [A380 properties](/a380-aluminum-die-casting-alloy-properties/) and [ADC12 properties](/aluminum-alloy-adc12-properties-engineering-guide/) for cost-effective mass production. However, our true specialty lies in [recommending A356 over ADC12 for high-stress structural parts](/why-we-recommended-a356-over-adc12-high-stress-structural-parts/). A356 combined with our specialized vacuum techniques enables flawless [T6 heat treatments while entirely preventing blistering](/semi-solid-die-casting-heat-treatable-aluminum/).
+- **Aluminum Alloys:** We run massive volumes of standard [A380 properties](/380-aluminum-die-casting-service/) and [ADC12 properties](/adc12-die-casting-cnc-machining/) for cost-effective mass production. However, our true specialty lies in [recommending A356 over ADC12 for high-stress structural parts](/why-we-recommended-a356-over-adc12-high-stress-structural-parts/). A356 combined with our specialized vacuum techniques enables flawless [T6 heat treatments while entirely preventing blistering](/semi-solid-die-casting-heat-treatable-aluminum/).
 - **Magnesium Alloys:** For ultra-lightweight structural shifts, we run [AZ91D magnesium parts](/az91d-magnesium-die-casting-automotive-parts/) for exceptional rigidity-to-weight ratios. When impact resistance is non-negotiable (such as automotive steering wheel cores or shock towers), we execute [AM60B magnesium casting](/am60b-magnesium-alloy-die-casting-suppliers/) due to its exceptional elongation and crashworthiness profiles.
 
 ## 3. Conquering Tool Life and Cracking via Rigorous DFM
@@ -86,7 +86,7 @@ Precision CMM Metrology Lab
 
 ## 5. Post-Casting Secondary Operations: From Cast to Assembly
 
- An industrial cold-chamber casting raw out of the mold is rarely a finished part. True execution requires absolute precision down the line. We provide a complete [one-stop die casting, CNC machining, and surface finishing](/one-stop-die-casting-cnc-machining-surface-finishing/) flow entirely in-house.
+ An industrial cold-chamber casting raw out of the mold is rarely a finished part. True execution requires absolute precision down the line. We provide a complete [one-stop die casting, CNC machining, and surface finishing](/manufacturing-capabilities/) flow entirely in-house.
 
 ![High precision 4-axis and 5-axis CNC machining workshop for die castings](/images/High-Precision-CNC-Wokshop.webp)
 Precision 4 & 5-Axis CNC Workshop
@@ -98,7 +98,7 @@ Advanced Surface Treatment Passivation
 Differential Pressure Leak Testing Station
 
 - **High-Precision Machining:** Our climate-controlled [high-tolerance automotive CNC machining](/high-tolerance-automotive-cnc-machining/) centers easily process critical datum points down to +/-0.015mm.
-- **Surface Modifications:** From advanced [MAO (Micro-Arc Oxidation) coating for magnesium protection](/magnesium-die-casting-corrosion-protection-mao-coating/) to chromate-free SurTec 650 passivation, we protect your components against harsh environments.
+- **Surface Modifications:** From advanced [MAO (Micro-Arc Oxidation) coating for magnesium protection](/magnesium-die-casting-services/) to chromate-free SurTec 650 passivation, we protect your components against harsh environments.
 - **100% Structural Leak Testing:** If you are manufacturing fluid cooling loops, our automated differential air-pressure testing stations ensure every unit shipped is entirely leak-proof.
 
 ## 6. Seamless Logistics for Global Tier-1 Supply Chains

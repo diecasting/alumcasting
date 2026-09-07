@@ -27,12 +27,12 @@ Thermal management is the premier benchmark of modern electric vehicle efficienc
 
 The push to reduce overall vehicle mass while optimizing battery tray volumes requires thin-wall fluid structures that do not compromise mechanical rigidity. Delivering multi-channel internal fluid pathways with minimal profile thickness requires immense fill velocities and precise die thermal stabilization. Minor localized temperature drops across the mold during injection can cause structural defects or early metal freezing.
 
-Our facility manages these variables during pre-production using detailed [how DFM analysis reduces die casting costs](/how-dfm-analysis-reduces-die-casting-costs/) protocols. We carefully evaluate metal fill vectors, design specialized thermal management lines within the tool steel inserts, and minimize draft friction to ensure stable part execution. This approach supports seamless product development, accelerating lead times from initial [custom casting EV battery housing prototypes](/custom-casting-ev-battery-housing-prototypes/) to validated, high-volume production output.
+Our facility manages these variables during pre-production using detailed [how DFM analysis reduces die casting costs](/die-casting-tooling/) protocols. We carefully evaluate metal fill vectors, design specialized thermal management lines within the tool steel inserts, and minimize draft friction to ensure stable part execution. This approach supports seamless product development, accelerating lead times from initial [custom casting EV battery housing prototypes](/ev-battery-housing-die-casting/) to validated, high-volume production output.
 
 ### Technical Capabilities for EV Cold Plates:
 
 - **Advanced Sub-Surface Security:** Utilizing vacuum extraction during the [high pressure die casting process and quality](/high-pressure-die-casting-process-quality/) flow to eliminate internal micro-voids.
-- **Integrated Secondary Processing:** Streamlining lead times through our consolidated [one stop die casting CNC machining surface finishing](/one-stop-die-casting-cnc-machining-surface-finishing/) pipeline.
+- **Integrated Secondary Processing:** Streamlining lead times through our consolidated [one stop die casting CNC machining surface finishing](/manufacturing-capabilities/) pipeline.
 - **100% Quality Validation:** Employing multi-stage pneumatic pressure decay checks, real-time X-ray verification, and strict CMM qualification tracking.
 
 ![Custom aluminum die casting mold design and tooling fabrication workshop floor](/images/custom-die-casting-mold-design-tooling-fabrication.webp)
@@ -43,9 +43,9 @@ Figure 2: Multi-Axis CNC Post-Machining Workstations for Complex EV Components.
 
 ## Material Selection: Optimizing Thermal and Structural Integrity
 
-Standard metal choices are often insufficient when handling the pressure cycles and structural stresses encountered by liquid-cooled EV assemblies. To help customers optimize performance, our engineering desk routinely provides technical analyses, such as comparing [magnesium vs aluminum die casting](/magnesium-vs-aluminum-die-casting/) or detailing [aluminum to magnesium conversion weight reduction](/aluminum-to-magnesium-conversion-weight-reduction/) possibilities to meet aggressive fleet targets.
+Standard metal choices are often insufficient when handling the pressure cycles and structural stresses encountered by liquid-cooled EV assemblies. To help customers optimize performance, our engineering desk routinely provides technical analyses, such as comparing [magnesium vs aluminum die casting](/aluminum-to-magnesium-conversion-weight-reduction/) or detailing [aluminum to magnesium conversion weight reduction](/aluminum-to-magnesium-conversion-weight-reduction/) possibilities to meet aggressive fleet targets.
 
-For liquid-cooling paths requiring structural welding or tight pressure retention, our team often explains [why we recommended A356 over ADC12 high stress structural parts](/why-we-recommended-a356-over-adc12-high-stress-structural-parts/). A356 alloy provides exceptional thermal transfer rates and elongation properties when paired with an optimized [t6 heat treatment semi solid die casting aluminum](/semi-solid-die-casting-heat-treatable-aluminum/) process. Furthermore, our automated thermal cells utilize advanced multi-stage baking schedules to [prevent blistering aluminum t6 heat treatment](/prevent-blistering-aluminum-t6-heat-treatment/) anomalies, ensuring part consistency across high-volume production schedules.
+For liquid-cooling paths requiring structural welding or tight pressure retention, our team often explains [why we recommended A356 over ADC12 high stress structural parts](/why-we-recommended-a356-over-adc12-high-stress-structural-parts/). A356 alloy provides exceptional thermal transfer rates and elongation properties when paired with an optimized [t6 heat treatment semi solid die casting aluminum](/semi-solid-die-casting-heat-treatable-aluminum/) process. Furthermore, our automated thermal cells utilize advanced multi-stage baking schedules to [prevent blistering aluminum t6 heat treatment](/a356-semi-solid-casting-benefits-expert-guide/) anomalies, ensuring part consistency across high-volume production schedules.
 | Thermal Component Application | Recommended Aluminum Alloy | Key Engineering Advantage |
 | --- | --- | --- |
 | Multi-Channel Battery Cold Plates | A356 Aluminum (T6 Tempered) | High thermal conductivity, ductile structural matrix, leak-proof channels. |
@@ -56,7 +56,7 @@ For liquid-cooling paths requiring structural welding or tight pressure retentio
 
 Internal micro-porosity is a primary challenge when manufacturing liquid-cooled metal components. Sub-surface gas entrapment or localized shrinkage voids can interconnect under stress, forming microscopic leak pathways. Over time, system pressure and continuous thermal cycling can cause coolant to breach internal walls, risking short circuits within high-voltage electrical tracks.
 
-Our facility prevents sub-surface leakage paths by combining real-time vacuum extraction with a comprehensive [porosity control x ray inspection castings](/porosity-control-x-ray-inspection-castings/) program. Every single component lot undergoes non-destructive pressure decay testing to confirm hermetic integrity. For critical battery cooling trays that demand dense structural layers, we deploy specialized [pore free die casting weldable automotive structural parts](/pore-free-die-casting-weldable-automotive-structural-parts/) processes to ensure reliable, field-ready performance.
+Our facility prevents sub-surface leakage paths by combining real-time vacuum extraction with a comprehensive [porosity control x ray inspection castings](/porosity-control-x-ray-inspection-castings/) program. Every single component lot undergoes non-destructive pressure decay testing to confirm hermetic integrity. For critical battery cooling trays that demand dense structural layers, we deploy specialized [pore free die casting weldable automotive structural parts](/vacuum-assisted-die-casting-vs-conventional-hpdc-air-tightness/) processes to ensure reliable, field-ready performance.
 
 ## High-Tolerance Post-Machining and Surface Calibration
 
@@ -71,7 +71,7 @@ Get in touch with our tooling design and metallurgical engineering teams for an 
 
 1. How do you guarantee zero-leakage performance for EV liquid cooling plates?
 
-We combine high-vacuum high-pressure die casting with real-time digital X-ray flaw detection to eliminate sub-surface gas porosity. Post-machined cooling plates undergo 100% pneumatic pressure decay testing and high-sensitivity hydraulic decay leak checks to ensure absolute hermetic sealing under custom pressure thresholds.
+We combine high-vacuum high-pressure [die casting](/aluminum-die-casting/) with real-time digital X-ray flaw detection to eliminate sub-surface gas porosity. Post-machined cooling plates undergo 100% pneumatic pressure decay testing and high-sensitivity hydraulic decay leak checks to ensure absolute hermetic sealing under custom pressure thresholds.
 
 2. Why is A356 aluminum alloy preferred over ADC12 for high-stress liquid cooling channels?
 

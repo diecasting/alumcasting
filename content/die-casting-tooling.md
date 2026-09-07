@@ -16,6 +16,11 @@ related_services:
   - "/magnesium-die-casting-services/"
   - "/precision-cnc-machining/"
   - "/services/"
+aliases:
+  - /cost-down-dfm-design-aluminum-die-casting-molds/
+  - /how-dfm-analysis-reduces-die-casting-costs/
+  - /bridge-tooling-low-volume-aluminum-die-casting-guide/
+
 ---
 
 # Die Casting Tooling Manufacturer for Precision Aluminum & Magnesium Components
@@ -141,7 +146,7 @@ Supporting lightweight automotive and industrial magnesium components. [Magnesiu
 
 ### Semi-Solid Casting Tooling
 
-Advanced mold solutions for improved mechanical performance and reduced porosity. [Semi-Solid Casting](/semi-solid-die-casting-manufacturers/) *(page deferred — not in Batch 1)*
+Advanced mold solutions for improved mechanical performance and reduced porosity. [Semi-Solid Casting](/semi-solid-die-casting-heat-treatable-aluminum/) *(page deferred — not in Batch 1)*
 
 ### Aluminum Structural Parts
 

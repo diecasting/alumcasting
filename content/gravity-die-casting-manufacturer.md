@@ -17,15 +17,18 @@ related_services:
   - "/precision-cnc-machining/"
   - "/automotive-die-casting-parts/"
   - "/services/"
+aliases:
+  - /gravity-die-casting-step-by-step-guide-pro/
+  - /benefits-of-permanent-mold-casting-for-structural-integrity/
 ---
 
 # Gravity Die Casting: Why "Slow and Steady" Wins the Strength Race
 
 *By Senior Tooling Engineer | 20+ Years in China's Casting Industry Hubs*
 
-In the high-speed world of modern manufacturing, where "instant" is the default setting, Gravity Die Casting (GDC) might seem like a relic to the uninitiated. But as a gravity die casting manufacturer who has spent two decades debugging molds in the humid heat of Dongguan, I can tell you: gravity is the most reliable partner you'll ever have.
+In the high-speed world of modern manufacturing, where "instant" is the default setting, Gravity [Die Casting](/aluminum-die-casting/) (GDC) might seem like a relic to the uninitiated. But as a gravity die casting manufacturer who has spent two decades debugging molds in the humid heat of Dongguan, I can tell you: gravity is the most reliable partner you'll ever have.
 
-While High-Pressure Die Casting (HPDC) is great for thin walls and speed, GDC is where we go when a part needs to *work* under extreme stress. If your component is the heart of an engine or a critical structural mount in [automotive casting applications](/automotive-die-casting-parts/), you don't just want it fast—you want it flawless.
+While High-Pressure Die Casting (HPDC) is great for thin walls and speed, GDC is where we go when a part needs to *work* under extreme stress. If your component is the heart of an engine or a critical structural mount in [automotive casting applications](/automotive-die-casting-parts/), you don't just want it fast—you want it flawless. For a like-for-like look at the two pressure processes, see our [low pressure vs high pressure die casting](/low-pressure-vs-high-pressure-die-casting-comparison/) breakdown.
 
 ![Vertically Integrated Manufacturing Process: From Casting to Finishing](/images/vertically-integrated-manufacturing-process-casting-to-finishing.webp)
 
@@ -43,19 +46,19 @@ I've seen projects fail because a client used one shop for casting and another f
 
 The biggest reason clients come to us is for structural integrity. Because GDC uses a slower filling rate, the level of entrapped air is significantly lower. This is critical because it allows us to perform [T6 heat treatment](/semi-solid-die-casting-heat-treatable-aluminum/) *(page deferred — not in Batch 1)* without fear.
 
-You simply can't do this with standard HPDC without risking surface blisters. By choosing a manufacturer that understands the nuance of [preventing blistering during T6](/prevent-blistering-aluminum-t6-heat-treatment/) *(page deferred — not in Batch 1)*, you unlock mechanical properties that high-pressure parts can only dream of.
+You simply can't do this with standard HPDC without risking surface blisters. By choosing a manufacturer that understands the nuance of [preventing blistering during T6](/a356-semi-solid-casting-benefits-expert-guide/) *(page deferred — not in Batch 1)*, you unlock mechanical properties that high-pressure parts can only dream of.
 
 ### Gravity Casting (GDC)
 
 - Lower porosity, superior density.
 - Full heat treatment compatibility (T4-T6).
-- Ideal for [bridge tooling and low volume](/bridge-tooling-low-volume-aluminum-die-casting-guide/) *(page deferred — not in Batch 1)*.
+- Ideal for [bridge tooling and low volume](/die-casting-tooling/) *(page deferred — not in Batch 1)*.
 
 ### Pressure Casting (HPDC)
 
 - High speed for massive volume.
 - Exceptional for ultra-thin walls.
-- Higher initial [mold investment](/cost-down-dfm-design-aluminum-die-casting-molds/) *(page deferred — not in Batch 1)*.
+- Higher initial [mold investment](/die-casting-tooling/) *(page deferred — not in Batch 1)*.
 
 ## Expert FAQ: From the Shop Floor
 
@@ -65,7 +68,7 @@ A: Initially, yes, due to the steel mold. However, the unit price is lower, the 
 
 ### Q: Can GDC handle EV components?
 
-A: It's the preferred method for [EV battery housing prototypes](/custom-casting-ev-battery-housing-prototypes/) *(page deferred — not in Batch 1)* because it can handle the pressure testing required for liquid-cooled systems.
+A: It's the preferred method for [EV battery housing prototypes](/ev-battery-housing-die-casting/) *(page deferred — not in Batch 1)* because it can handle the pressure testing required for liquid-cooled systems.
 
 ## Technical Capabilities: Process, Alloys, Tolerance & Production
 

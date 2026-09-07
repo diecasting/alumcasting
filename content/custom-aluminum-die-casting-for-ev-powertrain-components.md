@@ -27,12 +27,12 @@ In the rapidly advancing electric vehicle landscape, powertrain structural requi
 
 The engineering imperative to minimize structural weight while improving battery range forces vehicle architecture into ultra-thin-wall engineering. Achieving uniform wall configurations between 1.5mm and 2.5mm over expansive physical dimensions requires significant injection velocities and advanced, multi-zone thermal die control. Without uniform heat mitigation across tool surfaces, production runs risk early structural solidification or localized cold shuts.
 
-To eliminate these core defects before steel fabrication begins, our facility conducts comprehensive, front-end engineering via specialized [cost-down DFM mold analysis](/cost-down-dfm-design-aluminum-die-casting-molds/). By optimizing flow vectors, evaluating internal cooling insert loops, and modifying specific gate systems, we stabilize production yields and control complex tooling asset costs. This engineering workflow underpins our capability to support large-scale automotive production development, ensuring seamless transitions from initial concept testing to full line validation.
+To eliminate these core defects before steel fabrication begins, our facility conducts comprehensive, front-end engineering via specialized [cost-down DFM mold analysis](/die-casting-tooling/). By optimizing flow vectors, evaluating internal cooling insert loops, and modifying specific gate systems, we stabilize production yields and control complex tooling asset costs. This engineering workflow underpins our capability to support large-scale automotive production development, ensuring seamless transitions from initial concept testing to full line validation.
 
 ### Automotive Core Engineering Focus:
 
 - **Advanced Micro-Structure Control:** Deploying precise vacuum-assisted tooling processes to eliminate structural gas entrapment.
-- **Integrated Single-Source Sourcing:** Seamless management across our proprietary [one-stop die casting, CNC finishing, and surface treatment](/one-stop-die-casting-cnc-machining-surface-finishing/) production lines.
+- **Integrated Single-Source Sourcing:** Seamless management across our proprietary [one-stop die casting, CNC finishing, and surface treatment](/manufacturing-capabilities/) production lines.
 - **Strict Yield Assurance:** 100% pneumatic leak checking, high-resolution X-ray defect mapping, and tight CMM qualification protocols.
 
 ![Custom aluminum die casting mold design and tooling fabrication workshop floor](/images/custom-die-casting-mold-design-tooling-fabrication.webp)
@@ -43,9 +43,9 @@ Figure 2: Multi-Axis Post-Casting CNC Precision Machining Workstations.
 
 ## Metallurgical Selection: Structural Ductility vs. Mass Optimization
 
-Standard commercial aluminum grades like ADC12 are often insufficient when tier-1 buyers demand high mechanical elongation or structural post-casting assembly welding. For high-stress powertrain architectures, choosing the correct material chemistry is essential. Our team works closely with technical procurement groups to navigate complex structural evaluations, such as analyzing [magnesium AZ91D vs aluminum ADC12 for lightweight housings](/magnesium-az91d-vs-aluminum-adc12-lightweight-housing/) to achieve optimal mass reduction without compromising safety margins.
+Standard commercial aluminum grades like ADC12 are often insufficient when tier-1 buyers demand high mechanical elongation or structural post-casting assembly welding. For high-stress powertrain architectures, choosing the correct material chemistry is essential. Our team works closely with technical procurement groups to navigate complex structural evaluations, such as analyzing [magnesium AZ91D vs aluminum ADC12 for lightweight housings](/az91d-magnesium-die-casting-automotive-parts/) to achieve optimal mass reduction without compromising safety margins.
 
-When high impact performance or ductility is required, our engineering desk frequently clarifies [why we recommended A356 over ADC12 for high-stress structural parts](/why-we-recommended-a356-over-adc12-high-stress-structural-parts/). A356 aluminum responds exceptionally well to comprehensive [T6 heat treatments](/semi-solid-die-casting-heat-treatable-aluminum/), helping to avoid brittle fractures under sudden load stresses. Crucially, our automated thermal management cells incorporate specialized cooling profiles to [prevent blistering during baking](/prevent-blistering-aluminum-t6-heat-treatment/), ensuring structural density across every component lot.
+When high impact performance or ductility is required, our engineering desk frequently clarifies [why we recommended A356 over ADC12 for high-stress structural parts](/why-we-recommended-a356-over-adc12-high-stress-structural-parts/). A356 aluminum responds exceptionally well to comprehensive [T6 heat treatments](/semi-solid-die-casting-heat-treatable-aluminum/), helping to avoid brittle fractures under sudden load stresses. Crucially, our automated thermal management cells incorporate specialized cooling profiles to [prevent blistering during baking](/a356-semi-solid-casting-benefits-expert-guide/), ensuring structural density across every component lot.
 | EV Powertrain Component | Primary Alloy Selection | Critical Process Advantage |
 | --- | --- | --- |
 | Inverter Enclosures / Bases | A356 / ADC12 Aluminum | Excellent fluid thermal dissipation, low internal porosity for sealing. |
@@ -56,7 +56,7 @@ When high impact performance or ductility is required, our engineering desk freq
 
 For liquid-cooled powertrain castings, micro-porosity is a primary technical challenge. Internal air entrapment or localized shrinkage voids can create thin fluid pathways. Under continuous thermal stress and coolant system pressure, these hidden flaws can cause fluid to breach internal walls, risking fluid leaks into high-voltage electrical compartments.
 
-Our foundry counters sub-surface defects by pairing high-performance vacuum extraction modules with a rigorous [porosity control and X-ray inspection regime](/porosity-control-x-ray-inspection-castings/). Every structural part undergoes strict testing protocols to verify absolute sub-surface density. For safety-critical powertrain interfaces or battery cells that demand zero internal defects, we deploy specialized [pore-free structural die casting](/pore-free-die-casting-weldable-automotive-structural-parts/) methods to eliminate micro-voiding and support reliable field use.
+Our foundry counters sub-surface defects by pairing high-performance vacuum extraction modules with a rigorous [porosity control and X-ray inspection regime](/porosity-control-x-ray-inspection-castings/). Every structural part undergoes strict testing protocols to verify absolute sub-surface density. For safety-critical powertrain interfaces or battery cells that demand zero internal defects, we deploy specialized [pore-free structural die casting](/vacuum-assisted-die-casting-vs-conventional-hpdc-air-tightness/) methods to eliminate micro-voiding and support reliable field use.
 
 ## High-Tolerance Post-Machining and Quality Validation
 

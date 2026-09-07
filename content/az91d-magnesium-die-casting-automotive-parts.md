@@ -15,6 +15,8 @@ related_services:
   - "/magnesium-die-casting-services/"
   - "/automotive-die-casting-parts/"
   - "/contact/"
+aliases:
+  - /magnesium-az91d-vs-aluminum-adc12-lightweight-housing/
 ---
 
 # Beyond Lightness: What 20 Years in the Foundry Taught Me About AZ91D Magnesium Die Casting for Automotive Parts
@@ -29,7 +31,7 @@ Explore our complete [az91d magnesium die casting automotive parts](/magnesium-d
 
  In the automotive sector, weight reduction is no longer a luxury—it is survival. Whether you are extending the range of an electric vehicle or balancing an ICE chassis, **AZ91D magnesium die casting for automotive parts** presents the ultimate engineering frontier. At 1.81 g/cm³, magnesium is 33% lighter than aluminum and 75% lighter than steel.
 
- When comparing [Magnesium AZ91D vs Aluminum ADC12](/magnesium-az91d-vs-aluminum-adc12-lightweight-housing/), AZ91D offers superior thin-wall flowability and exceptional specific strength. This allows us to engineer ultra-thin, highly integrated [automotive die casting parts](/automotive-die-casting-parts/), consolidating multiple sheet-metal stampings into a single, elegant shot.
+ When comparing [Magnesium AZ91D vs Aluminum ADC12](/az91d-magnesium-die-casting-automotive-parts/), AZ91D offers superior thin-wall flowability and exceptional specific strength. This allows us to engineer ultra-thin, highly integrated [automotive die casting parts](/automotive-die-casting-parts/), consolidating multiple sheet-metal stampings into a single, elegant shot.
 
 ![5000T Large Scale High Pressure Die Casting Machine for Structural Automotive Parts](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 Figure 1: Our Giga-scale heavy-duty high-pressure die casting equipment designed for structural automotive applications and complex conversions.
@@ -38,7 +40,7 @@ Figure 1: Our Giga-scale heavy-duty high-pressure die casting equipment designed
 
  Most AI-generated blog posts will tell you that magnesium is a miracle metal. But out on the shop floor, at 2:00 AM when the scrap rate spikes, we see the real face of magnesium. It has a lower latent heat of fusion and lower heat capacity than aluminum. This means **it freezes incredibly fast**.
 
- If your tool design or [mold DFM analysis](/cost-down-dfm-design-aluminum-die-casting-molds/) is slightly off, you run into cold shuts, severe shrink defects, or catastrophic micro-porosity. For critical automotive applications like steering column housings, bracket systems, or complex [EV battery housing die castings](/ev-battery-housing-die-casting/), sub-surface porosity means mechanical failure under fatigue.
+ If your tool design or [mold DFM analysis](/die-casting-tooling/) is slightly off, you run into cold shuts, severe shrink defects, or catastrophic micro-porosity. For critical automotive applications like steering column housings, bracket systems, or complex [EV battery housing die castings](/ev-battery-housing-die-casting/), sub-surface porosity means mechanical failure under fatigue.
 
 ### How We Tame the Beast: Porosity Elimination
 
@@ -49,7 +51,7 @@ Figure 2: In-house non-destructive X-ray inspection ensuring zero critical poros
 
 ## The Alumcasting Edge: Beyond the Raw Casting
 
- A raw casting right out of the die is only half the battle won. In the automotive market, a part is useless if its tolerances don’t line up perfectly or if galvanic corrosion destroys it in the field. That is why we built a cohesive [one-stop die casting, CNC machining, and surface finishing](/one-stop-die-casting-cnc-machining-surface-finishing/) workflow under one single roof in Dongguan.
+ A raw casting right out of the die is only half the battle won. In the automotive market, a part is useless if its tolerances don’t line up perfectly or if galvanic corrosion destroys it in the field. That is why we built a cohesive [one-stop die casting, CNC machining, and surface finishing](/manufacturing-capabilities/) workflow under one single roof in Dongguan.
 | Process Milestone | Automotive Technical Requirement | How We Execute in Our Shop |
 | --- | --- | --- |
 | Precision Milling | Tolerances within ±0.01mm for mating faces. | Multi-axis high tolerance automotive CNC machining clusters. |

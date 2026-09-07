@@ -18,6 +18,8 @@ related_services:
   - "/precision-cnc-machining/"
   - "/automotive-die-casting-parts/"
   - "/contact/"
+aliases:
+  - /ppap-level-3-documentation-for-die-casting-iatf-guide/
 ---
 
 # Your Tier-1 Partner for High-Tolerance Automotive Machining

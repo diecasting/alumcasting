@@ -15,11 +15,14 @@ related_services:
   - "/automotive-die-casting-parts/"
   - "/porosity-control-x-ray-inspection-castings/"
   - "/contact/"
+aliases:
+  - /custom-casting-ev-battery-housing-prototypes/
+  - /ev-battery-housing-die-casting-design-prototyping-guide/
 ---
 
 # High-Pressure EV Battery Housing Die Casting Services
 
-In the rapidly evolving electric vehicle (EV) market, the efficiency and safety of battery systems depend heavily on the quality of their enclosures. At **Alumcasting**, we provide world-class **EV battery housing die casting** solutions, leveraging over 20 years of expertise in **aluminum die casting services** to meet the stringent requirements of modern e-mobility.
+In the rapidly evolving electric vehicle (EV) market, the efficiency and safety of battery systems depend heavily on the quality of their enclosures. At **Alumcasting**, we provide world-class **EV battery housing die casting** solutions, leveraging over 20 years of expertise in **[aluminum die casting](/aluminum-die-casting/) services** to meet the stringent requirements of modern e-mobility.
 ![5000T High Pressure Die Casting Machine for EV Structural Parts](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 
 Our 5,000-ton high-pressure die casting (HPDC) equipment is capable of producing massive, single-piece EV battery trays and structural components.

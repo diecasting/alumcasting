@@ -25,6 +25,8 @@ faq:
     answer: "For high-fluidity commercial applications like complex housing panels, A380 and ADC12 remain the baseline standard. However, when a project demands extreme elongation, superior impact resistance, or structural post-casting T6 processing, we transition to hyper-pure A356 or A360 silicon-magnesium structural alloys."
   - question: "Can low-porosity cast parts be CNC machined?"
     answer: "Yes. Low-porosity is paramount for extensive post-casting CNC machining. If a raw casting contains hidden sub-surface gas pockets, machining cuts will expose these voids, creating pitting that destroys surface finishes and O-ring seal pathways. Our process ensures uniform density, allowing precision machining down to strict tolerances of ±0.01mm."
+aliases:
+  - /casting-industry-applications/
 ---
 
 # Low-Porosity Aluminum Die Casting for Automotive Parts
@@ -55,14 +57,14 @@ By keeping internal porosity below critical aerospace and automotive structural 
 
 ## Critical Automotive Applications
 
-We also manufacture [explosion proof aluminum enclosures oil gas industry](https://alumcasting.com/explosion-proof-aluminum-enclosures-oil-gas-industry/) *(page deferred — not in Batch 1)* built for hazardous and oil & gas environments.
+We also manufacture [explosion proof aluminum enclosures oil gas industry](/explosion-proof-aluminum-enclosures-oil-gas-industry/) *(page deferred — not in Batch 1)* built for hazardous and oil & gas environments.
 
 We are fully equipped to serve critical engineering demands across key vehicle systems, delivering optimized performance and weight reduction:
 
-- **E-Mobility Architecture:** Precision electric motor housings, intricate inverter end-shields, and structurally dense EV battery tray brackets. [die cast aluminum electric motor housing suppliers](https://alumcasting.com/die-cast-aluminum-electric-motor-housing-suppliers/) *(page deferred — not in Batch 1)*
-- **Powertrain Integrity:** Air-tight gearbox casings, structural oil pans, timing chain covers, and robust engine mounting brackets. [custom aluminum die casting for ev powertrain components](https://alumcasting.com/custom-aluminum-die-casting-for-ev-powertrain-components/) *(page deferred — not in Batch 1)*
+- **E-Mobility Architecture:** Precision electric motor housings, intricate inverter end-shields, and structurally dense EV battery tray brackets. [die cast aluminum electric motor housing suppliers](/die-cast-aluminum-electric-motor-housing-suppliers/) *(page deferred — not in Batch 1)*
+- **Powertrain Integrity:** Air-tight gearbox casings, structural oil pans, timing chain covers, and robust engine mounting brackets. [custom aluminum die casting for ev powertrain components](/custom-aluminum-die-casting-for-ev-powertrain-components/) *(page deferred — not in Batch 1)*
 - **Chassis & Suspension:** High-ductility sub-frames, safety-critical steering knuckles, crossmembers, and control arms.
-- **Thermal Management:** Ultra-thin fin density electronic heat sinks, liquid-cooling cooling plates, and rugged ECU protective enclosures. [liquid cooled aluminum cooling plates for electric vehicles](https://alumcasting.com/liquid-cooled-aluminum-cooling-plates-for-electric-vehicles/) *(page deferred — not in Batch 1)*
+- **Thermal Management:** Ultra-thin fin density electronic heat sinks, liquid-cooling cooling plates, and rugged ECU protective enclosures. [liquid cooled aluminum cooling plates for electric vehicles](/liquid-cooled-aluminum-cooling-plates-for-electric-vehicles/) *(page deferred — not in Batch 1)*
 
 ## Technical FAQ: Automotive Die Casting
 

@@ -43,7 +43,7 @@ Integrated casting, machining and tooling capabilities for global engineering co
 
 - [Aluminum Die Casting](/aluminum-die-casting/) — ADC12, A380 and A356 high pressure die casting components.
 - [Magnesium Die Casting](/magnesium-die-casting-services/) — AZ91D and AM60B lightweight casting solutions.
-- [Semi-Solid Casting](/semi-solid-die-casting-manufacturers/) — Low porosity, high strength aluminum structures. *(page deferred — not in Batch 1)*
+- [Semi-Solid Casting](/semi-solid-die-casting-heat-treatable-aluminum/) — Low porosity, high strength aluminum structures. *(page deferred — not in Batch 1)*
 - [Precision CNC Machining](/precision-cnc-machining/) — High tolerance machining after casting production.
 
 ## Why Global Engineers Choose AlumCasting
@@ -85,7 +85,7 @@ Professional alloy selection for different engineering requirements.
 
 - [Aluminum Alloys](/aluminum-die-casting/) — ADC12, A380, A356, Aluminum Structural Casting.
 - [Magnesium Alloys](/magnesium-die-casting-services/) — AZ91D, AM60B, Lightweight Automotive Components.
-- [Semi-Solid Casting](/semi-solid-die-casting-manufacturers/) — A356 Rheocasting, Low Porosity Structure, Heat Treatable Parts. *(page deferred — not in Batch 1)*
+- [Semi-Solid Casting](/semi-solid-die-casting-heat-treatable-aluminum/) — A356 Rheocasting, Low Porosity Structure, Heat Treatable Parts. *(page deferred — not in Batch 1)*
 - [Surface Treatment](/surface-finishing-aluminum-magnesium-casting/) — MAO Coating, Powder Coating, Machining Finish. *(page deferred — not in Batch 1)*
 
 ## Engineering Quality Control System
@@ -158,9 +158,9 @@ The RFQ form is submitted on the [contact page](/contact/). *(contact page defer
 
 Technical resources from AlumCasting engineers.
 
-- [ADC12 Aluminum Alloy Properties Guide](/aluminum-alloy-adc12-properties-engineering-guide/) *(post — deferred)*
-- [Die Casting Defects & Solutions](/die-casting-defects-solutions-pro-guide/) *(post — deferred)*
-- [Magnesium vs Aluminum Die Casting](/magnesium-vs-aluminum-die-casting/) *(post — deferred)*
+- [ADC12 Aluminum Alloy Properties Guide](/adc12-die-casting-cnc-machining/)
+- [Die Casting Defects & Solutions](/porosity-control-x-ray-inspection-castings/) *(post — deferred)*
+- [Magnesium vs Aluminum Die Casting](/aluminum-to-magnesium-conversion-weight-reduction/) *(post — deferred)*
 - [Semi-Solid Casting Technology](/thixocasting-vs-rheocasting-comparison/) *(post — deferred)*
 
 ## Ready To Start Your Next Casting Project?

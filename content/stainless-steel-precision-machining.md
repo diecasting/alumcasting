@@ -30,7 +30,7 @@ Material Strategy in Action: While stainless steel offers unmatched corrosion re
 
 Often, a client comes to me wanting to machine a complex structural part from a solid block of stainless. My first question is always: *“Does it have to be stainless?”* If the goal is lightweight performance—as seen in the aerospace parts above—we might suggest high-strength alloys that are easier on the tools.
 
-However, if the environment is corrosive or requires high bio-compatibility, we stick to stainless steel but optimize the process. By using [cost-down DFM design](/cost-down-dfm-design-aluminum-die-casting-molds/), we can often reduce the amount of stainless removed, preserving tool life and significantly lowering the unit price of [high-tolerance CNC parts](/high-tolerance-automotive-cnc-machining/).
+However, if the environment is corrosive or requires high bio-compatibility, we stick to stainless steel but optimize the process. By using [cost-down DFM design](/die-casting-tooling/), we can often reduce the amount of stainless removed, preserving tool life and significantly lowering the unit price of [high-tolerance CNC parts](/high-tolerance-automotive-cnc-machining/).
 
  “I once saw a 316L project where the tool cost exceeded the material cost by 3:1. By adjusting the geometry to allow for larger tool diameters and better chip evacuation, we turned a money-losing job into a high-precision success story.”
 
@@ -43,7 +43,7 @@ However, if the environment is corrosive or requires high bio-compatibility, we 
 
 ## Scaling Your Precision
 
-Whether you are in the [small-batch prototyping](/small-batch-die-casting-cnc-finishing-guide/) phase or ready for [scaling production](/scaling-automotive-cnc-machining-production/), the key to stainless steel is consistency. We utilize a [IATF-16949 certified](/iatf-16949-high-tolerance-automotive-cnc-machining-supplier/) quality mindset to ensure that the 1,000th part is just as precise as the 1st.
+Whether you are in the [small-batch prototyping](/small-batch-die-casting-cnc-finishing-guide/) phase or ready for [scaling production](/precision-cnc-machining/), the key to stainless steel is consistency. We utilize a [IATF-16949 certified](/iatf-16949-high-tolerance-automotive-cnc-machining-supplier/) quality mindset to ensure that the 1,000th part is just as precise as the 1st.
 
 *Struggling with a design that’s eating your carbide tools? [Let’s consult on your STEP files](/contact/). We specialize in making the ‘impossible’ materials behave.*
 

@@ -30,6 +30,8 @@ faq:
     answer: "Depending on material, geometry and production requirements, AlumCasting supports high tolerance machining, including critical dimensions around ±0.015mm."
   - question: "How can I request a CNC machining quote?"
     answer: "Send your drawings, CAD files or project requirements. Our engineers will review manufacturability, process requirements and provide feedback."
+aliases:
+  - /scaling-automotive-cnc-machining-production/
 ---
 
 # Precision CNC Machining Supplier for Automotive, EV and Industrial Components
@@ -68,11 +70,11 @@ Precision turning solutions for shafts, housings, rotating components and indust
 
 ### Casting Machining
 
-Integrated machining after aluminum and magnesium casting production, helping customers reduce suppliers and improve consistency. [One Stop Manufacturing](/one-stop-die-casting-cnc-machining-surface-finishing/) *(page deferred — not in Batch 1)*
+Integrated machining after aluminum and magnesium casting production, helping customers reduce suppliers and improve consistency. [One Stop Manufacturing](/manufacturing-capabilities/) *(page deferred — not in Batch 1)*
 
 ## Beyond CNC Machining: Casting + Machining Under One Roof
 
-Many manufacturers can provide machining. However, when a component starts from a casting process, true manufacturing value comes from connecting every step together. For integrated production, see our [adc12 die casting cnc machining](https://alumcasting.com/adc12-die-casting-cnc-machining/) *(page deferred — not in Batch 1)* service.
+Many manufacturers can provide machining. However, when a component starts from a casting process, true manufacturing value comes from connecting every step together. For integrated production, see our [adc12 die casting cnc machining](/adc12-die-casting-cnc-machining/) *(page deferred — not in Batch 1)* service.
 
 AlumCasting combines:
 
@@ -82,7 +84,7 @@ AlumCasting combines:
 - Surface finishing
 - Quality inspection
 
-This integrated approach allows engineers to control the entire manufacturing chain, from raw material selection to final dimensional inspection. [Explore One Stop Manufacturing Solution](/one-stop-die-casting-cnc-machining-surface-finishing/) *(page deferred — not in Batch 1)*
+This integrated approach allows engineers to control the entire manufacturing chain, from raw material selection to final dimensional inspection. [Explore One Stop Manufacturing Solution](/manufacturing-capabilities/) *(page deferred — not in Batch 1)*
 
 ![Large aluminum die casting and CNC machining capability](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 
@@ -218,7 +220,7 @@ Send your drawings, CAD files or project requirements. Our engineers will review
 
 - [Aluminum Die Casting](/aluminum-die-casting/)
 - [Magnesium Die Casting](/magnesium-die-casting-services/)
-- [Semi-Solid Casting](/semi-solid-die-casting-manufacturers/) *(page deferred — not in Batch 1)*
+- [Semi-Solid Casting](/semi-solid-die-casting-heat-treatable-aluminum/) *(page deferred — not in Batch 1)*
 
 ## Ready To Start Your CNC Machining Project?
 

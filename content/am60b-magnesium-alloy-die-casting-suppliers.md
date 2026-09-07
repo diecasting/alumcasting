@@ -27,7 +27,7 @@ For a complete overview of our magnesium alloy program, see our [am60b magnesium
 
 ## The AM60B Paradox: Unmatched Ductility vs. Manufacturing Nightmare
 
- In the lightweight engineering playbook, choosing between alloys isn’t arbitrary. When you weigh the options in [magnesium vs aluminum die casting](/magnesium-vs-aluminum-die-casting/), AM60B stands out for a singular reason: its exceptional elongation profile (typically 6% to 8%). This makes it the gold standard for crash-absorbing [automotive die casting parts](/automotive-die-casting-parts/), such as steering wheel cores, instrument panel beams (CCBs), and cross-car structures.
+ In the lightweight engineering playbook, choosing between alloys isn’t arbitrary. When you weigh the options in [magnesium vs aluminum die casting](/aluminum-to-magnesium-conversion-weight-reduction/), AM60B stands out for a singular reason: its exceptional elongation profile (typically 6% to 8%). This makes it the gold standard for crash-absorbing [automotive die casting parts](/automotive-die-casting-parts/), such as steering wheel cores, instrument panel beams (CCBs), and cross-car structures.
 
  However, unlike AZ91D, AM60B contains less aluminum. This reduction dramatically narrows its freezing range, drastically lowering its fluid flow characteristics while significantly elevating its susceptibility to hot tearing. If your supplier approaches AM60B with a standard aluminum mindset, your scrap rates will skyrocket due to cold shuts and localized shrinkage fractures. It demands massive locking forces and sophisticated thermal balancing.
 
@@ -45,7 +45,7 @@ Figure 2: Real-time X-ray screening checks the sub-surface density of every AM60
 
 ## Execution is Everything: From Molten Ingot to Fully Machined Assembly
 
- Elite B2B buyers don’t have the time to audit three separate vendors for casting, machining, and chemical passivation. Any transportation of raw magnesium parts across external logistics networks invites atmospheric humidity, leading to quick oxidation flaws. Alumcasting bypasses this bottleneck completely through our highly integrated [one-stop die casting, CNC machining, and surface finishing](/one-stop-die-casting-cnc-machining-surface-finishing/) infrastructure based in our Dongguan industrial facilities.
+ Elite B2B buyers don’t have the time to audit three separate vendors for casting, machining, and chemical passivation. Any transportation of raw magnesium parts across external logistics networks invites atmospheric humidity, leading to quick oxidation flaws. Alumcasting bypasses this bottleneck completely through our highly integrated [one-stop die casting, CNC machining, and surface finishing](/manufacturing-capabilities/) infrastructure based in our Dongguan industrial facilities.
 
 ![High Precision CNC Automotive Post-Casting Machining Matrix](/images/High-Precision-CNC-Wokshop.webp)
 Figure 3: Multi-axis high-speed CNC clusters maintain critical dimensions under tight tolerances.
@@ -57,7 +57,7 @@ Figure 4: Automated surface line executing advanced eco-compliant anti-corrosion
 
 ## Traceability and Metrology: Surviving a Tier-1 Supplier Audit
 
- We don’t manage quality via spot-checks; we run an unyielding, data-driven manufacturing ecosystem. For complex structural conversions, our engineering division crafts detailed [mold cost-down DFM analyses](/how-dfm-analysis-reduces-die-casting-costs/) long before cutting steel, optimizing venting paths and minimizing structural stress points.
+ We don’t manage quality via spot-checks; we run an unyielding, data-driven manufacturing ecosystem. For complex structural conversions, our engineering division crafts detailed [mold cost-down DFM analyses](/die-casting-tooling/) long before cutting steel, optimizing venting paths and minimizing structural stress points.
 
 ![Automated Zeiss CMM Dimensional Verification Center](/images/CMM-Inspection-Equipment.webp)
 Figure 5: Temperature-controlled computerized metrology lab validating coordinate geometric accuracy.

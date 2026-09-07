@@ -75,7 +75,7 @@ From casting development to final production, AlumCasting provides a complete ma
 
 - **Aluminum Die Casting** — Supports complex components requiring high strength, lightweight design and dimensional stability. [Learn More](/aluminum-die-casting/)
 - **Magnesium Die Casting** — Lightweight solutions for automotive, EV and industrial components. [Learn More](/magnesium-die-casting-services/)
-- **Semi-Solid Casting** — Rheocasting technology improves material structure, mechanical performance and casting quality. [Learn More](/semi-solid-die-casting-manufacturers/) *(page deferred — not in Batch 1)*
+- **Semi-Solid Casting** — Rheocasting technology improves material structure, mechanical performance and casting quality. [Learn More](/semi-solid-die-casting-heat-treatable-aluminum/) *(page deferred — not in Batch 1)*
 - **Precision CNC Machining** — High tolerance finishing for cast components and precision mechanical parts. [Learn More](/precision-cnc-machining/)
 - **Tooling & Engineering Development** — From mold design to production validation, optimized tooling solutions. [Learn More](/die-casting-tooling/)
 - **Surface Treatment Solutions** — Finishing processes including surface protection, appearance improvement and functional treatments. [Learn More](/surface-finishing-aluminum-magnesium-casting/) *(page deferred — not in Batch 1)*

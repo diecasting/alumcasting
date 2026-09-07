@@ -15,6 +15,8 @@ related_services:
   - "/precision-cnc-machining/"
   - "/aluminum-die-casting/"
   - "/contact/"
+aliases:
+  - /precision-cnc-machining-medical-equipment-components/
 ---
 
 # Medical Device Component Machining: The Unforgiving Art of Precision
@@ -32,7 +34,7 @@ High-precision magnesium die-cast components: Bridging the gap between extreme l
 
 While aluminum remains a staple, we are seeing a massive shift toward [aluminum to magnesium conversion](/aluminum-to-magnesium-conversion-weight-reduction/) in the medical field. Why? Because the next generation of portable surgical robots and diagnostic tablets demand a strength-to-weight ratio that only magnesium can provide.
 
-As shown in the image above, the complexity we can achieve today allows for intricate, thin-walled structures that still offer robust [corrosion protection](/magnesium-die-casting-corrosion-protection-mao-coating/) through MAO coating. This is critical for parts that must withstand harsh hospital sterilization cycles.
+As shown in the image above, the complexity we can achieve today allows for intricate, thin-walled structures that still offer robust [corrosion protection](/magnesium-die-casting-services/) through MAO coating. This is critical for parts that must withstand harsh hospital sterilization cycles.
 
  “I once oversaw a project for a robotic surgical arm. The housing required such extreme flatness that even the heat from the operator’s hand during inspection could warp the results. We had to rethink our entire clamping strategy and temperature-control our workshop to 22°C. That is the level of obsession required.”
 
@@ -40,10 +42,10 @@ As shown in the image above, the complexity we can achieve today allows for intr
 
 For structural medical components that require absolute density, we often recommend [semi-solid casting](/semi-solid-die-casting-heat-treatable-aluminum/) followed by [T6 heat treatment](/semi-solid-die-casting-heat-treatable-aluminum/). This ensures that when the part hits our 5-axis CNC machines, the grain structure is stable enough to hold the tolerances your engineers demand.
 
-Scaling these projects requires a partner who understands the journey from [T0 trials to 10,000 units](/scaling-die-casting-production-t0-to-10000-units/). In medical machining, you can’t just ‘speed up’ the line; you must maintain the same Cpk from the first part to the last.
+Scaling these projects requires a partner who understands the journey from [T0 trials to 10,000 units](/manufacturing-capabilities/). In medical machining, you can’t just ‘speed up’ the line; you must maintain the same Cpk from the first part to the last.
 Q: Can you handle low-volume medical device prototyping?
 
-A: Yes. We use [bridge tooling](/bridge-tooling-low-volume-aluminum-die-casting-guide/) to help medical startups reach functional testing phases without the long lead times of high-volume production dies.
+A: Yes. We use [bridge tooling](/die-casting-tooling/) to help medical startups reach functional testing phases without the long lead times of high-volume production dies.
 Q: How do you guarantee the internal integrity of these parts?
 
 A: We utilize [X-ray porosity control](/porosity-control-x-ray-inspection-castings/). For medical components, discovering a void during the final machining stage is a cost we don’t pass on to our clients—we prevent it at the source.

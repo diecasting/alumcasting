@@ -15,6 +15,8 @@ related_services:
   - "/aluminum-die-casting/"
   - "/magnesium-die-casting-services/"
   - "/contact/"
+aliases:
+  - /post-casting-treatments-finishing-options-aluminum/
 ---
 
 Industrial Grade Post-Processing

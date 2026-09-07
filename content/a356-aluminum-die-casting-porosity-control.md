@@ -8,6 +8,8 @@ page_type: "post"
 schema_type: "Article"
 translationKey: "a356-aluminum-die-casting-porosity-control"
 language: "en"
+aliases:
+  - /a356-aluminum-die-casting-alloy-properties/
 rfq: true
 cta: "Request a Quote"
 cta_url: "/contact/"
@@ -24,14 +26,14 @@ related_services:
 
 *By a Veteran Foundry Director | 20+ Years in Precision Metallurgy*
 
-Let’s skip the standard textbook jargon for a moment. If you are a Tier 1 automotive procurement specialist or an EV structural engineer sourcing parts from [A356 aluminum die casting manufacturers in China](https://alumcasting.com/), you don’t sleep well at night for one primary reason: **porosity**. It is the silent, sub-surface enemy that ruins mechanical integrity. You look at a perfect 3D CAD model, but out on the casting floor next to an 2500-ton machine, we fight a chaotic thermodynamic battle against trapped air, hydrogen pickup, and shrinkage.
+Let’s skip the standard textbook jargon for a moment. If you are a Tier 1 automotive procurement specialist or an EV structural engineer sourcing parts from [A356 aluminum die casting manufacturers in China](/), you don’t sleep well at night for one primary reason: **porosity**. It is the silent, sub-surface enemy that ruins mechanical integrity. You look at a perfect 3D CAD model, but out on the casting floor next to an 2500-ton machine, we fight a chaotic thermodynamic battle against trapped air, hydrogen pickup, and shrinkage.
 
 A356 is a gorgeous alloy. With its 7% Silicon and 0.35% Magnesium, it gives us the magical ability to perform T6 solution and artificial aging treatments. This yields the high elongation and yield strength required for safety-critical [automotive die casting parts](/automotive-die-casting-parts/). But here is the catch: if your casting vendor does not master **A356 aluminum die casting porosity control**, those micro-voids will expand during a 535°C T6 furnace cycle, turning the surface of your expensive components into a blistered, weak nightmare.
 ![A356 aluminum die casting porosity control moldflow analysis visualization](/images/A356-aluminum-die-casting-porosity-control.webp)Figure 1: Our real-time Moldflow simulation targeting velocity drop-offs to prevent gas entrapment inside a chassis structural bracket.
 
 ## Why Traditional HPDC Fails A356 (And How We Fix It)
 
-In standard high-pressure die casting (HPDC), molten metal is rammed into the tool cavity at ballistic speeds exceeding 40 meters per second. This extreme velocity creates violent turbulence. The air inside the shot sleeve gets violently whipped into the liquid metal. For standard parts using ADC12, you can live with small localized pockets. But for highly stressed automotive brackets or housing units, that trapped gas is a ticking time bomb.
+In standard [high-pressure die casting](/high-pressure-die-casting-process-quality/) (HPDC), molten metal is rammed into the tool cavity at ballistic speeds exceeding 40 meters per second. This extreme velocity creates violent turbulence. The air inside the shot sleeve gets violently whipped into the liquid metal. For standard parts using ADC12, you can live with small localized pockets. But for highly stressed automotive brackets or housing units, that trapped gas is a ticking time bomb.
 
 To win the war on porosity, we have to transition away from traditional rules. We utilize specialized [semi-solid die casting for heat-treatable aluminum](/semi-solid-die-casting-heat-treatable-aluminum/) or implement high-density vacuum valves. By dropping the cavity pressure below 50 mbar right before the shot arrives, we draw out the atmospheric air. The metal fills the tool smoothly rather than exploding into a spray, eliminating trapped gas voids at the source.
 

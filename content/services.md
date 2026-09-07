@@ -84,7 +84,7 @@ High accuracy machining services for prototypes, low volume and production parts
 
 [Learn More](/precision-cnc-machining/)
 
-We also provide [zinc die casting services](https://alumcasting.com/zinc-die-casting-services/) *(page deferred — not in Batch 1)*, [sand casting services](https://alumcasting.com/sand-casting-services/) *(page deferred — not in Batch 1)* and [gravity die casting manufacturer](/gravity-die-casting-manufacturer/) for specialized component requirements.
+We also provide [zinc die casting services](/zinc-die-casting-services/) *(page deferred — not in Batch 1)*, [sand casting services](/sand-casting-services/) *(page deferred — not in Batch 1)* and [gravity die casting manufacturer](/gravity-die-casting-manufacturer/) for specialized component requirements.
 
 ## Semi-Solid Die Casting
 
@@ -95,7 +95,7 @@ Semi-solid casting technology combines the advantages of traditional die casting
 - Suitable for heat treatment applications
 - High-performance aluminum components
 
-[Explore Semi-Solid Casting](/semi-solid-die-casting-manufacturers/) *(page deferred — not in Batch 1)*
+[Explore Semi-Solid Casting](/semi-solid-die-casting-heat-treatable-aluminum/) *(page deferred — not in Batch 1)*
 
 ## Die Casting Tooling Development
 

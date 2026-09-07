@@ -15,6 +15,8 @@ related_services:
   - "/semi-solid-die-casting-heat-treatable-aluminum/"
   - "/automotive-die-casting-parts/"
   - "/contact/"
+aliases:
+  - /sand-casting-process-guide/
 ---
 
 # Sand Casting Services: Embracing Complexity Where Others Shrink
@@ -23,14 +25,14 @@ related_services:
 
 In the twenty years I’ve spent walking the workshop floors from Dongguan to Shenzhen, I’ve seen technologies evolve from manual sketches to AI-driven simulations. But when a client approaches me with a massive engine block or a complex housing, my mind immediately goes to **sand casting services**.
 
-There is a unique beauty in the sand. It’s a process that demands both the brute force of heavy industry and the delicate touch of a master craftsman. While many favor the speed of high-pressure die casting, sand casting remains the “king of flexibility.”
+There is a unique beauty in the sand. It’s a process that demands both the brute force of heavy industry and the delicate touch of a master craftsman. While many favor the speed of high-pressure [die casting](/aluminum-die-casting/), sand casting remains the “king of flexibility.”
 
 ![Semi-Solid Casting SSM Zero Porosity Structural Parts](/images/semi-solid-casting-ssm-zero-porosity-structural-parts.webp)
 Pushing beyond sand: When your design requires the integrity of sand casting but the precision of semi-solid (SSM) structural components.
 
 ## From Prototype to High-Performance Reality
 
-A common path for our clients is starting with sand casting for initial validation and then evolving toward more advanced methods. For instance, many of our [EV battery housing prototypes](/custom-casting-ev-battery-housing-prototypes/) begin life in a sand mold.
+A common path for our clients is starting with sand casting for initial validation and then evolving toward more advanced methods. For instance, many of our [EV battery housing prototypes](/ev-battery-housing-die-casting/) begin life in a sand mold.
 
 However, once the design is frozen and the requirements for “zero porosity” become critical, we often discuss the transition to [semi-solid die casting](/semi-solid-die-casting-heat-treatable-aluminum/). As shown in the image above, SSM allows for the same heat-treatable density as sand casting but with significantly better surface finish and dimensional stability.
 

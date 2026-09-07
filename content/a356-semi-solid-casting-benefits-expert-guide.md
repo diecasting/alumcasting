@@ -18,6 +18,8 @@ related_services:
   - "/porosity-control-x-ray-inspection-castings/"
   - "/aluminum-to-magnesium-conversion-weight-reduction/"
   - "/contact/"
+aliases:
+  - /prevent-blistering-aluminum-t6-heat-treatment/
 ---
 
 # A356 Semi-Solid Casting Benefits: Beyond the Limits of Liquid Metal
@@ -32,7 +34,7 @@ related_services:
 
 I have spent over two decades standing in front of heavy-duty die-casting machines, and if there is one alloy that represents the “Gold Standard” for high-stress structural integrity, it is A356. But here is the secret most commercial foundries won’t tell you: A356 only truly breathes when you move away from traditional liquid casting. When we unlock the **A356 semi-solid casting benefits**, we aren’t just making a part; we are creating a masterpiece of structural engineering.
 
-“A few years ago, a client came to me with a safety-critical automotive suspension bracket that kept failing under dynamic stress. They were running standard high-pressure die casting (HPDC) with A380, but the internal gas porosity acted as a ticking time bomb. We switched their project to A356 semi-solid casting. The result? A 40% increase in structural fatigue life and a part that finally passed X-ray inspection with zero defects. That is the definitive power of SSM.”
+“A few years ago, a client came to me with a safety-critical automotive suspension bracket that kept failing under dynamic stress. They were running standard high-pressure [die casting](/aluminum-die-casting/) (HPDC) with A380, but the internal gas porosity acted as a ticking time bomb. We switched their project to A356 semi-solid casting. The result? A 40% increase in structural fatigue life and a part that finally passed X-ray inspection with zero defects. That is the definitive power of SSM.”
 
 
 ## Why Semi-Solid (SSM) Changes Everything

@@ -26,7 +26,7 @@ Advanced Automation: Our 5000-ton HPDC cell ensures consistent cycle times and s
 
 ## Our HPDC Manufacturing Process
 
-Success in **aluminum alloy die casting** starts with controlling variables. Our integrated approach ensures that from the moment the ingot melts to the final CNC trim, every step is optimized for density and strength.
+Success in **aluminum alloy die casting** starts with controlling variables. Our integrated approach ensures that from the moment the ingot melts to the final CNC trim, every step is optimized for density and strength. HPDC is not the right answer for every part, though — where trapped gas or a T6 heat treatment requirement becomes the constraint, our [LPDC vs HPDC process selection guide](/low-pressure-vs-high-pressure-die-casting-comparison/) explains when to switch processes.
 
 **1. Precision Die Design & DFM:** We use advanced simulation software to predict metal flow and air entrapment, reducing porosity before the first shot is fired.
 
@@ -39,7 +39,7 @@ Vertical Integration: Continuous monitoring from casting to CNC machining ensure
 
 ## Strict Quality Control & Inspection
 
-For B2B buyers, reliability is non-negotiable. Our quality management system is designed to eliminate **die casting defects** such as cold shuts, flashing, and internal porosity.
+For B2B buyers, reliability is non-negotiable. Our quality management system is designed to eliminate **die casting defects** such as cold shuts, flashing, and internal porosity, and it is operated under the [ISO 14001 certified manufacturing](/iso-14001-high-pressure-aluminium-die-casting-manufacturer/) standard that governs our environmental performance.
 | Inspection Type | Equipment / Purpose | Standard |
 | --- | --- | --- |
 | Internal Integrity | Real-time X-Ray Monitoring | ASTM E155 / Zero Porosity |

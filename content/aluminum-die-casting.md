@@ -17,6 +17,8 @@ related_services:
   - "/die-casting-tooling/"
   - "/automotive-die-casting-parts/"
   - "/services/"
+aliases:
+  - /ultimate-aluminum-die-casting-design-guide-expert-tips/
 ---
 
 # Aluminum Die Casting Manufacturer for High Precision Components and Structural Parts
@@ -49,7 +51,7 @@ A successful casting project is not only about machine size. It requires experie
 
 ### High Pressure Die Casting
 
-Advanced HPDC technology provides excellent repeatability for high volume production. For cold-chamber processes, see our [cold chamber die casting services](https://alumcasting.com/cold-chamber-die-casting-services/) *(page deferred — not in Batch 1)*.
+Advanced HPDC technology provides excellent repeatability for high volume production. For cold-chamber processes, see our [cold chamber die casting services](/cold-chamber-die-casting-services/). Where cycle speed has to be weighed against structural integrity, our [low-pressure vs high-pressure die casting comparison](/low-pressure-vs-high-pressure-die-casting-comparison/) sets out the trade-offs.
 
 ### Large Structural Casting
 
@@ -65,15 +67,15 @@ Choosing the correct aluminum alloy is one of the first decisions that determine
 
 ### ADC12 Aluminum
 
-Excellent casting performance and widely used for automotive and industrial components. [Learn ADC12 Properties](/aluminum-alloy-adc12-properties-engineering-guide/) *(page deferred — not in Batch 1)*
+Excellent casting performance and widely used for automotive and industrial components. [Learn ADC12 Properties](/adc12-die-casting-cnc-machining/)
 
 ### A380 Aluminum
 
-A popular aluminum alloy offering good strength, corrosion resistance and dimensional stability. Looking for A383? See our [a383 aluminum die casting service](https://alumcasting.com/a383-aluminum-die-casting-service/) *(page deferred — not in Batch 1)*. [View A380 Guide](/a380-aluminum-die-casting-alloy-properties/) *(page deferred — not in Batch 1)*
+A popular aluminum alloy offering good strength, corrosion resistance and dimensional stability. Looking for A383? See our [a383 aluminum die casting service](/a383-aluminum-die-casting-service/). [View A380 Guide](/380-aluminum-die-casting-service/)
 
 ### A356 Aluminum
 
-Preferred for structural applications requiring improved mechanical properties. [View A356 Guide](/a356-aluminum-die-casting-alloy-properties/) *(page deferred — not in Batch 1)*
+Preferred for structural applications requiring improved mechanical properties. [View A356 Guide](/a356-aluminum-die-casting-porosity-control/)
 
 ## High Pressure Aluminum Die Casting Process
 
@@ -88,10 +90,10 @@ Every production part begins with engineering preparation.
 Besides aluminum die casting, AlumCasting provides:
 
 - [Magnesium Die Casting](/magnesium-die-casting-services/)
-- [Semi-Solid Die Casting](/semi-solid-die-casting-manufacturers/) *(page deferred — not in Batch 1)*
+- [Semi-Solid Die Casting](/semi-solid-die-casting-heat-treatable-aluminum/)
 - [Precision CNC Machining](/precision-cnc-machining/)
 - [Die Casting Tooling](/die-casting-tooling/)
-- [Quality Inspection Services](/die-casting-factory-cmm-xray-inspection/) *(page deferred — not in Batch 1)*
+- [Quality Inspection Services](/porosity-control-x-ray-inspection-castings/)
 
 ## Quality Control: Because What Happens Inside the Casting Matters
 
@@ -101,19 +103,19 @@ A high-quality aluminum casting is not judged only by appearance. The most serio
 
 ### X-Ray Porosity Inspection
 
-Internal quality verification for structural aluminum components where strength and reliability are critical. [Learn About X-Ray Inspection](/die-casting-factory-cmm-xray-inspection/) *(page deferred — not in Batch 1)*
+Internal quality verification for structural aluminum components where strength and reliability are critical. [Learn About X-Ray Inspection](/porosity-control-x-ray-inspection-castings/)
 
 ![CMM dimensional inspection](/images/CMM-Inspection-Equipment.webp)
 
 ### CMM Dimensional Inspection
 
-High precision measurement ensures castings meet customer drawings and assembly requirements. [Quality Inspection Capability](/die-casting-factory-cmm-xray-inspection/) *(page deferred — not in Batch 1)*
+High precision measurement ensures castings meet customer drawings and assembly requirements. [Quality Inspection Capability](/porosity-control-x-ray-inspection-castings/)
 
 ![Leak testing equipment](/images/Leakaging-Testing-Equipment.webp)
 
 ### Leak Testing
 
-For battery housings, motor housings and pressure-related applications requiring airtight performance. [Inspection Solutions](/die-casting-factory-cmm-xray-inspection/) *(page deferred — not in Batch 1)*
+For battery housings, motor housings and pressure-related applications requiring airtight performance. [Inspection Solutions](/porosity-control-x-ray-inspection-castings/)
 
 ## Manufacturing Under International Quality Standards
 
@@ -129,7 +131,7 @@ A systematic approach for process control, continuous improvement and customer s
 
 ### IATF 16949 Automotive Quality
 
-Automotive customers require strict process control, traceability and reliability. Our manufacturing system supports automotive component production requirements.
+Automotive customers require strict process control, traceability and reliability. Our manufacturing system supports automotive component production requirements, and environmental management is held to the same audited standard across our [ISO 14001 certified high pressure aluminium die casting](/iso-14001-high-pressure-aluminium-die-casting-manufacturer/) operation.
 
 ### Engineering Documentation
 
@@ -148,13 +150,13 @@ Our engineers focus on:
 
 ![A356 aluminum die casting porosity control](/images/A356-aluminum-die-casting-porosity-control.webp)
 
-[Learn more about aluminum structural casting](/a356-aluminum-die-casting-porosity-control/) *(page deferred — not in Batch 1)*
+[Learn more about aluminum structural casting](/a356-aluminum-die-casting-porosity-control/)
 
 ## Advanced Aluminum Technology: Semi-Solid Die Casting
 
-Traditional high pressure die casting has helped manufacturers produce millions of components. However, when engineers need improved mechanical performance, reduced porosity and heat-treatment capability, semi-solid casting becomes an attractive solution.
+Traditional [high pressure die casting](/high-pressure-die-casting-process-quality/) has helped manufacturers produce millions of components. However, when engineers need improved mechanical performance, reduced porosity and heat-treatment capability, semi-solid casting becomes an attractive solution.
 
-AlumCasting provides engineering support for advanced aluminum applications including semi-solid casting technology. [Explore Semi-Solid Die Casting Manufacturer](/semi-solid-die-casting-manufacturers/) *(page deferred — not in Batch 1)*
+AlumCasting provides engineering support for advanced aluminum applications including semi-solid casting technology. [Explore Semi-Solid Die Casting Manufacturer](/semi-solid-die-casting-heat-treatable-aluminum/)
 
 ![Semi-solid casting microstructure](/images/semi-solid-casting-microstructure-vs-xray-porosity-test.webp)
 
@@ -189,7 +191,7 @@ After casting, many components require secondary machining for precise interface
 
 ### Surface Treatment
 
-Surface finishing improves appearance, corrosion resistance and product durability for different industries. [View Surface Finishing Options](/surface-finishing-aluminum-magnesium-casting/) *(page deferred — not in Batch 1)*
+Surface finishing improves appearance, corrosion resistance and product durability for different industries. [View Surface Finishing Options](/surface-finishing-aluminum-magnesium-casting/)
 
 ### Die Casting Tooling
 
@@ -222,9 +224,9 @@ Depending on your project requirements, our engineering team can support differe
 
 - **Aluminum Manufacturing:** [Aluminum Die Casting Manufacturer](/aluminum-die-casting/)
 - **Lightweight Magnesium:** [Magnesium Die Casting Services](/magnesium-die-casting-services/)
-- **Advanced Casting Technology:** [Semi-Solid Die Casting Manufacturer](/semi-solid-die-casting-manufacturers/) *(page deferred — not in Batch 1)*
+- **Advanced Casting Technology:** [Semi-Solid Die Casting Manufacturer](/semi-solid-die-casting-heat-treatable-aluminum/)
 - **Precision Manufacturing:** [Precision CNC Machining Supplier](/precision-cnc-machining/)
-- **Quality Verification:** [CMM & X-Ray Inspection Services](/die-casting-factory-cmm-xray-inspection/) *(page deferred — not in Batch 1)*
+- **Quality Verification:** [CMM & X-Ray Inspection Services](/porosity-control-x-ray-inspection-castings/)
 - **Tooling Engineering:** [Die Casting Mold Design & Tooling](/die-casting-tooling/)
 
 ## Why Global Customers Choose AlumCasting

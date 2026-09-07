@@ -28,11 +28,11 @@ Figure 1: Our 5000T cold chamber die casting floor running large-scale structura
 
 ## The 5000T Clamping Force vs. Projected Area Paradox
 
-Let’s strip away the textbook definitions. What is the actual projected area limit? On paper, a 5000-ton machine exerts 50,000 kN of force to keep the moving and fixed die halves closed. When molten aluminum alloy—say, liquid [A380 aluminum](/a380-aluminum-die-casting-alloy-properties/)—is forced into the mold via the plunger at speeds exceeding 6 m/s, it creates an intense internal cavity spike pressure. This pressure typically ranges from 70 MPa to over 100 MPa for high-density structural components.
+Let’s strip away the textbook definitions. What is the actual projected area limit? On paper, a 5000-ton machine exerts 50,000 kN of force to keep the moving and fixed die halves closed. When molten aluminum alloy—say, liquid [A380 aluminum](/380-aluminum-die-casting-service/)—is forced into the mold via the plunger at speeds exceeding 6 m/s, it creates an intense internal cavity spike pressure. This pressure typically ranges from 70 MPa to over 100 MPa for high-density structural components.
 
 If your component’s projected area (the flat shadow area of the part plus the entire gating and overflow system) is too vast, the separation force will exceed 5000 tons. The result? Flash, dimensional blowing, out-of-tolerance part lines, or a dangerous spray of molten alloy. For a 5000T machine, your maximum safe projected area generally tops out between **3,500 cm² to 5,000 cm²** depending heavily on the target injection pressure.
 
-**Hank’s Shop-Floor Reality Check:** Many R&D engineers forget to calculate the overflow wells and the runner footprint into the projected area. When designing massive housings, if your part itself takes up 4,200 cm², your runners might push you to 5,300 cm². You don’t need a bigger part redesign; you need a smarter, more compact [DFM design for aluminum die casting molds](/cost-down-dfm-design-aluminum-die-casting-molds/) to save that critical footprint.
+**Hank’s Shop-Floor Reality Check:** Many R&D engineers forget to calculate the overflow wells and the runner footprint into the projected area. When designing massive housings, if your part itself takes up 4,200 cm², your runners might push you to 5,300 cm². You don’t need a bigger part redesign; you need a smarter, more compact [DFM design for aluminum die casting molds](/die-casting-tooling/) to save that critical footprint.
 
 ## The Golden Rules of Maximum and Minimum Wall Thickness
 

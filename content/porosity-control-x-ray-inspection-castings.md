@@ -15,11 +15,16 @@ related_services:
   - "/precision-cnc-machining/"
   - "/aluminum-die-casting/"
   - "/contact/"
+aliases:
+  - /die-casting-factory-cmm-xray-inspection/
+  - /die-casting-defects-solutions-pro-guide/
+  - /5-methods-eliminate-porosity-aluminum-pressure-die-casting/
+
 ---
 
 # Quality Assurance & Control
 
-Zero-Defect Commitment. Our IATF 16949 Certified Quality Management System ensures precision and consistency for every automotive and industrial component.
+Zero-Defect Commitment. Our IATF 16949 Certified Quality Management System ensures precision and consistency for every automotive and industrial component, and our [ISO 14001 certified aluminium die casting](/iso-14001-high-pressure-aluminium-die-casting-manufacturer/) operation applies the same discipline to environmental compliance.
 IATF 16949:2016ISO 9001:2015ISO 14001:2015RoHS & REACH Compliant
 
 ## Our Systematic Inspection Workflow

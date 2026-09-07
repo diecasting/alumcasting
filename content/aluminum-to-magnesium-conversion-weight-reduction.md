@@ -18,6 +18,8 @@ related_services:
   - "/magnesium-die-casting-services/"
   - "/aluminum-die-casting/"
   - "/contact/"
+aliases:
+  - /magnesium-vs-aluminum-die-casting/
 ---
 
 # Lightweighting Victory:

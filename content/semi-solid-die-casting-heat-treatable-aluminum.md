@@ -14,6 +14,9 @@ cta_url: "/contact/"
 related_services:
   - "/aluminum-die-casting/"
   - "/contact/"
+aliases:
+  - /semi-solid-die-casting-manufacturers/
+  - /t6-heat-treatment-semi-solid-die-casting-aluminum/
 ---
 
 Advanced Rheocasting Technology
@@ -44,7 +47,7 @@ The Science
 
 ## Semi-Solid Slurry Behavior vs. Conventional Cavity Fills
 
-Standard High-Pressure Die Casting (HPDC) shoots molten metal into the mold cavity at extremely high velocities, creating severe turbulence that traps gas and causes internal micro-porosity. This completely prevents secondary **T6 heat treatment**, as high temperatures cause the trapped gases to expand, creating structural surface blistering.
+Standard [High-Pressure Die Casting](/high-pressure-die-casting-process-quality/) (HPDC) shoots molten metal into the mold cavity at extremely high velocities, creating severe turbulence that traps gas and causes internal micro-porosity. This completely prevents secondary **T6 heat treatment**, as high temperatures cause the trapped gases to expand, creating structural surface blistering.
 
 Our specialized **Semi-Solid Rheocasting** process utilizes a controlled slurry mix where the alloy remains precisely in a semi-solid state. This globular microstructure flows uniformly into the tool steel matrix via a stable, progressive laminar front—eliminating air pocket creation and establishing forge-density alignment.
 
@@ -63,7 +66,7 @@ Where high mechanical loading, component lightweighting, and structural integrit
 ## Process Parameters:
 SSM vs. Traditional HPDC
 
-Review the definitive metallurgical differences between standard high-pressure die casting and semi-solid rheocasting methods.
+Review the definitive metallurgical differences between standard high-pressure die casting and semi-solid rheocasting methods. If you are still deciding between the two mainstream pressure processes themselves, our [comparison of low-pressure and high-pressure casting](/low-pressure-vs-high-pressure-die-casting-comparison/) treats that choice separately.
 
 | Performance Metric | High-Pressure Die Casting (HPDC) | Semi-Solid Die Casting (SSM) |
 | --- | --- | --- |

@@ -17,6 +17,9 @@ related_services:
   - "/precision-cnc-machining/"
   - "/die-casting-tooling/"
   - "/services/"
+aliases:
+  - /one-stop-die-casting-cnc-machining-surface-finishing/
+  - /scaling-die-casting-production-t0-to-10000-units/
 ---
 
 # Advanced Manufacturing Capabilities
@@ -29,7 +32,7 @@ If you have spent twenty years standing in front of high-pressure casting presse
 
 The real engineering advantage comes from controlling thermal gradients inside the steel tooling, gas evacuation velocity through venting channels, and the molecular crystallization window of each alloy system.
 
-At [Alumcasting](https://alumcasting.com/), we do not simply operate equipment assets. We manage a complete precision metal manufacturing ecosystem. From thin-wall EV structural components to high cosmetic aluminum housings, our production system is designed to reduce scrap, improve consistency, and create reliable global supply chains.
+At [Alumcasting](/), we do not simply operate equipment assets. We manage a complete precision metal manufacturing ecosystem. From thin-wall EV structural components to high cosmetic aluminum housings, our production system is designed to reduce scrap, improve consistency, and create reliable global supply chains.
 
 Here is how we transform raw alloy materials into mission-critical finished components.
 
@@ -39,7 +42,7 @@ When engineering oversized structural assemblies such as EV battery trays, motor
 
 Our production floor operates full cold-chamber pressure die casting systems anchored by a heavy **5,000-ton casting workcell**.
 
-This extreme locking force allows injection of high-fluidity aluminum alloys including [A380](/a380-aluminum-die-casting-alloy-properties/) *(page deferred — not in Batch 1)* and [ADC12](/aluminum-alloy-adc12-properties-engineering-guide/) *(page deferred — not in Batch 1)* under optimized pressure parameters. Each tooling concept is validated through [DFM simulation analysis](/how-dfm-analysis-reduces-die-casting-costs/) *(page deferred — not in Batch 1)* before production release.
+This extreme locking force allows injection of high-fluidity aluminum alloys including [A380](/380-aluminum-die-casting-service/) and [ADC12](/adc12-die-casting-cnc-machining/) under optimized pressure parameters. Each tooling concept is validated through [DFM simulation analysis](/die-casting-tooling/) *(page deferred — not in Batch 1)* before production release.
 
 - 5,000T Force Capacity
 - Structural Casting
@@ -51,7 +54,7 @@ This extreme locking force allows injection of high-fluidity aluminum alloys inc
 
 Traditional liquid pressure casting faces limitations caused by turbulence, gas entrapment, and heat-treatment sensitivity.
 
-Our engineering team applies [Semi-Solid Rheocasting technology](/semi-solid-die-casting-manufacturers/) *(page deferred — not in Batch 1)* to create a controlled globular slurry structure before injection.
+Our engineering team applies [Semi-Solid Rheocasting technology](/semi-solid-die-casting-heat-treatable-aluminum/) *(page deferred — not in Batch 1)* to create a controlled globular slurry structure before injection.
 
 Using advanced aluminum alloys including [A356](/a356-aluminum-die-casting-porosity-control/) *(page deferred — not in Batch 1)*, the semi-solid metal flow produces lower porosity, improved mechanical performance, and compatibility with [T6 heat treatment processes](/semi-solid-die-casting-heat-treatable-aluminum/) *(page deferred — not in Batch 1)*.
 
@@ -94,7 +97,7 @@ For lightweight magnesium components, our [magnesium processing solutions](/magn
 
 In precision manufacturing, an unverified dimension is only a guess. Our quality system integrates inspection directly into the production workflow rather than treating testing as a final checkpoint.
 
-Operating under **IATF 16949 quality frameworks**, our laboratory utilizes advanced CMM equipment, X-Ray inspection systems, and automated leak testing to validate structural components.
+Operating under **IATF 16949 quality frameworks**, our laboratory utilizes advanced CMM equipment, X-Ray inspection systems, and automated leak testing to validate structural components. The same discipline extends to environmental management, which is why our casting cells run under an [ISO 14001 environmental management system](/iso-14001-high-pressure-aluminium-die-casting-manufacturer/).
 
 Critical automotive and EV components including cooling plates, battery housings, and pressure-tight assemblies are verified through dimensional, material, and functional inspection procedures.
 

@@ -1,0 +1,23 @@
+{{- /* P.5.3.4 — alias stub template (OPTION B from P.5.3.3 canonical policy review).
+   Hugo renders this ONLY for `aliases:` output, so normal page canonical
+   behaviour is untouched.
+
+   Problem it fixes: Hugo's built-in alias template emits a canonical pointing at
+   the GitHub Pages host (https://diecasting.github.io/alumcasting/<owner>/),
+   while every real page canonicalises to production via the produrl helper.
+   The site was therefore internally inconsistent, and value-bearing alias URLs
+   (e.g. /a380-aluminum-die-casting-alloy-properties/, 558 impressions) were
+   consolidating signal onto the staging host with 0 clicks.
+
+   Fix: canonical -> production (produrl), while the meta-refresh keeps pointing
+   at the real built URL so the redirect still works on this host. GitHub Pages
+   cannot issue server-side 301s, so the meta-refresh must be retained. */ -}}
+<!doctype html>
+<html lang="{{ site.LanguageCode | default "en-US" }}">
+<head>
+<title>{{ .Permalink }}</title>
+<link rel="canonical" href="{{ partial "produrl.html" .RelPermalink }}">
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="0; url={{ .Permalink }}">
+</head>
+</html>

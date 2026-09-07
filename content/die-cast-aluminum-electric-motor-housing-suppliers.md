@@ -43,7 +43,7 @@ We do not manage production runs using guesswork. Our plant operates heavy-duty 
 ![Large scale 5000-ton high pressure aluminum die casting machine producing structural automotive components](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
 #### High-Pressure Production Cells
 
-We operate dedicated, large-scale injection infrastructure, including our automated [large scale 5000t aluminum die casting factory China](/large-scale-5000t-aluminum-die-casting-factory-china/) line, to handle the massive projected surface areas and complex [large-scale aluminum die casting expertise](/large-scale-aluminum-die-casting-expertise/) footprints required by multi-kilowatt EV motor shells.
+We operate dedicated, large-scale injection infrastructure, including our automated [large scale 5000t aluminum die casting factory China](/large-scale-5000t-aluminum-die-casting-factory-china/) line, to handle the massive projected surface areas and complex [large-scale aluminum die casting expertise](/large-scale-5000t-aluminum-die-casting-factory-china/) footprints required by multi-kilowatt EV motor shells.
 
 ![Multi axis Zeiss CMM metrology equipment scanning bearing concentricity on a cast stator housing](/images/CMM-Inspection-Equipment.webp)
 #### Zeiss CMM Geometric Controls
@@ -61,10 +61,10 @@ Choosing the correct raw aluminum grade is vital for managing heat dissipation a
 | Aluminum Grade Spec | Thermal Conductivity Performance | Primary Engineering Advantage for Enclosures |
 | --- | --- | --- |
 | Alloy ADC12 (Si-Cu-Fe Group) | ~96 W/m·K | Excellent fluidity for thin-walled cooling fins; ideal for cost-optimized adc12 die casting cnc machining configurations. For reference data, review our complete aluminum alloy adc12 properties engineering guide. |
-| Alloy A380 (Standard Automotive Group) | ~100 W/m·K | Provides an excellent balance of structural rigidity and thermal performance across diverse automotive die casting parts programs. Full details are available in our a380 aluminum die casting alloy properties matrix. |
+| Alloy A380 (Standard Automotive Group) | ~100 W/m·K | Provides an excellent balance of structural rigidity and thermal performance across diverse automotive die casting parts programs. Full details are available in our a380 [aluminum die casting](/aluminum-die-casting/) alloy properties matrix. |
 | Alloy A356 (High-Purity Structure Group) | ~150 W/m·K | Superior thermal behavior and elongation; compatible with T6 structural hardening via advanced a356 aluminum die casting porosity control methods. |
 
-By evaluating these parameters during early design stages, we can suggest geometry modifications that lower part weight. Our upfront [how DFM analysis reduces die casting costs](/how-dfm-analysis-reduces-die-casting-costs/) review process identifies tool wear risks early to optimize mold performance, leveraging our specialized [cost down DFM design aluminum die casting molds](/cost-down-dfm-design-aluminum-die-casting-molds/) expertise.
+By evaluating these parameters during early design stages, we can suggest geometry modifications that lower part weight. Our upfront [how DFM analysis reduces die casting costs](/die-casting-tooling/) review process identifies tool wear risks early to optimize mold performance, leveraging our specialized [cost down DFM design aluminum die casting molds](/die-casting-tooling/) expertise.
 
 ### Q1: How do you achieve true air-tightness in motor housings with integrated cooling channels?
 
@@ -72,7 +72,7 @@ A: Entrapped gas is the enemy of pressure-tight parts. We resolve this by runnin
 ![High precision differential pressure leak testing machine checking an aluminum motor enclosure jacket](/images/Leakaging-Testing-Equipment.webp)
 ### Q2: Why must high-voltage motor housings pass strict ASTM E155 standard X-ray porosity grading?
 
-A: Subsurface voids act as stress risers. Under the continuous vibration of an electric vehicle drivetrain, hidden micro-pores can turn into fatigue cracks. We inspect critical structural locations to the **ASTM E155 standard X-ray porosity** grading matrix, rejecting any components that exceed Class 2 specifications to guarantee long-term field reliability. Learn more about our specialized systems by reading about our [5 methods to eliminate porosity in aluminum pressure die casting](/5-methods-eliminate-porosity-aluminum-pressure-die-casting/).
+A: Subsurface voids act as stress risers. Under the continuous vibration of an electric vehicle drivetrain, hidden micro-pores can turn into fatigue cracks. We inspect critical structural locations to the **ASTM E155 standard X-ray porosity** grading matrix, rejecting any components that exceed Class 2 specifications to guarantee long-term field reliability. Learn more about our specialized systems by reading about our [5 methods to eliminate porosity in aluminum pressure die casting](/porosity-control-x-ray-inspection-castings/).
 ![High resolution X-ray view exhibiting micro-porosity control inside an A356 structural alloy casting component](/images/A356-aluminum-die-casting-porosity-control.webp)
 ### Q3: What methods do you use to protect raw aluminum motor enclosures from galvanic environmental corrosion?
 
@@ -80,7 +80,7 @@ A: Electric powertrains are frequently exposed to harsh environment cycles, crea
 ![SureTech 650 industrial surface treatment chemical tank managing chemical conversion coatings on aluminum parts](/images/SureTech-650-Surface-treatment.webp)
 ### Q4: Can semi-solid processing be utilized for high-output electric motor stator frames?
 
-A: Absolutely. While high-pressure casting is ideal for thin-walled parts, our [semi solid die casting manufacturers](/semi-solid-die-casting-manufacturers/) workflow offers a distinct alternative for heavy structural variants. By injecting aluminum in a thick, semi-solid state, we avoid air entrapment entirely, delivering dense parts capable of full T6 structural heat treatments. For an expert breakdown of the processes, check out our guide on [a356 semi-solid casting benefits](/a356-semi-solid-casting-benefits-expert-guide/).
+A: Absolutely. While high-pressure casting is ideal for thin-walled parts, our [semi solid die casting manufacturers](/semi-solid-die-casting-heat-treatable-aluminum/) workflow offers a distinct alternative for heavy structural variants. By injecting aluminum in a thick, semi-solid state, we avoid air entrapment entirely, delivering dense parts capable of full T6 structural heat treatments. For an expert breakdown of the processes, check out our guide on [a356 semi-solid casting benefits](/a356-semi-solid-casting-benefits-expert-guide/).
 ![Metallographic microstructure view showcasing uniform globular silicon distribution achieved via semi-solid casting](/images/semi-solid-casting-microstructure-vs-xray-porosity-test.webp)
 ## Tired of Procurement Delays and Porosity Rejections?
 
