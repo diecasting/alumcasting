@@ -38,6 +38,6 @@ relativeURLs = false
 # event is deferred until the label is supplied. Do NOT fabricate one.
 [params.marketing]
   enable_analytics  = true
-  ga4_id           = "G-B48RJMJ2W6"
+  ga4_id           = "G-PWNDQRH47H"
   google_ads_id    = "AW-10858887459"
   google_ads_label = ""
