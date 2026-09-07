@@ -36,10 +36,10 @@ jobs:
           extended: true
 
       - name: Build with Hugo
-        # baseURL is overridden at build time with the correct Pages URL so the
-        # same source can later switch to https://alumcasting.com/ by changing
-        # only the repo setting (no content edits).
-        run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+        # P6.6 custom-domain cutover: build with the production custom-domain
+        # baseURL. The /alumcasting/ GitHub subpath override is no longer used
+        # for the production build.
+        run: hugo --minify --baseURL "https://alumcasting.com/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
