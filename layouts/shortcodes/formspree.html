@@ -95,7 +95,7 @@
       .then(function(r){ return r.json().catch(function(){ return {}; }); })
       .then(function(res){
         if(res && (res.ok || res.success)){
-          try { gtag('event','generate_lead', { currency:'USD' }); } catch(_){}
+          try { gtag('event','generate_lead', { currency:'USD', value:10, lead_type:'rfq', form_name:'contact-form', form_id:'rfq-form' }); } catch(_){}
           f.innerHTML = '<p class="rfq-note" style="font-size:1rem;color:#0d4a8e">'
             + 'Thank you — your RFQ has been received. We typically respond within 12 business hours.</p>';
         } else {
