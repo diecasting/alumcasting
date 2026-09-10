@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.Language.Locale | default "en" }}">
+<html lang="{{ if eq .Params.language "ko" }}ko{{ else }}{{ .Site.Language.Locale | default "en" }}{{ end }}">
   <head>
     {{ partial "head.html" . }}
   </head>

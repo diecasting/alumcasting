@@ -15,7 +15,7 @@
 {{- end -}}
 {{- /* OpenGraph */ -}}
 <meta property="og:type" content="website">
-<meta property="og:locale" content="en_US">
+<meta property="og:locale" content="{{ if eq .Params.language "ko" }}ko_KR{{ else }}en_US{{ end }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <meta property="og:title" content="{{ .Title }}">
 {{- with .Description }}<meta property="og:description" content="{{ . }}">{{ end -}}

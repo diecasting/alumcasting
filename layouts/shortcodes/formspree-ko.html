@@ -1,0 +1,61 @@
+{{- /* KR PPC contact form — Korean-labeled variant of formspree.html.
+   REUSES the exact same Formspree endpoint (https://formspree.io/f/xpqgbdly)
+   and the SAME generate_lead mechanism (identical params) as formspree.html.
+   The original formspree.html is intentionally NOT altered.
+   No file-upload field is included: the Formspree plan cannot be verified from
+   build context, so a fake upload field is forbidden (consistent with
+   formspree.html / S.6-C.3-A). Drawings are requested via email instead. */ -}}
+<style>
+.rfq-form{max-width:640px;margin:1.5rem 0;font-family:inherit}
+.rfq-form .rfq-row{display:flex;gap:1rem;flex-wrap:wrap}
+.rfq-form label{display:block;flex:1 1 240px;margin:.4rem 0;font-weight:600;font-size:.95rem}
+.rfq-form input,.rfq-form textarea{display:block;width:100%;margin-top:.3rem;padding:.55rem;
+  border:1px solid #b7c4d6;border-radius:6px;font:inherit;font-weight:400;box-sizing:border-box;background:#fff}
+.rfq-form .rfq-note{font-size:.82rem;color:#5a6b7b;margin:.5rem 0 0;line-height:1.4}
+.rfq-form button{margin-top:.8rem;padding:.65rem 1.4rem;border:0;border-radius:6px;cursor:pointer;
+  background:#F97316;color:#fff;font:inherit;font-weight:700}
+.rfq-form button:hover{background:#EA580C}
+</style>
+<form class="rfq-form" action="https://formspree.io/f/xpqgbdly" method="POST">
+  <input type="hidden" name="_subject" value="AlumCasting RFQ — New Inquiry (KO)">
+  <div class="rfq-row">
+    <label for="rfq-name-ko">이름 *<input id="rfq-name-ko" type="text" name="name" required></label>
+    <label for="rfq-email-ko">이메일 *<input id="rfq-email-ko" type="email" name="email" required></label>
+  </div>
+  <div class="rfq-row">
+    <label for="rfq-company-ko">회사명<input id="rfq-company-ko" type="text" name="company"></label>
+    <label for="rfq-phone-ko">전화번호<input id="rfq-phone-ko" type="tel" name="phone"></label>
+  </div>
+  <label for="rfq-req-ko">프로젝트 요구사항 *<textarea id="rfq-req-ko" name="message" rows="6" required></textarea></label>
+  <label for="rfq-drawing-ko">도면 또는 파일 참조<input id="rfq-drawing-ko" type="text" name="drawing_reference" placeholder="파일명 또는 링크 (실제 파일은 이메일 첨부)"></label>
+  <p class="rfq-note">도면이나 CAD 파일은 이메일(hank@alumcasting.com)로 첨부해 주세요. 영업일 기준 보통 12시간 이내에 회신합니다. 입력 정보는 문의 검토 및 회신 목적으로만 사용됩니다.</p>
+  <button type="submit">견적 문의 보내기</button>
+</form>
+{{- /* A.3 Tier-1 — progressive enhancement ONLY (identical to formspree.html).
+   Fires GA4 generate_lead on CONFIRMED Formspree success; native POST stays
+   the no-JS path and the fallback when gtag/fetch fail. Bind once; never
+   double-submit. The generate_lead params are unchanged from formspree.html. */ -}}
+<script>
+(function(){
+  var f = document.querySelector('form.rfq-form');
+  if(!f || f.dataset.a3bound) return;
+  f.dataset.a3bound = "1";
+  f.addEventListener('submit', function(e){
+    if(typeof gtag !== 'function') return;          // gtag not ready → native POST proceeds
+    e.preventDefault();
+    var data = new FormData(f);
+    fetch(f.action, { method:'POST', body:data, headers:{'Accept':'application/json'} })
+      .then(function(r){ return r.json().catch(function(){ return {}; }); })
+      .then(function(res){
+        if(res && (res.ok || res.success)){
+          try { gtag('event','generate_lead', { currency:'USD', value:10, lead_type:'rfq', form_name:'contact-form', form_id:'rfq-form' }); } catch(_){}
+          f.innerHTML = '<p class="rfq-note" style="font-size:1rem;color:#0d4a8e">'
+            + '감사합니다 — 견적 문의를 접수했습니다. 영업일 기준 보통 12시간 이내에 회신합니다.</p>';
+        } else {
+          f.submit();                                // Formspree error → native fallback (single submit)
+        }
+      })
+      .catch(function(){ f.submit(); });             // network failure → native fallback (single submit)
+  });
+})();
+</script>
