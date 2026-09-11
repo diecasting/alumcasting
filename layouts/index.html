@@ -4,9 +4,20 @@
      NOT a left-text + right-image split. Background image + dark overlay +
      centered container + H1 + text + CTA buttons, exactly like alumcasting.com. */ -}}
   <section class="hero-band" aria-label="AlumCasting aluminum die casting">
+    {{- /* Homepage Hero ONLY — responsive LCP image via Hugo-processed WebP
+         derivatives. Original static file stays untouched; 21 page refs +
+         blog-grid/home-sections partials unchanged. */ -}}
+    {{- $hero := resources.Get "images/hero-bg.webp" -}}
+    {{- $hero640 := $hero.Resize "640x webp q82" -}}
+    {{- $hero960 := $hero.Resize "960x webp q82" -}}
+    {{- $hero1280 := $hero.Resize "1280x webp q82" -}}
+    {{- $hero1920 := $hero.Resize "1920x webp q82" -}}
     <img class="hero-bg"
-         src="{{ "images/5000t-aluminum-die-casting-machine-large-structural-parts.webp" | absURL }}"
-         alt="" aria-hidden="true" fetchpriority="high">
+         src="{{ $hero1920.RelPermalink }}"
+         srcset="{{ $hero640.RelPermalink }} 640w, {{ $hero960.RelPermalink }} 960w, {{ $hero1280.RelPermalink }} 1280w, {{ $hero1920.RelPermalink }} 1920w"
+         sizes="100vw"
+         width="1920" height="1080"
+         alt="" aria-hidden="true" decoding="async" fetchpriority="high">
     <div class="hero-overlay" aria-hidden="true"></div>
     <div class="container hero-content">
       <span class="hero-eyebrow">Aluminum Die Casting · HPDC · CNC Machining</span>
