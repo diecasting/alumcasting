@@ -6,6 +6,7 @@ url: "/"
 robots: "index, follow"
 page_type: "home"
 schema_type: "WebPage"
+image: "/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp"
 translationKey: "home"
 language: "en"
 rfq: true

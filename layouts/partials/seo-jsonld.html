@@ -20,6 +20,13 @@
   "url": {{ partial "produrl.html" .RelPermalink | jsonify | safeJS }},
   "name": {{ .Title | jsonify | safeJS }},
   "description": {{ .Description | jsonify | safeJS }},
+  {{ with .Params.image }}"image": {{ partial "abspath.html" . | jsonify | safeJS }},
+  "primaryImageOfPage": {
+    "@type": "ImageObject",
+    "url": {{ partial "abspath.html" . | jsonify | safeJS }},
+    "width": 1920,
+    "height": 1080
+  },{{ end }}
   "isPartOf": { "@id": {{ "https://alumcasting.com/#organization" | jsonify | safeJS }} },
   "breadcrumb": {
     "@type": "BreadcrumbList",
