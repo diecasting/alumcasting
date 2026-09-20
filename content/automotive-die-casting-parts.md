@@ -86,7 +86,7 @@ Yes. Low-porosity is paramount for extensive post-casting CNC machining. If a ra
 
 ## Ready to Source from a Tier 1-Level Factory in China?
 
-With 21 years of specialized manufacturing expertise, 400+ advanced CNC machining units, and a modern 40,000㎡ production base in Dongguan, Alumcasting is your engineering-driven partner for safety-critical automotive parts. We speak your technical language and streamline your global supply chain footprint.
+With 21 years of specialized manufacturing expertise, 400+ advanced CNC machining units, and a modern 40,000㎡ production base in Dongguan, Alumcasting is your engineering-driven partner for safety-critical automotive parts. We speak your technical language and streamline your global supply chain footprint. Explore our full [manufacturing capabilities](/manufacturing-capabilities/) spanning casting scale, CNC machining, and inspection.
 
 - ⚡ **Rapid Quoting:** Technical feasibility feedback & RFQ response within 24 hours.
 - 🛠️ **Prototyping Speed:** Precision T0 first-article samples delivered in 15-20 days.

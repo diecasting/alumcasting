@@ -66,6 +66,8 @@ When selecting between vacuum assisted cold chamber die casting vs conventional 
 If you are managing projects for lightweight [EV battery housing die casting](/ev-battery-housing-die-casting/) runs or liquid-cooled cooling systems, conventional manufacturing techniques will often yield up to 15% to 30% leakage failures during high-pressure testing. Implementing a properly designed vacuum infrastructure brings that failure rate down close to absolute zero, protecting your downstream margins and automated assembly operations.
 ![IATF 16949 and ISO 9001 Quality System Certification Badge](/images/TF1949-ISO9001-Certification.webp)Figure 7: Our world-class manufacturing compliance framework, fully certified to rigorous IATF 16949 automotive standard specifications.
 
+Beyond automotive quality systems, our high-pressure die casting operations are also governed by a certified [ISO 14001 high-pressure die casting manufacturer](/iso-14001-high-pressure-aluminium-die-casting-manufacturer/) environmental management system.
+
 From initial manufacturing planning to final high-volume shipping, our team aligns every parameter under certified automotive governance guidelines. By applying advanced [IATF 16949 high tolerance automotive supplier](/iatf-16949-high-tolerance-automotive-cnc-machining-supplier/) controls, we guarantee that every cast batch displays the uniform density, surface profile finish, and airtight properties your mission-critical applications require.
 
 ### Tired of Leaking Castings Slowing Down Your Project Timeline?

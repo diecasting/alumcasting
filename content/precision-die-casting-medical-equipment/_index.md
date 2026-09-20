@@ -104,6 +104,6 @@ A: Aluminum A380/ADC12/A356 for structural and thermal parts, and magnesium AZ91
 
 If your team is evaluating die casting for a medical equipment or device component, send your STEP/IGS models and print drawings. Within 24 hours our engineering desk will return an initial DFM review and a direct quotation, with the process discipline medical programs require.
 
-Explore our core [aluminum die casting](/aluminum-die-casting/) and [medical device component machining](/medical-device-component-machining/) capabilities, or start a conversation via [contact](/contact/).
+Explore our core [aluminum die casting](/aluminum-die-casting/) and [medical device component machining](/medical-device-component-machining/) capabilities, review [our services](/services/), or start a conversation via [contact](/contact/).
 
 {{< formspree >}}

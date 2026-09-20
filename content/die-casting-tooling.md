@@ -164,7 +164,7 @@ Yes. Our engineers can evaluate existing tooling issues and provide improvement 
 
 ### Do you provide tooling and casting production together?
 
-Yes. AlumCasting provides integrated support from mold development, die casting production, CNC machining and final inspection.
+Yes. AlumCasting provides integrated support from mold development, die casting production, CNC machining and final inspection — a complete overview of our [manufacturing capabilities](/manufacturing-capabilities/).
 
 ## Start Your Die Casting Tooling Project
 

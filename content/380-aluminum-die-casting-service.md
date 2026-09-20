@@ -48,7 +48,7 @@ In our shop, we prioritize active quality control over passive defect sorting. I
 
 **Smart DFM Analytics** Our team analyzes your native STEP files using rigorous [cost-down DFM design](/die-casting-tooling/) parameters, successfully shaving 15% to 20% off your overall tooling and manufacturing costs.
 
-**Precision Multi-Axis Finishing** We transform raw cast blanks into [high-tolerance CNC parts](/iatf-16949-high-tolerance-automotive-cnc-machining-supplier/) operating under strict IATF 16949 international quality benchmarks.
+**Precision Multi-Axis Finishing** We transform raw cast blanks into [high-tolerance CNC parts](/iatf-16949-high-tolerance-automotive-cnc-machining-supplier/) operating under strict IATF 16949 international quality benchmarks. The same disciplined CNC pipeline supports our [ADC12 die casting and CNC machining](/adc12-die-casting-cnc-machining/) programs for high-volume aluminum components.
 
 ## A380 Aluminum Material Properties & Design Limits
 
