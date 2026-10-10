@@ -39,5 +39,6 @@ relativeURLs = false
 [params.marketing]
   enable_analytics  = true
   ga4_id           = "G-B48RJMJ2W6"
+  google_tag_id    = "GT-M38DWB5D"
   google_ads_id    = "AW-10858887459"
   google_ads_label = ""
