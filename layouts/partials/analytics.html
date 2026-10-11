@@ -4,7 +4,7 @@
    (conversion label unavailable; not authorized in Tier-1). */ -}}
 {{- with .Site.Params.marketing -}}
 {{- if and .enable_analytics .ga4_id -}}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ .ga4_id }}"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ .google_tag_id }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
