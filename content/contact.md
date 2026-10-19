@@ -31,6 +31,6 @@ Use the form below, or reach us directly:
 - **Phone:** +86 134-1099-2195
 - **Address:** No. 85 Zhenxing East Road, Liu Jia Village, Hengli Town, Dongguan City, Guangdong Province, China
 
-We typically respond to RFQ submissions within 12 hours during business days.
+We’ll review your RFQ and get back to you as soon as possible.
 
 {{< formspree >}}
