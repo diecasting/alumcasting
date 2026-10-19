@@ -26,7 +26,7 @@ Bridging the Gap Between Heavy Molten Metallurgy and Sub-Millimeter Dimension En
 
 ## The Unspoken Battle: Managing Sub-Surface Porosity When Cut Meets Cast
 
-Let’s be blunt. Anyone can buy standard Japanese ADC12 ingots and dump them into an overseas injection cell. The real nightmare begins the exact second your multi-axis CNC cutting head bites into the cold raw aluminum. If your [Chinese aluminum casting supplier](/chinese-aluminum-casting-grade-equivalents-a380-a356-adc12/) treats melting and machining as two isolated departments, you are doomed to discover microscopic subsurface air bubbles exposed exactly where your critical sealing grooves or precision hole systems are located.
+Let’s be blunt. Anyone can buy standard Japanese ADC12 ingots and dump them into an overseas injection cell. The real nightmare begins the exact second your multi-axis CNC cutting head bites into the cold raw aluminum. If your Chinese aluminum casting supplier treats melting and machining as two isolated departments, you are doomed to discover microscopic subsurface air bubbles exposed exactly where your critical sealing grooves or precision hole systems are located.
 
 I have overseen thousands of high-pressure runs over the last two decades. I know how heartbreaking it is to watch a beautifully cast component fail a pressure leak validation test because of deep internal pockets. That is why we refuse to treat [one-stop die casting and CNC machining](/manufacturing-capabilities/) as separate hand-offs. We engineer the tool paths, the solidification boundaries, and the cutting pressures within one single unified system.
 

@@ -28,7 +28,7 @@
   </div>
   <label for="rfq-req-ko">프로젝트 요구사항 *<textarea id="rfq-req-ko" name="message" rows="6" required></textarea></label>
   <label for="rfq-drawing-ko">도면 또는 파일 참조<input id="rfq-drawing-ko" type="text" name="drawing_reference" placeholder="파일명 또는 링크 (실제 파일은 이메일 첨부)"></label>
-  <p class="rfq-note">도면이나 CAD 파일은 이메일(hank@alumcasting.com)로 첨부해 주세요. 영업일 기준 보통 12시간 이내에 회신합니다. 입력 정보는 문의 검토 및 회신 목적으로만 사용됩니다.</p>
+  <p class="rfq-note">도면이나 CAD 파일은 이메일(hank@alumcasting.com)로 첨부해 주세요. 문의 내용을 확인한 후 가능한 한 빨리 회신드리겠습니다. 입력 정보는 문의 검토 및 회신 목적으로만 사용됩니다.</p>
   <button type="submit">견적 문의 보내기</button>
 </form>
 {{- /* A.3 Tier-1 — progressive enhancement ONLY (identical to formspree.html).
@@ -50,7 +50,7 @@
         if(res && (res.ok || res.success)){
           try { gtag('event','generate_lead', { currency:'USD', value:10, lead_type:'rfq', form_name:'contact-form', form_id:'rfq-form' }); } catch(_){}
           f.innerHTML = '<p class="rfq-note" style="font-size:1rem;color:#0d4a8e">'
-            + '감사합니다 — 견적 문의를 접수했습니다. 영업일 기준 보통 12시간 이내에 회신합니다.</p>';
+            + '감사합니다 — 견적 문의를 접수했습니다. 문의 내용을 확인한 후 가능한 한 빨리 회신드리겠습니다.</p>';
         } else {
           f.submit();                                // Formspree error → native fallback (single submit)
         }
