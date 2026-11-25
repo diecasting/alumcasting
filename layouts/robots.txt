@@ -1,0 +1,8 @@
+{{- if hugo.IsProduction -}}
+User-agent: *
+Allow: /
+Sitemap: https://alumcasting.com/sitemap.xml
+{{- else -}}
+User-agent: *
+Allow: /
+{{- end -}}

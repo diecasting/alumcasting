@@ -9,7 +9,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ .Title }}</title>
 <link rel="canonical" href="{{ partial "produrl.html" .RelPermalink }}">
-{{- with .Params.robots }}<meta name="robots" content="{{ . }}">
+{{- if hugo.IsProduction }}
+  {{- with .Params.robots }}<meta name="robots" content="{{ . }}">
+  {{- end -}}
+{{- else }}
+<meta name="robots" content="noindex, nofollow">
 {{- end -}}
 {{- with .Description }}<meta name="description" content="{{ . }}">
 {{- end -}}

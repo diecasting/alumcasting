@@ -13,10 +13,13 @@
    at the real built URL so the redirect still works on this host. GitHub Pages
    cannot issue server-side 301s, so the meta-refresh must be retained. */ -}}
 <!doctype html>
-<html lang="{{ site.LanguageCode | default "en-US" }}">
+<html lang="{{ site.Language.Locale | default "en-US" }}">
 <head>
 <title>{{ .Permalink }}</title>
 <link rel="canonical" href="{{ partial "produrl.html" .RelPermalink }}">
+{{- if not hugo.IsProduction }}
+<meta name="robots" content="noindex, nofollow">
+{{- end }}
 <meta charset="utf-8">
 <meta http-equiv="refresh" content="0; url={{ .Permalink }}">
 </head>

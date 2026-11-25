@@ -39,7 +39,7 @@ jobs:
         # P6.6 custom-domain cutover: build with the production custom-domain
         # baseURL. The /alumcasting/ GitHub subpath override is no longer used
         # for the production build.
-        run: hugo --minify --baseURL "https://alumcasting.com/"
+        run: hugo --environment production --minify --baseURL "https://alumcasting.com/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
