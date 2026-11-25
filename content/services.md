@@ -1,6 +1,6 @@
 ---
-title: "Manufacturing Services | Die Casting, CNC Machining & Tooling"
-description: "AlumCasting provides integrated manufacturing services including aluminum die casting, magnesium casting, semi-solid casting, CNC machining and tooling development from Dongguan China for automotive, EV and industrial applications."
+title: "Die Casting & CNC Manufacturing Services | AlumCasting"
+description: "Engineering-led die casting, tooling and CNC machining services, from RFQ and DFM review through production planning, finishing and inspection coordination."
 canonical: "https://alumcasting.com/services/"
 url: "/services/"
 robots: "index, follow"
@@ -11,6 +11,17 @@ language: "en"
 rfq: true
 cta: "Request Engineering Review"
 cta_url: "/contact/"
+faq:
+  - question: "What happens after I submit a die casting RFQ?"
+    answer: "The project is reviewed for drawing completeness, process fit, alloy, expected volume, critical features, finishing, inspection and required project timing. Missing inputs and commercial assumptions are identified before a scope is confirmed."
+  - question: "How does AlumCasting support DFM?"
+    answer: "The review may cover wall sections, draft, undercuts, gating and thermal considerations, machining allowance, datums, fixture access and inspection requirements. Recommendations remain subject to engineering approval and project validation."
+  - question: "Can one project include tooling, casting, CNC machining and finishing?"
+    answer: "The project can be coordinated as a combined manufacturing route when the scope, supplier roles, quality requirements and production plan are clearly defined and approved."
+  - question: "Are production capacity, lead time or certification guaranteed through this service?"
+    answer: "No. Capacity, timing, certificates, inspection coverage and documentation are confirmed for the specific project and applicable legal entity before they are presented as commitments."
+  - question: "What should be included in the initial project brief?"
+    answer: "Provide the 3D model, 2D drawing with GD&T, material, expected volume, critical features, surface requirements, inspection scope, target schedule and any customer-approved regulatory or documentation requirements."
 related_services:
   - "/aluminum-die-casting/"
   - "/magnesium-die-casting-services/"
@@ -20,201 +31,139 @@ related_services:
   - "/automotive-die-casting-parts/"
 ---
 
-# Integrated Manufacturing Services for Aluminum Die Casting, CNC Machining & Tooling
+# Die Casting and CNC Manufacturing Services
 
-From engineering validation to high-volume production, AlumCasting provides complete manufacturing solutions for automotive, EV and industrial components worldwide.
-
-- Advanced aluminum and magnesium die casting capability
-- Precision CNC machining and secondary operations
-- Complete tooling development and production support
-- Engineering-driven quality control system
+AlumCasting supports B2B projects through the manufacturing journey: RFQ review, DFM, tooling planning, casting, CNC post-machining, finishing and inspection coordination. Each service is scoped against the drawing, application, supplier role and quality requirements.
 
 [Request Engineering Review](/contact/)
 
-![5000T aluminum die casting machine manufacturing capability](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+## Services vs. Manufacturing Capabilities
 
-## A Manufacturing Partner From Concept To Production
+This page describes how a project is reviewed and coordinated. The [manufacturing capabilities page](/manufacturing-capabilities/) covers process and qualification scope in more technical detail.
 
-AlumCasting combines engineering expertise, advanced casting technology and precision manufacturing to help global companies transform designs into reliable products.
+Use this page when evaluating:
 
-### Engineering First Approach
+- How the project will be reviewed
+- Which engineering inputs are needed
+- How casting and machining are coordinated
+- How changes and assumptions are documented
+- How RFQ scope moves into production planning
 
-Every successful casting project begins before production. Our engineers review CAD models, analyze manufacturability, optimize wall thickness, draft angles and tooling requirements. This early engineering involvement helps reduce manufacturing risks, improve part quality and shorten development cycles.
+## Engineering and DFM Support
 
-### Integrated Manufacturing
+The early review can cover:
 
-Instead of managing multiple suppliers, customers can work with one manufacturing partner covering tooling, die casting, CNC machining, surface treatment and inspection. Our integrated production model improves communication, consistency and delivery reliability.
+- Drawing and 3D-model completeness
+- Alloy and material-condition questions
+- Wall thickness, draft and undercuts
+- Gating, overflow and thermal considerations
+- Machining allowance, datums and fixture access
+- Critical features and inspection requirements
+- Surface finish and finishing sequence
 
-## Complete Manufacturing Process
+The output is a project-specific review, not a guarantee that the design, process or tolerance is capable before the relevant inputs are approved. [Explore die casting tooling](/die-casting-tooling/).
 
-1. **Engineering Review** — DFM analysis, casting feasibility evaluation and production planning.
-2. **Tooling Development** — Die casting mold design, tool manufacturing and validation.
-3. **Production Manufacturing** — High pressure casting, machining and finishing.
-4. **Quality Verification** — CMM inspection, X-ray testing and dimensional control.
+## Tooling and Production Planning
 
-## Our Manufacturing Services
+Tooling planning connects the die concept to the production and validation plan:
 
-### Aluminum Die Casting
+- Parting line and die concept
+- Gating and overflow design
+- Cooling and thermal balance
+- Ejection, slides and mechanical movements
+- Trial scope and sample inspection
+- Production control and change management
+- Tool maintenance and repair planning
 
-High pressure aluminum die casting for automotive structures, EV components and industrial applications.
+Tooling and trial timing is confirmed after the part, die concept, material and approval scope are reviewed.
 
-- ADC12 / A380 / A356 alloys
-- Large structural casting capability
-- High efficiency mass production
+## Casting Services
 
-[Learn More](/aluminum-die-casting/)
+The appropriate casting route depends on the material, geometry and validation requirements:
 
-### Magnesium Die Casting
+- [Aluminum high pressure die casting](/aluminum-die-casting/)
+- [Magnesium die casting](/magnesium-die-casting-services/)
+- [Semi-solid aluminum casting evaluation](/semi-solid-die-casting-heat-treatable-aluminum/)
+- [Gravity die casting](/gravity-die-casting-manufacturer/)
+- [Sand casting](/sand-casting-services/)
+- [Zinc die casting](/zinc-die-casting-services/)
 
-Lightweight magnesium solutions for automotive, electronics and weight reduction projects.
+These links describe process options. They do not establish that every process or material is available for any specific project.
 
-- AZ91D magnesium alloy
-- AM60B automotive parts
-- Lightweight structural components
+## CNC and Secondary Operations
 
-[Learn More](/magnesium-die-casting-services/)
+CNC machining may be required for mounting faces, bores, threads, sealing features and assembly interfaces. The machining plan should define:
 
-### Precision CNC Machining
+- Operations and machine assignment
+- Casting allowance and datum strategy
+- Workholding and fixture access
+- Distortion and feature sequencing
+- Finished tolerance and surface requirements
+- Inspection methods and documentation
 
-High accuracy machining services for prototypes, low volume and production parts.
+[Review CNC machining services](/precision-cnc-machining/).
 
-- 3-axis / 4-axis / 5-axis machining
-- Tight tolerance control
-- Post casting machining
+## Finishing and Inspection Coordination
 
-[Learn More](/precision-cnc-machining/)
+Surface finishing and inspection are specified after reviewing the material, application and approved drawing requirements.
 
-We also provide [zinc die casting services](/zinc-die-casting-services/) *(page deferred — not in Batch 1)*, [sand casting services](/sand-casting-services/) *(page deferred — not in Batch 1)* and [gravity die casting manufacturer](/gravity-die-casting-manufacturer/) for specialized component requirements.
+- [Surface finishing options](/surface-finishing-aluminum-magnesium-casting/)
+- [Porosity and inspection planning](/porosity-control-x-ray-inspection-castings/)
+- [Medical equipment component review](/medical-device-component-machining/)
 
-## Semi-Solid Die Casting
+The supplier role, calibration, coverage, sampling and report format must be stated in the project scope. A service description does not imply a standard certificate, PPAP package or inspection coverage for every order.
 
-Semi-solid casting technology combines the advantages of traditional die casting and high-performance forming processes. By controlling metal flow behavior and reducing turbulence, semi-solid casting helps improve mechanical properties, dimensional stability and internal quality.
+## Project Workflow
 
-- Reduced porosity risk
-- Improved structural integrity
-- Suitable for heat treatment applications
-- High-performance aluminum components
+1. **RFQ Intake** — Collect drawing, material, volume, critical features and inspection scope.
+2. **Engineering Review** — Identify process questions and missing inputs.
+3. **DFM and Tooling** — Resolve design and tooling requirements.
+4. **Trial and Approval** — Define samples, inspection and required documentation.
+5. **Production and Coordination** — Confirm the casting, machining, finishing and inspection plan.
 
-[Explore Semi-Solid Casting](/semi-solid-die-casting-heat-treatable-aluminum/) *(page deferred — not in Batch 1)*
+The exact sequence and supplier responsibilities are documented before production.
 
-## Die Casting Tooling Development
+## What the Quotation Should Clarify
 
-A reliable casting process starts with a reliable mold. Our engineering team develops tooling solutions focused on durability, cycle efficiency and production consistency.
+A useful quote should state:
 
-- Mold design optimization
-- Flow and filling analysis
-- Prototype tooling support
-- Production validation
+- Included processes and operations
+- Material and finishing assumptions
+- Tooling scope and ownership terms
+- Inspection and documentation scope
+- Quantity and production-stage assumptions
+- Packaging and delivery responsibilities
+- Exclusions and customer-controlled requirements
+- Change-control and approval process
 
-[Explore Tooling Capability](/die-casting-tooling/)
-
-## Integrated Manufacturing Capability
-
-From raw material selection to finished components, AlumCasting provides a complete manufacturing chain.
-
-- **Metal Casting** — Aluminum die casting, magnesium casting, semi-solid casting and structural components. [View Casting Capability](/aluminum-die-casting/)
-- **Precision Machining** — CNC machining, tight tolerance finishing and post-casting processing. [View CNC Capability](/precision-cnc-machining/)
-- **Surface Finishing** — Surface treatment, coating, cleaning and cosmetic finishing. [View Surface Treatment](/surface-finishing-aluminum-magnesium-casting/) *(page deferred — not in Batch 1)*
-
-## Quality Control For Engineering Reliability
-
-Every component is inspected through advanced measurement systems to ensure production consistency.
-
-![CMM dimensional inspection](/images/CMM-Inspection-Equipment.webp)
-
-- **CMM Dimensional Inspection** — Coordinate measurement machines verify critical dimensions and geometric tolerances.
-- **X-Ray Internal Inspection** — Non-destructive inspection identifies internal defects, porosity and casting integrity.
-- **Leak Testing** — Pressure testing ensures air and fluid sealing performance for critical applications.
-
-![X-Ray internal inspection](/images/X-Ray-Detector.webp)
-
-![Leak testing equipment](/images/Leakaging-Testing-Equipment.webp)
-
-## Certified Manufacturing System
-
-- ISO9001 Quality Management System
-- IATF16949 Automotive Quality Control
-- Production Traceability System
-- Continuous Improvement Process
-- Engineering Documentation Support
-
-![ISO9001 and IATF16949 certification](/images/TF1949-ISO9001-Certification.webp)
-
-## Industries We Support
-
-- Automotive Components
-- Electric Vehicle Parts
-- Industrial Equipment
-- Medical Device Components
-- Engineering Machinery
-- Lightweight Structural Parts
-
-## Why Global Engineers Choose AlumCasting
-
-A complete manufacturing partner from engineering development to production delivery.
-
-1. **Engineering First Approach** — Our engineers participate from the earliest design stage, helping customers optimize casting structure, material selection and production feasibility.
-2. **Integrated Manufacturing** — Combining casting, tooling, CNC machining, surface treatment and inspection, we simplify your supply chain.
-3. **Production Reliability** — With controlled processes, quality inspection systems and experienced engineers, we support stable long-term production.
-
-## Large Scale Aluminum Die Casting Capability
-
-For large automotive and EV structural components, AlumCasting provides advanced high pressure die casting solutions with large machine capacity.
-
-- Large structural aluminum parts
-- EV battery housing components
-- Automotive chassis applications
-- Complex thin-wall casting solutions
-
-[Explore 5000T Die Casting](/large-scale-5000t-aluminum-die-casting-factory-china/) *(page deferred — not in Batch 1)*
-
-## Manufacturing Applications
-
-- [Automotive Components](/automotive-die-casting-parts/)
-- [EV Powertrain Parts](/custom-aluminum-die-casting-for-ev-powertrain-components/) *(page deferred — not in Batch 1)*
-- [Battery Housing](/ev-battery-housing-die-casting/) *(page deferred — not in Batch 1)*
-- [Medical Equipment](/medical-device-component-machining/) *(page deferred — not in Batch 1)*
-- [Industrial Components](/automotive-die-casting-parts/)
-
-## Start Your Manufacturing Project With AlumCasting
-
-Send your CAD drawings and engineering requirements. Our team will review your project and provide manufacturing feedback.
-
-- Casting feasibility analysis
-- DFM optimization suggestions
-- Material recommendation
-- Production cost evaluation
-
-The RFQ form is submitted on the [contact page](/contact/). *(contact page deferred — not in Batch 1)*
+Commercial clarity reduces the risk of later disputes without inventing unsupported lead-time, capacity or quality promises.
 
 ## Frequently Asked Questions
 
-### What manufacturing services does AlumCasting provide?
+### What happens after I submit a die casting RFQ?
 
-AlumCasting provides aluminum die casting, magnesium die casting, semi-solid casting, precision CNC machining, tooling development and surface finishing services.
+The project is reviewed for drawing completeness, process fit, alloy, expected volume, critical features, finishing, inspection and required project timing. Missing inputs and commercial assumptions are identified before a scope is confirmed.
 
-### Can AlumCasting support complete production from tooling to delivery?
+### How does AlumCasting support DFM?
 
-Yes. Our integrated manufacturing capability covers engineering review, tooling, casting, machining, inspection and final delivery.
+The review may cover wall sections, draft, undercuts, gating and thermal considerations, machining allowance, datums, fixture access and inspection requirements. Recommendations remain subject to engineering approval and project validation.
 
-### What industries does AlumCasting serve?
+### Can one project include tooling, casting, CNC machining and finishing?
 
-We support automotive, EV, industrial equipment, medical equipment and engineering manufacturers worldwide.
+The project can be coordinated as a combined manufacturing route when the scope, supplier roles, quality requirements and production plan are clearly defined and approved.
 
-### Does AlumCasting provide engineering support before production?
+### Are production capacity, lead time or certification guaranteed through this service?
 
-Yes. Our engineers provide DFM analysis, casting feasibility evaluation and optimization suggestions before tooling development.
+No. Capacity, timing, certificates, inspection coverage and documentation are confirmed for the specific project and applicable legal entity before they are presented as commitments.
 
-### Where is AlumCasting manufacturing facility located?
+### What should be included in the initial project brief?
 
-AlumCasting is operated by Kingship (Dongguan) Precision Manufacturing Co., Ltd. located in Dongguan, Guangdong Province, China.
+Provide the 3D model, 2D drawing with GD&T, material, expected volume, critical features, surface requirements, inspection scope, target schedule and any customer-approved regulatory or documentation requirements.
 
-## Looking For A Reliable Manufacturing Partner?
+## Start a Manufacturing Service Review
 
-Discuss your next aluminum casting, magnesium casting or CNC machining project with AlumCasting engineers.
+Share the drawing, material, volume and required inspection scope so the engineering and production workflow can be reviewed.
 
-[Contact AlumCasting](/contact/)
-
-{{< quality-trust >}}
+[Request Engineering Review](/contact/)
 
 {{< formspree >}}

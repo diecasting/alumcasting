@@ -1,6 +1,6 @@
 ---
-title: "Magnesium Die Casting Supplier | AZ91D| AM60B Casting supplier"
-description: "AlumCasting is a magnesium die casting supplier specializing in AZ91D and AM60B lightweight components for automotive, EV and industrial applications. From tooling to CNC machining and inspection, we deliver complete casting solutions."
+title: "Magnesium Die Casting Supplier | AZ91D & AM60B | AlumCasting"
+description: "Magnesium die casting support for B2B components, including AZ91D and AM60B evaluation, DFM, tooling, CNC machining and project-specific inspection."
 canonical: "https://alumcasting.com/magnesium-die-casting-services/"
 url: "/magnesium-die-casting-services/"
 robots: "index, follow"
@@ -11,6 +11,17 @@ language: "en"
 rfq: true
 cta: "Request Engineering Quote"
 cta_url: "/contact/"
+faq:
+  - question: "What is magnesium die casting used for?"
+    answer: "Magnesium high pressure die casting is commonly evaluated for lightweight housings, covers, brackets, electronic enclosures and other components where weight reduction and thin-wall design are important."
+  - question: "Which magnesium alloys are commonly evaluated?"
+    answer: "AZ91D and AM60B are common magnesium die-casting alloys. AZ91D is often considered where higher strength is important, while AM60B is commonly evaluated where greater ductility is needed. Final selection depends on the part, process and validation requirements."
+  - question: "What information is needed for a magnesium die casting RFQ?"
+    answer: "Provide the 3D model, 2D drawing with GD&T, alloy, annual volume, wall sections, critical features, machining allowance, corrosion-protection requirements and inspection scope. Missing inputs are reviewed before a production scope is confirmed."
+  - question: "Can magnesium die castings be CNC machined?"
+    answer: "Yes. Machining requirements should be planned with the casting design, datums, fixture access, machining allowance and finished features. The approved scope is confirmed for the specific project."
+  - question: "How is corrosion protection specified?"
+    answer: "The required corrosion protection should be defined from the operating environment, cleaning and finishing sequence, cosmetic requirements and assembly process. Coating or treatment selection is confirmed against the approved project specification."
 related_services:
   - "/aluminum-die-casting/"
   - "/precision-cnc-machining/"
@@ -22,220 +33,209 @@ aliases:
   - /magnesium-die-casting-suppliers-china/
 ---
 
-# Magnesium Die Casting Supplier for Lightweight Automotive and EV Components
+# Magnesium Die Casting Support for Lightweight Components
 
-AlumCasting provides advanced magnesium die casting solutions using AZ91D and AM60B magnesium alloys, helping automotive, EV and industrial manufacturers reduce weight while maintaining strength, precision and reliability.
+AlumCasting evaluates magnesium die casting projects for automotive, EV, electronics and industrial applications. The project review connects alloy selection, DFM, tooling, casting, CNC post-machining, corrosion protection and the inspection scope defined for the part.
 
 [Request Engineering Quote](/contact/)
 
-![Magnesium die casting automotive parts supplier](/images/magnesium-die-casting-automotive-parts.webp)
+## When Magnesium Die Casting Fits a Project
 
-## More Than Casting — Engineering Lightweight Solutions
+Magnesium is a lightweight structural metal with useful vibration damping and thin-wall casting characteristics. It may be evaluated when the design priorities include:
 
-As a professional magnesium die casting supplier, AlumCasting understands that lightweight manufacturing is not simply about replacing aluminum with magnesium. It is about balancing strength, durability, thermal performance, production stability and long-term reliability.
+- Lower component weight than a comparable aluminum part
+- Thin walls and complex thin-section geometry
+- Vibration damping in housings or support structures
+- Integrated features that reduce assembly steps
+- Portable or electronically controlled equipment
 
-### Why Magnesium Matters in Modern Manufacturing
-
-Every kilogram saved in a vehicle can influence energy efficiency, driving range and overall performance. This is why magnesium alloys have become increasingly important in automotive and electric vehicle applications.
-
-Compared with traditional materials, magnesium offers excellent strength-to-weight ratio, vibration absorption and dimensional stability. However, successful magnesium die casting requires deep process knowledge — from alloy selection and mold design to corrosion protection and machining.
-
-At AlumCasting, our engineers work with customers from early design review through mass production, ensuring every magnesium component is designed for manufacturability.
+Magnesium is not a blanket substitute for aluminum. Final suitability depends on strength, ductility, operating temperature, corrosion exposure, sealing requirements, machining, finishing and the expected production volume.
 
 ## Advantages of Magnesium Die Casting
 
-Magnesium die casting provides unique advantages for engineers designing lightweight structures and precision components.
+The material and process choice should be based on the complete component requirement.
 
 ### Lightweight Performance
 
-Magnesium is one of the lightest structural metals, making it ideal for automotive housings, brackets, covers and EV components where weight reduction is critical. [Magnesium vs Aluminum Comparison](/aluminum-to-magnesium-conversion-weight-reduction/) *(page deferred — not in Batch 1)*
+Magnesium has a lower density than aluminum, which can reduce part mass where the geometry and load paths are suitable. [Compare magnesium and aluminum for lightweight components](/aluminum-to-magnesium-conversion-weight-reduction/).
 
 ### Excellent Vibration Damping
 
-Magnesium naturally absorbs vibration and noise, improving product performance in automotive interiors, electronic housings and industrial equipment.
+Magnesium can provide useful vibration-damping characteristics, but the design result still depends on stiffness, mounting, wall geometry and excitation frequency.
 
 ### Complex Thin Wall Design
 
-High fluidity allows magnesium alloys to achieve thin-wall structures and complex geometries while maintaining dimensional accuracy.
+Magnesium alloys can have good die-filling characteristics for thin-wall geometry. Wall thickness, flow distance, draft, gate location and process conditions must still be reviewed together.
 
-## AZ91D and AM60B Magnesium Alloy Expertise
+## AZ91D and AM60B Magnesium Alloy Selection
 
-Material selection directly affects casting performance. AlumCasting works with proven magnesium alloys including AZ91D and AM60B for different engineering requirements.
+AZ91D and AM60B are commonly evaluated for magnesium die casting. Selection should follow the drawing and application rather than using a general alloy ranking.
 
-- **AZ91D Magnesium Alloy:** Excellent strength, corrosion resistance and castability for structural housings and mechanical components.
-- **AM60B Magnesium Alloy:** Superior ductility and impact resistance for automotive safety-related applications.
-- **Custom Magnesium Solutions:** Alloy selection based on mechanical performance, weight targets and operating environment.
+- **AZ91D Magnesium Alloy:** Often considered where higher strength and good castability are important.
+- **AM60B Magnesium Alloy:** Often considered where greater ductility is important.
+- **Other Magnesium Alloys:** May be evaluated when a project specification requires different strength, ductility, thermal or corrosion performance.
 
-For automotive applications, our engineers also support projects involving [AZ91D magnesium automotive parts](/az91d-magnesium-die-casting-automotive-parts/) *(page deferred — not in Batch 1)* and [AM60B magnesium alloy components](/am60b-magnesium-alloy-die-casting-suppliers/) *(page deferred — not in Batch 1)*.
+Final alloy selection should consider mechanical requirements, wall sections, operating temperature, corrosion protection, machining and validation. Related guidance is available for [AZ91D components](/az91d-magnesium-die-casting-automotive-parts/) and [AM60B components](/am60b-magnesium-alloy-die-casting-suppliers/).
 
-![X ray inspection magnesium die casting supplier](/images/X-Ray-Detector.webp)
+## DFM and Tooling Review
 
-## Complete Magnesium Die Casting Manufacturing Process
+The DFM review connects the component design to the die, process and finishing plan. Inputs commonly include:
 
-From initial design analysis to final inspection, AlumCasting provides a complete manufacturing workflow for magnesium components.
+- 3D model and 2D drawing with GD&T
+- Magnesium alloy and required material condition
+- Critical strength, sealing and machining features
+- Wall thickness and transitions
+- Draft, undercuts and slider requirements
+- Gating, overflow and thermal-balance considerations
+- Machining allowance, datums and fixture access
+- Corrosion-protection and inspection requirements
 
-### 1. Engineering Review & DFM Optimization
+This review identifies casting and finishing questions before tooling details are released. [Explore die casting tooling](/die-casting-tooling/).
 
-Successful magnesium die casting starts before the first shot of molten metal. Our engineering team reviews part geometry, wall thickness, draft angles, rib structures and machining requirements to reduce production risks.
+## Magnesium Process Planning
 
-Through early Design for Manufacturing (DFM) analysis, potential issues such as filling imbalance, shrinkage, distortion and tooling limitations can be identified before mold production.
+Magnesium die casting requires attention to melt handling, die temperature, filling, solidification and safety controls. Process planning should define:
 
-This approach helps customers shorten development cycles and achieve stable mass production. [Learn About DFM Design](/die-casting-tooling/) *(page deferred — not in Batch 1)*
+- The selected alloy and approved material condition
+- Critical wall sections and filling distance
+- Gating, overflow and thermal balance
+- Ejection and mechanical movements
+- Process monitoring and approved control limits
+- Trial scope, sample inspection and approval requirements
 
-![Large die casting machine manufacturing capability](/images/5000t-aluminum-die-casting-machine-large-structural-parts.webp)
+Production feasibility and trial timing are confirmed after the part, die concept, alloy and validation scope are reviewed.
 
-## Precision Tooling for Magnesium Casting
+## Magnesium Die Casting Applications
 
-Magnesium components often require complex geometries, thin walls and tight dimensional requirements. The quality of the die directly determines casting consistency.
+Magnesium components are commonly considered for:
 
-Our tooling engineers focus on:
+### Automotive and EV
 
-- Optimized runner and gating systems
-- Thermal balance control
-- Long-life die construction
-- Easy maintenance design
-- Reduced cycle time during production
+Potential applications include brackets, covers, housings and structural interfaces where weight reduction is valuable and the load, corrosion and validation requirements have been reviewed. [Explore automotive die casting](/automotive-die-casting-parts/).
 
-By integrating tooling development with casting and machining capabilities, AlumCasting provides a true one-stop manufacturing solution. [Explore Die Casting Tooling](/die-casting-tooling/)
+### Electronics and Portable Equipment
 
-## Magnesium Die Casting Applications for Automotive and EV
+Thin-wall housings and enclosures may be evaluated for electronic equipment where the thermal, grounding, sealing and surface-treatment requirements are compatible.
 
-Lightweight magnesium components are helping automotive manufacturers achieve higher efficiency and improved driving performance.
+### Industrial Components
 
-### EV Components
-
-Magnesium alloys are suitable for EV lightweight structures including battery-related housings, brackets, motor covers and electronic component enclosures. [Explore EV Casting Solutions](/custom-aluminum-die-casting-for-ev-powertrain-components/) *(page deferred — not in Batch 1)*
-
-### Automotive Interior Parts
-
-Excellent vibration damping makes magnesium ideal for instrument panels, seat structures, steering components and interior support parts. [Automotive Casting Applications](/automotive-die-casting-parts/)
-
-### Industrial Equipment
-
-Lightweight magnesium housings improve portability and durability for industrial tools, electronics and mechanical equipment.
+Magnesium can be considered for lightweight covers, housings and support components when the operating environment and maintenance requirements are understood.
 
 ## Quality Control for Reliable Magnesium Castings
 
-Precision manufacturing requires more than producing a casting. Every component must meet dimensional, structural and functional requirements.
+Inspection requirements are defined from the drawing, critical characteristics and project approval plan.
 
-### Inspection Technologies
-
-AlumCasting uses advanced inspection equipment to verify casting quality throughout production.
-
-- **CMM Inspection:** Dimensional verification for critical tolerances.
-- **X-Ray Inspection:** Internal defect and porosity analysis.
-- **Leak Testing:** Ensuring pressure and sealing performance.
-- **Material Verification:** Alloy composition and mechanical property control.
-
-For projects requiring strict reliability standards, our inspection capabilities support automotive and industrial customers with consistent quality assurance. [Learn About X-Ray Porosity Inspection](/porosity-control-x-ray-inspection-castings/) *(page deferred — not in Batch 1)*
-
-![CMM inspection equipment magnesium casting](/images/CMM-Inspection-Equipment.webp)
+- Material and process records
+- First-article and in-process dimensional results
+- CMM dimensional verification where specified
+- X-ray or other internal inspection methods where specified
+- Pressure or leak testing for applicable assemblies
+- Sampling, acceptance criteria and required reports
 
 ### Controlling Porosity and Internal Quality
 
-One of the biggest concerns in metal casting is internal porosity. For magnesium components used in automotive and structural applications, internal integrity is essential.
+Porosity control starts with part and die design, gating, overflow, venting, thermal balance and process planning. Critical areas, machining exposure and inspection acceptance criteria should be defined for the specific part.
 
-Our inspection process combines process control, casting parameter optimization and X-Ray examination to identify hidden defects before shipment.
+Inspection methods, coverage, equipment calibration and documentation requirements should be confirmed for each project. [Review quality inspection services](/porosity-control-x-ray-inspection-castings/).
 
-## Beyond Casting: CNC Machining and Surface Finishing
+## CNC Post-Machining
 
-A magnesium casting is often only the beginning of the manufacturing journey. Many customers require additional machining, surface treatment and assembly preparation. AlumCasting integrates precision CNC machining and finishing processes to reduce supplier coordination and improve production efficiency.
+Many magnesium components require secondary machining for bores, sealing faces, threads, fastener holes and assembly interfaces. The machining plan should define datums, casting allowance, fixture access, finished tolerances and inspection requirements before tooling details are released.
 
-Our capabilities include:
+[Explore precision CNC machining](/precision-cnc-machining/).
 
-- Precision CNC machining
-- Deburring and surface preparation
-- MAO coating and corrosion protection
-- Dimensional finishing after casting
+## Corrosion Protection and Surface Finishing
 
-[Explore CNC Machining Capability](/precision-cnc-machining/)
+Magnesium requires appropriate handling and corrosion protection. The finishing specification should consider:
 
-![Magnesium casting surface treatment](/images/SureTech-650-Surface-treatment.webp)
+- Operating and storage environments
+- Cleaning and surface-preparation requirements
+- Coating or treatment compatibility
+- Masking and dimensional protection
+- Assembly interfaces and cosmetic acceptance
+- Inspection and documentation requirements
 
-## Magnesium Die Casting Corrosion Protection Solutions
+Conversion coating, coating systems or other treatment routes may be evaluated against the approved specification. The selected finishing process and project scope are confirmed before production.
 
-One of the most important considerations when selecting magnesium components is corrosion protection. Unlike aluminum, magnesium requires specialized surface engineering to ensure long-term durability in demanding environments.
+[View surface finishing options](/surface-finishing-aluminum-magnesium-casting/).
 
-At AlumCasting, we understand that magnesium casting performance does not end after molding. Surface treatment is an essential part of the final product reliability.
+## Magnesium vs Aluminum Die Casting
 
-Our engineers work with customers to select suitable finishing methods based on application requirements, including:
+Material selection should be based on performance requirements and the complete manufacturing route.
 
-- MAO (Micro Arc Oxidation) coating for enhanced corrosion resistance
-- Protective coatings for automotive and industrial environments
-- Surface preparation before assembly or painting
-- Customized finishing solutions for specific operating conditions
+### When Magnesium May Be Considered
 
-For more details about magnesium protection technology, visit: [Magnesium Die Casting Corrosion Protection and MAO Coating](/magnesium-die-casting-services/) *(page deferred — not in Batch 1)*
+- Weight reduction is a primary design objective.
+- Thin-wall geometry and vibration damping are important.
+- The corrosion-protection and finishing plan is compatible with the application.
 
-![Magnesium die casting MAO surface treatment](/images/SureTech-650-Surface-treatment.webp)
+### When Aluminum May Be Preferred
 
-## Magnesium vs Aluminum Die Casting: How Engineers Choose the Right Material
+- Higher thermal conductivity or a different corrosion profile is required.
+- The part geometry or process route is better suited to aluminum HPDC.
+- A different balance of strength, casting behavior and finishing is needed.
 
-Material selection depends on performance requirements, not simply cost. AlumCasting helps customers evaluate the best solution for each application.
+[Explore aluminum die casting](/aluminum-die-casting/) or [compare magnesium and aluminum for weight reduction](/aluminum-to-magnesium-conversion-weight-reduction/).
 
-### When Magnesium Is Preferred
+## What to Include in a Magnesium Die Casting RFQ
 
-Magnesium is ideal when weight reduction, vibration absorption and portability are important design goals.
+A complete RFQ helps the supplier separate technical feasibility from commercial assumptions:
 
-- EV lightweight structures
-- Automotive interior components
-- Electronic housings
-- Portable equipment
+- 3D model and 2D drawing with GD&T
+- Magnesium alloy and material condition
+- Expected annual volume and launch stages
+- Critical strength, sealing and machining features
+- Wall sections, draft and undercut requirements
+- Corrosion-protection and surface-finish requirements
+- Inspection methods and documentation scope
+- Packaging, delivery and project timing requirements
 
-### When Aluminum Is Preferred
+Incomplete RFQs can still be reviewed. Missing inputs are identified before tooling or production scope is confirmed.
 
-Aluminum remains an excellent choice for applications requiring higher thermal conductivity, corrosion resistance or large structural casting capability. [Explore Aluminum Die Casting](/aluminum-die-casting/)
+## How AlumCasting Supports Supplier Evaluation
 
-### Engineering Support
+For purchasing and engineering teams comparing magnesium die casting suppliers, the review can focus on:
 
-Our engineers compare material options based on strength, weight, production volume and lifecycle cost. [Material Comparison Guide](/aluminum-to-magnesium-conversion-weight-reduction/) *(page deferred — not in Batch 1)*
+- Whether the alloy and casting process match the component requirements.
+- Whether DFM questions are resolved before tooling.
+- How casting, machining, corrosion protection and inspection connect.
+- Whether the required documentation and acceptance criteria are defined.
+- Whether the quotation clearly states assumptions and exclusions.
 
-## Why Choose AlumCasting as Your Magnesium Die Casting Supplier?
-
-Choosing a magnesium die casting supplier is not only about finding a factory with casting machines. It is about finding an engineering partner who understands your product challenges.
-
-![ISO certified magnesium die casting manufacturer](/images/TF1949-ISO9001-Certification.webp)
-
-At AlumCasting, we combine:
-
-- Professional die casting engineering experience
-- Integrated tooling, casting, CNC machining and finishing capabilities
-- Strict quality management system
-- Support from prototype development to mass production
-- Experience serving automotive and industrial customers
-
-Our goal is simple: help customers create lighter, stronger and more reliable products. [Learn About AlumCasting](/about-alumcasting-die-casting-expert/)
+This comparison should be based on the approved drawing, finishing specification, inspection plan and project-specific validation.
 
 ## Related Manufacturing Capabilities
 
 - [Aluminum Die Casting](/aluminum-die-casting/)
-- [Semi-Solid Die Casting](/semi-solid-die-casting-heat-treatable-aluminum/) *(page deferred — not in Batch 1)*
+- [Semi-Solid Die Casting](/semi-solid-die-casting-heat-treatable-aluminum/)
 - [Precision CNC Machining](/precision-cnc-machining/)
 
 ## Frequently Asked Questions About Magnesium Die Casting
 
-### What is magnesium die casting?
+### What is magnesium die casting used for?
 
-Magnesium die casting is a manufacturing process where molten magnesium alloy is injected into a precision mold under high pressure to create lightweight and complex metal components.
+Magnesium high pressure die casting is commonly evaluated for lightweight housings, covers, brackets, electronic enclosures and other components where weight reduction and thin-wall design are important.
 
-### Which magnesium alloys does AlumCasting use?
+### Which magnesium alloys are commonly evaluated?
 
-AlumCasting commonly works with AZ91D and AM60B magnesium alloys for automotive, EV and industrial applications.
+AZ91D and AM60B are common magnesium die-casting alloys. AZ91D is often considered where higher strength is important, while AM60B is commonly evaluated where greater ductility is needed. Final selection depends on the part, process and validation requirements.
+
+### What information is needed for a magnesium die casting RFQ?
+
+Provide the 3D model, 2D drawing with GD&T, alloy, annual volume, wall sections, critical features, machining allowance, corrosion-protection requirements and inspection scope. Missing inputs are reviewed before a production scope is confirmed.
 
 ### Can magnesium die castings be CNC machined?
 
-Yes. AlumCasting provides integrated CNC machining services to achieve final dimensions and assembly requirements after casting.
+Yes. Machining requirements should be planned with the casting design, datums, fixture access, machining allowance and finished features. The approved scope is confirmed for the specific project.
 
-### How does AlumCasting control magnesium casting quality?
+### How is corrosion protection specified?
 
-Quality control includes process monitoring, CMM dimensional inspection, X-Ray inspection, leak testing and material verification.
+The required corrosion protection should be defined from the operating environment, cleaning and finishing sequence, cosmetic requirements and assembly process. Coating or treatment selection is confirmed against the approved project specification.
 
 ## Looking for a Reliable Magnesium Die Casting Supplier?
 
 Share your drawings, material requirements and production goals. Our engineering team will evaluate your magnesium casting project.
 
 [Request Engineering Quote](/contact/)
-
-{{< quality-trust >}}
 
 {{< formspree >}}

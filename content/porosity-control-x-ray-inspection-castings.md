@@ -1,6 +1,6 @@
 ---
-title: "Porosity Control & X-Ray Inspection: Ensuring Internal Integrity in Every Casting"
-description: "Ensure zero-defect production with our rigorous Quality Control & Testing. We utilize Zeiss CMM, X-ray flaw detection, and spectrometers to guarantee precision for every aluminum and magnesium part. IATF 16949 certified quality management system. Request a professional QC report today!"
+title: "Casting Porosity Control & X-Ray Inspection | AlumCasting"
+description: "Engineering guide to casting porosity control, X-ray inspection planning, critical areas, sampling, acceptance criteria and project documentation."
 canonical: "https://alumcasting.com/porosity-control-x-ray-inspection-castings/"
 url: "/porosity-control-x-ray-inspection-castings/"
 robots: "index, follow"
@@ -9,83 +9,172 @@ schema_type: "WebPage"
 translationKey: "porosity-control-x-ray-inspection-castings"
 language: "en"
 rfq: true
-cta: "Request a Quote"
+cta: "Review Your Inspection Plan"
 cta_url: "/contact/"
 related_services:
   - "/precision-cnc-machining/"
   - "/aluminum-die-casting/"
+  - "/a356-aluminum-die-casting-porosity-control/"
   - "/contact/"
 aliases:
   - /die-casting-factory-cmm-xray-inspection/
   - /die-casting-defects-solutions-pro-guide/
   - /5-methods-eliminate-porosity-aluminum-pressure-die-casting/
+faq:
+  - question: "What is the difference between gas and shrinkage porosity?"
+    answer: "Gas porosity is associated with entrapped gas or hydrogen, while shrinkage porosity forms where feeding is insufficient during solidification. The appearance and location can overlap, so process history and inspection results should be evaluated together."
+  - question: "Can X-ray inspection guarantee zero porosity?"
+    answer: "No. X-ray or radiography can detect certain internal conditions, but capability depends on part thickness, geometry, defect type, orientation, equipment and acceptance criteria. No inspection method guarantees zero defects in every part."
+  - question: "How is inspection coverage determined?"
+    answer: "Critical areas, defect types, production stage, sampling, acceptance limits and documentation are defined from the drawing and approved project plan. Coverage is not automatically 100% for every order."
+  - question: "When should CT inspection be considered?"
+    answer: "CT may be evaluated when a project needs volumetric or complex internal information beyond the approved X-ray method. Equipment access, resolution, scan time, cost and acceptance criteria must be confirmed for the project."
+  - question: "What should be included in an inspection RFQ?"
+    answer: "Provide the drawing, critical features, alloy and process route, defect concerns, inspection method, sampling, acceptance criteria, report format and any customer standard that governs approval."
 
 ---
 
-# Quality Assurance & Control
+# Casting Porosity Control and X-Ray Inspection Planning
 
-Zero-Defect Commitment. Our IATF 16949 Certified Quality Management System ensures precision and consistency for every automotive and industrial component, and our [ISO 14001 certified aluminium die casting](/iso-14001-high-pressure-aluminium-die-casting-manufacturer/) operation applies the same discipline to environmental compliance.
-IATF 16949:2016ISO 9001:2015ISO 14001:2015RoHS & REACH Compliant
+Porosity control is a process-design and inspection-planning problem. It starts with the part and casting route, then connects melt handling, die filling, thermal balance, machining exposure and the inspection method used to evaluate critical areas.
 
-## Our Systematic Inspection Workflow
-1
+[Review Your Inspection Plan](/contact/)
 
-#### IQC
+## Gas Porosity and Shrinkage Porosity
 
-Incoming Quality Control: Spectrometer analysis of raw ingots (Aluminum/Magnesium) to verify alloy composition.
-2
+**Gas porosity** is associated with entrapped gas or hydrogen. Potential contributors include melt quality, filling turbulence, venting and process stability.
 
-#### IPQC
+**Shrinkage porosity** forms where feeding is insufficient during solidification. Thick-to-thin transitions, isolated masses, gating and thermal gradients can contribute.
 
-In-Process Quality Control: First-article inspection and hourly dimension checks during casting and CNC cycles.
-3
+The visual appearance alone may not identify the cause. Process records and inspection results should be evaluated together.
 
-#### Laboratory Testing
+[Read the A356 porosity-control guide](/a356-aluminum-die-casting-porosity-control/).
 
-X-Ray porosity detection, salt spray corrosion testing, and mechanical property verification (T6/T4).
-4
+## Process Controls Before Inspection
 
-#### FQC
+Inspection cannot replace a capable process. The project review should consider:
 
-Final Quality Control: 100% visual inspection and critical dimension verification using Hexagon CMM.
-5
+- Alloy and melt-quality controls
+- Hydrogen or density testing where specified
+- Gating, runner, overflow and venting
+- Filling velocity and turbulence
+- Die thermal balance and cooling
+- Intensification and process monitoring
+- Thick-to-thin transitions and feeding paths
+- Machining exposure and sealing requirements
 
-#### OQC
+The controls, frequency and acceptance criteria should be documented in the approved manufacturing plan.
 
-Outgoing Quality Control: Packaging audit and final documentation review before worldwide shipment.
-![Precision Dimensional Inspection](/images/precision-multi-axis-cnc-machining-tight-tolerance-parts.webp)
+## X-Ray and Radiographic Inspection
 
-## Advanced Metrology Lab
+X-ray or radiographic inspection may be used to evaluate internal conditions in castings. Its effectiveness depends on factors such as:
 
-We invest in world-class inspection technology to validate the high-tolerance automotive CNC machining work we perform. Our lab is temperature-controlled to ensure measurement stability.
+- Material and section thickness
+- Geometry and feature orientation
+- Defect type and expected location
+- Beam angle and image resolution
+- Equipment settings and calibration
+- Image interpretation and acceptance criteria
+- Reference standards or customer requirements
 
-- Hexagon/Zeiss Coordinate Measuring Machines (CMM)
-- Digital X-Ray / Radiography for Internal Porosity
-- Optical Emission Spectrometers (OES)
-- Roughness & Profilometer Analysis
-- Hardness & Tensile Strength Testing
+A method that works for one wall section or defect type may not provide the same information elsewhere in the part.
 
-## Testing Equipment List
-| Equipment Name | Function | Precision / Standard |
-| --- | --- | --- |
-| CMM (Coordinate Measure) | 3D Dimensional Verification | ±0.001mm Accuracy |
-| X-Ray Inspection | Sub-surface Defect Detection | ASTM E155 Standards |
-| Salt Spray Tester | Corrosion Resistance Testing | ASTM B117 / ISO 9227 |
-| Spectrometer | Chemical Composition Analysis | Real-time alloy verification |
-| Universal Testing Machine | Tensile, Yield, & Elongation | Mechanical Property Validation |
+## CT Inspection Considerations
 
-## Committed to Automotive-Grade Quality
+Computed tomography may be evaluated when the project needs volumetric or complex internal information beyond the approved X-ray method.
 
-Need full PPAP documentation or specific quality reports? Our quality engineers are ready to support your most stringent requirements.
-[Request a Sample Inspection Report](#contact)| Defect Type | Root Cause | Our Prevention Strategy |
-| --- | --- | --- |
-| Gas Porosity | Trapped Air/Turbulence | Vacuum Casting & Optimized Venting |
-| Shrinkage Voids | Uneven Cooling | Mold Flow Analysis & Precise Thermal Control |
-| Inclusions | Oxides in Melt | Automatic Ladling & Degassing Filters |
+Before proposing CT, confirm:
 
-## Porosity & Inspection FAQ
-Can you provide 100% X-ray inspection for our entire order? Yes. While many factories only do batch sampling, we have the capacity to provide 100% X-ray inspection for safety-critical components, ensuring every single part delivered meets your internal quality standards. What is the difference between gas porosity and shrinkage porosity? Gas porosity is caused by trapped air or steam and typically appears as smooth, round holes. Shrinkage porosity occurs as the metal cools and contracts, appearing as jagged, irregular voids. We use different vacuum and cooling strategies to eliminate both. Do you provide X-ray reports with the shipment? Absolutely. Every batch can be accompanied by a detailed X-ray inspection report and a certificate of compliance (CoC), providing full traceability and peace of mind for your engineering team.
+- Required resolution and scan volume
+- Material and maximum penetration
+- Defect type and acceptance criteria
+- Equipment access and supplier role
+- Scan time, data handling and cost
+- Report format and approval responsibility
 
-{{< quality-trust >}}
+CT availability and coverage are not assumed unless confirmed for the project.
+
+## Critical Areas and Sampling
+
+The inspection plan should identify:
+
+- Structural or pressure-tightness critical areas
+- Machining exposure and sealing faces
+- Areas where gas or shrinkage defects are likely
+- Production stage for inspection
+- First-article versus routine sampling
+- Sample size and acceptance limits
+- Reaction plan for nonconforming results
+
+Coverage is defined by risk and the approved plan. A blanket 100% X-ray claim is not used here because no evidence currently establishes that coverage for every part or program.
+
+## Dimensional and Material Verification
+
+Depending on the drawing, additional checks may include:
+
+- CMM or other dimensional methods
+- Material composition verification
+- Mechanical-property testing
+- Surface roughness or coating checks
+- Pressure or leak testing
+- Hardness or heat-treatment records
+
+Methods, calibration, sampling and report formats are project-specific. [Review CNC and inspection considerations](/precision-cnc-machining/).
+
+## Inspection Records and Documentation
+
+The required package should be stated in the quotation and approved manufacturing plan. Possible records include:
+
+- Material or process records
+- First-article and in-process results
+- X-ray or other internal-inspection records
+- Dimensional reports
+- Mechanical or functional test results
+- Nonconformance and corrective-action records
+
+PPAP, certificate of compliance, full traceability or a specific report package must not be assumed unless separately confirmed.
+
+## What to Include in an Inspection RFQ
+
+Provide:
+
+- 3D model and 2D drawing with GD&T
+- Alloy and casting process
+- Critical structural, sealing and machining areas
+- Defect concerns and acceptance criteria
+- Required inspection method and production stage
+- Sampling and coverage requirements
+- Customer standard, report format and retention period
+- Any third-party witness or approval requirement
+
+Incomplete RFQs can still be reviewed. Missing inspection or customer-controlled requirements are identified before the plan is confirmed.
+
+## Frequently Asked Questions
+
+### What is the difference between gas and shrinkage porosity?
+
+Gas porosity is associated with entrapped gas or hydrogen, while shrinkage porosity forms where feeding is insufficient during solidification. The appearance and location can overlap, so process history and inspection results should be evaluated together.
+
+### Can X-ray inspection guarantee zero porosity?
+
+No. X-ray or radiography can detect certain internal conditions, but capability depends on part thickness, geometry, defect type, orientation, equipment and acceptance criteria. No inspection method guarantees zero defects in every part.
+
+### How is inspection coverage determined?
+
+Critical areas, defect types, production stage, sampling, acceptance limits and documentation are defined from the drawing and approved project plan. Coverage is not automatically 100% for every order.
+
+### When should CT inspection be considered?
+
+CT may be evaluated when a project needs volumetric or complex internal information beyond the approved X-ray method. Equipment access, resolution, scan time, cost and acceptance criteria must be confirmed for the project.
+
+### What should be included in an inspection RFQ?
+
+Provide the drawing, critical features, alloy and process route, defect concerns, inspection method, sampling, acceptance criteria, report format and any customer standard that governs approval.
+
+## Start an Inspection Planning Review
+
+Share the drawing, critical areas, casting route, defect concerns and required acceptance method so the inspection plan can be reviewed.
+
+[Request an Engineering Review](/contact/)
 
 {{< formspree >}}

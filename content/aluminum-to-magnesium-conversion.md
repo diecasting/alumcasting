@@ -1,6 +1,6 @@
 ---
-title: "Aluminum to Magnesium Conversion | Die Casting"
-description: "Convert aluminum parts to magnesium die casting and reduce weight by 33%. Expert engineering, 0.8mm thin-wall DFM, MoldFlow simulation & advanced PEO surface protection."
+title: "Aluminum to Magnesium Conversion Service | AlumCasting"
+description: "Review an aluminum-to-magnesium conversion for casting, stiffness, corrosion protection, machining, validation and production feasibility."
 canonical: "https://alumcasting.com/aluminum-to-magnesium-conversion/"
 url: "/aluminum-to-magnesium-conversion/"
 robots: "index, follow"
@@ -9,112 +9,165 @@ schema_type: "WebPage"
 translationKey: "aluminum-to-magnesium-conversion"
 language: "en"
 rfq: true
-cta: "Request a Quote"
+cta: "Review Your Conversion Project"
 cta_url: "/contact/"
 related_services:
   - "/magnesium-die-casting-services/"
   - "/aluminum-die-casting/"
+  - "/az91d-magnesium-die-casting-automotive-parts/"
+  - "/surface-finishing-aluminum-magnesium-casting/"
   - "/contact/"
+faq:
+  - question: "What is included in an aluminum-to-magnesium conversion review?"
+    answer: "The review compares the current aluminum design with magnesium material and process requirements, including stiffness, strength, wall sections, fastening, corrosion, casting feasibility, machining and validation."
+  - question: "Will the converted part be 33% lighter?"
+    answer: "No fixed reduction can be guaranteed. Magnesium has lower density, but the final mass depends on the redesign, stiffness and strength targets, minimum sections, inserts, corrosion protection and validation requirements."
+  - question: "Which magnesium die-casting alloys can be evaluated?"
+    answer: "AZ91D and AM60B are common material examples with different strength and ductility tendencies. The exact alloy must be confirmed against the application, approved material specification and production availability."
+  - question: "How is magnesium corrosion addressed?"
+    answer: "The design must control drainage, dissimilar-metal contact, fasteners and surface preparation, then apply an approved coating or conversion system. Performance must be validated for the actual alloy, geometry and service environment."
+  - question: "What inputs are needed for a conversion RFQ?"
+    answer: "Provide the current aluminum drawing and assembly, target mass, load and stiffness requirements, operating environment, interfaces, expected volume, finishing plan, validation method and any customer-specific process requirement."
 ---
 
-Precision Lightweight Engineering
+# Aluminum to Magnesium Conversion Service
 
-# Expert Aluminum to Magnesium Conversion Service
+An aluminum-to-magnesium conversion is an engineering redesign project. Lower material density can reduce mass, but the final design must still meet stiffness, strength, fatigue, corrosion, assembly and manufacturing requirements.
 
-We empower automotive Tier-1 suppliers and consumer electronic OEMs to systematically slash structural component weight by 33% using advanced Magnesium high-pressure die casting and early DFM micro-rib layout development.
+[Request a Conversion Feasibility Review](/contact/)
 
-### High Fluidity Mechanics
+## What the Conversion Review Covers
 
-Magnesium’s extraordinary fluid velocity allows for ultra-thin wall profiles (0.8mm) and intricate skeletal ribs completely unachievable via standard aluminum alloys.
+The project starts with the current aluminum component and its function:
 
-### Eco-Friendly Footprint
+- Loads, stiffness and natural-frequency requirements
+- Fatigue, impact and temperature exposure
+- Wall sections, ribs and attachment points
+- Fasteners, inserts and dissimilar-metal interfaces
+- Corrosion and cleaning environment
+- Casting, machining and finishing route
+- Inspection and validation requirements
 
-An inherently 100% recyclable structural metal featuring significantly lower melting temperatures, vastly curtailing factory carbon footprints during melt batches.
+The output is a project-specific feasibility assessment, not a promise that a fixed percentage of mass can be removed.
 
-### Ultra-Fast Shot Cycles
+## Material Selection
 
-Superior heat dissipation characteristics secure faster in-mold cooling limits, translating directly to a 20% to 30% reduction in production cycle timing.
+Magnesium has lower density than aluminum, but material properties and process behavior differ. Common die-casting alloy examples include AZ91D and AM60B:
 
-## Material Benchmark: Aluminum vs. Magnesium
+| Alloy example | General selection tendency | Main review points |
+|---|---|---|
+| AZ91D | Strength-oriented housings and brackets | Ductility, impact, corrosion and temperature |
+| AM60B | Components where greater ductility is important | Strength, fatigue, casting quality and validation |
 
-Empirical technical physics validating why Magnesium stands out as the premium option for intense structural weight management.
+These are selection tendencies, not universal rankings. Production availability and material condition require confirmation. Review the [technical aluminum-to-magnesium weight-reduction guide](/aluminum-to-magnesium-conversion-weight-reduction/) and [magnesium die casting services](/magnesium-die-casting-services/).
 
-Engineering Parameter
+## Design Conversion and DFM
 
-Aluminum (ADC12)
+The conversion should evaluate:
 
-Magnesium (AZ91D)
+- Required stiffness and load paths
+- Rib and boss redesign
+- Wall transitions and isolated masses
+- Draft, ejection and core access
+- Flow length and filling feasibility
+- Fastener and insert strategy
+- Machining allowance and datum continuity
 
-**Volumetric Density (g/cm³)**
+Magnesium should not be treated as a drop-in replacement using the aluminum drawing unchanged. The geometry and manufacturing plan must be reviewed together.
 
-2.70 Industry Baseline
+## Casting Feasibility
 
-1.81 33% Weight Reduction
+Magnesium die casting requires dedicated melt handling, process safety and corrosion-control procedures. The supplier review should confirm:
 
-**Mechanical Damping Capacity**
+- Approved alloy and material source
+- Manufacturing site and equipment scope
+- Melt and process-control plan
+- Die thermal design and process window
+- Handling procedures for chips and fine material
+- First-article and production inspection
+- Traceability and change-control scope
 
-Low Moderate Noise Resonance
+No tonnage claim, photograph or material brochure proves that the specific component has been qualified.
 
-High Superior Vibration Absorption
+## Corrosion Protection
 
-**Minimum Feasible Wall Thickness**
+Magnesium corrosion protection combines design and finishing:
 
-1.5mm – 2.5mm
+- Drainage and avoidance of trapped moisture
+- Isolation from steel and other dissimilar materials
+- Coating coverage at edges and recesses
+- Fastener and insert protection
+- Surface preparation and handling between operations
 
-0.8mm – 1.5mm Ultra-Thin Capabilities
+Possible finishing routes depend on substrate and specification and may include an approved conversion or micro-arc oxidation system followed by a suitable coating. Test standards and acceptance limits must represent the actual service environment. [Review magnesium finishing considerations](/surface-finishing-aluminum-magnesium-casting/).
 
-**Inherent EMI Shielding Effectiveness**
+## CNC Machining and Assembly
 
-Good Attenuation
+Magnesium machining requires controls for chip handling, fire safety, cutting media, corrosion protection and fixture pressure. The manufacturing plan should define:
 
-Excellent Maximum Component Shielding
+- Casting datum and fixture strategy
+- Machining allowance
+- Tooling and in-process checks
+- Deburring and cleaning
+- Protection before coating
+- Insert and fastener installation
 
-## Our Magnesium Conversion Workflow
+A lower material mass does not automatically reduce total component cost. Tooling, process cycle, yield, finishing, machining and validation all contribute.
 
-Rigorous stage-gate validation pipeline ensuring flawless structural performance migration.
+## Validation Plan
 
-1
+A credible conversion review should include:
 
-#### DFM Structural Audit
+1. Target mass, stiffness and strength verification.
+2. Casting feasibility and tooling plan.
+3. Material and process specification.
+4. Corrosion and galvanic-interface validation.
+5. First-article dimensional and internal-quality evaluation.
+6. Mechanical, fatigue, impact or application-specific testing as required.
+7. Production control and change management.
 
-We deeply review your active Aluminum geometries to optimize load paths and thickness transitions matching Magnesium flow kinetics.
+The customer remains responsible for final application validation and approval.
 
-2
+## Conversion RFQ Checklist
 
-#### Melt Flow Simulation
+Provide:
 
-Advanced predictive multi-physics analysis calculates filling velocities to firmly preempt cold-shuts and air-trapping spots.
+- Current aluminum drawing and assembly
+- Candidate magnesium alloy or target properties
+- Target mass and performance requirements
+- Load, stiffness, fatigue and impact data
+- Temperature, moisture and corrosion exposure
+- Fasteners, inserts and mating materials
+- Expected annual volume
+- Machining and finishing requirements
+- Inspection, testing and documentation scope
 
-3
+## Frequently Asked Questions
 
-#### Precision Injection
+### What is included in an aluminum-to-magnesium conversion review?
 
-We cast the modified designs on high-tonnage cold-chamber machines fully enshrouded by dedicated inert gas protection blankets.
+The review compares the current aluminum design with magnesium material and process requirements, including stiffness, strength, wall sections, fastening, corrosion, casting feasibility, machining and validation.
 
-4
+### Will the converted part be 33% lighter?
 
-#### Advanced Passivation
+No fixed reduction can be guaranteed. Magnesium has lower density, but the final mass depends on the redesign, stiffness and strength targets, minimum sections, inserts, corrosion protection and validation requirements.
 
-Applying state-of-the-art PEO (Plasma Electrolytic Oxidation) or micro-arc technologies to build relentless environmental seal shields.
+### Which magnesium die-casting alloys can be evaluated?
 
-#### Is Magnesium more expensive than Aluminum?
+AZ91D and AM60B are common material examples with different strength and ductility tendencies. The exact alloy must be confirmed against the application, approved material specification and production availability.
 
-While the raw base metal material cost per kilogram is traditionally higher, the immediate 33% physical mass reduction combined with up to a 2x longer mold life span means your aggregate total cost per piece is frequently lower across multi-year mass production runs.
+### How is magnesium corrosion addressed?
 
-#### How do you manage Magnesium flammability during manufacturing?
+The design must control drainage, dissimilar-metal contact, fasteners and surface preparation, then apply an approved coating or conversion system. Performance must be validated for the actual alloy, geometry and service environment.
 
-Within a controlled, professional foundry environment, we leverage precise, automated dosing machinery shielded by SF6 / CO2 protective gas mixtures. Once completely frozen into its dense solid structural phase, finished Magnesium components present no more risk than standard metals.
+### What inputs are needed for a conversion RFQ?
 
-#### What measures protect components against atmospheric corrosion?
+Provide the current aluminum drawing and assembly, target mass, load and stiffness requirements, operating environment, interfaces, expected volume, finishing plan, validation method and any customer-specific process requirement.
 
-Modern high-purity structural alloys like AZ91D possess exceptional built-in environmental resilience. When fused with state-of-the-art industrial E-coating, Keronite layer technologies, or micro-arc passivation, parts comfortably survive extreme 480 to 1,000-hour ASTM salt spray test validation thresholds.
+## Start a Conversion Feasibility Review
 
-## Start Your Component Lightweighting Journey Today
+Share the existing design, target mass and validation requirements so material, geometry, tooling, finishing and testing questions can be reviewed together.
 
-Upload your production-ready 3D files (STEP, IGS, or X_T format) for a completely transparent, zero-cost conversion feasibility evaluation. Our expert metallurgy and application consulting desk will provide an itemized component mass balance and line-item casting quote breakdown within 24 business hours.
-
-📊 **Complimentary Mass Audit:** Instant calculation of weight and unit cost differentials.
-
-🛡️ **Structural Certification:** Full mechanical property mapping for heavy stress loading.
+[Submit a Conversion RFQ](/contact/)
 
 {{< formspree >}}
