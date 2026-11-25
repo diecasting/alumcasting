@@ -12,7 +12,7 @@ rfq: true
 cta: "Review Your Process Route"
 cta_url: "/contact/"
 date: "2026-04-27T05:25:12+00:00"
-modified: "2026-11-25T12:00:00"
+modified: "2026-11-25T18:55:03+08:00"
 related_services:
   - "/high-pressure-die-casting-process-quality/"
   - "/thin-wall-die-casting-tooling/"
@@ -50,6 +50,8 @@ HPDC is often considered for:
 - Complex cosmetic or integrated shapes
 - Parts with machining features
 - Aluminum, magnesium and zinc die-casting applications
+
+For the distinction between cold-chamber HPDC and hot-chamber architectures used for other alloys, review [hot-chamber versus cold-chamber die casting](/hot-chamber-vs-cold-chamber-aluminum-die-casting-myth/).
 
 ### Low Pressure Die Casting
 

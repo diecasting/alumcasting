@@ -11,6 +11,7 @@ language: "en"
 rfq: true
 cta: "Review Your Leak-Tightness Requirements"
 cta_url: "/contact/"
+modified: "2026-11-25T18:55:03+08:00"
 related_services:
   - "/porosity-control-x-ray-inspection-castings/"
   - "/precision-cnc-machining/"
@@ -38,7 +39,7 @@ Vacuum-assisted high pressure die casting changes the gas environment in the die
 
 ## What Vacuum Assistance Changes
 
-In conventional cold-chamber HPDC, air in the shot sleeve and die can become entrained during filling. A vacuum system is intended to reduce the amount of air available before and during injection.
+In conventional cold-chamber HPDC, air in the shot sleeve and die can become entrained during filling. A vacuum system is intended to reduce the amount of air available before and during injection. For the underlying machine-architecture distinction, review [hot-chamber versus cold-chamber die casting](/hot-chamber-vs-cold-chamber-aluminum-die-casting-myth/).
 
 The system must be designed and maintained as part of the complete process:
 

@@ -11,6 +11,7 @@ language: "en"
 rfq: true
 cta: "Request Aluminum Die Casting Quote"
 cta_url: "/contact/"
+modified: "2026-11-25T18:55:03+08:00"
 faq:
   - question: "What is aluminum high pressure die casting?"
     answer: "Aluminum high pressure die casting injects molten aluminum alloy into a steel die at high pressure and velocity. It is commonly used for repeatable, complex components such as housings, covers, brackets and machined assemblies."
@@ -63,7 +64,7 @@ A practical DFM review connects the component design to the die and machining pl
 - Expected annual volume and production stages
 - Required inspection methods and documentation
 
-This review identifies casting and machining questions before tooling details are released. For the cold-chamber process, see [cold chamber die casting services](/cold-chamber-die-casting-services/). Where process capability and structural requirements need to be compared, the [low-pressure vs high-pressure die casting comparison](/low-pressure-vs-high-pressure-die-casting-comparison/) sets out the trade-offs.
+This review identifies casting and machining questions before tooling details are released. For the cold-chamber process, see [cold chamber die casting services](/cold-chamber-die-casting-services/). For the machine-architecture distinction that affects alloy selection, review [hot-chamber versus cold-chamber die casting](/hot-chamber-vs-cold-chamber-aluminum-die-casting-myth/). Where process capability and structural requirements need to be compared, the [low-pressure vs high-pressure die casting comparison](/low-pressure-vs-high-pressure-die-casting-comparison/) sets out the trade-offs.
 
 ## Aluminum Alloy Selection
 
