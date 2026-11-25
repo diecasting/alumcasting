@@ -89,7 +89,7 @@ Large castings increase the importance of filling distance, thermal gradients, s
 - Machining allowance and datum stability
 - Handling, fixture and inspection access
 
-For related engineering guidance, review [die casting tooling](/die-casting-tooling/) and [minimum draft-angle considerations](/minimum-draft-angle-for-aluminium-die-casting-dfm-guide/).
+For related engineering guidance, review [die casting tooling](/die-casting-tooling/), [5000T wall-thickness and projected-area screening](/maximum-wall-thickness-projected-area-limits-5000t-die-casting/) and [minimum draft-angle considerations](/minimum-draft-angle-for-aluminium-die-casting-dfm-guide/).
 
 ## Alloy and Process Selection
 

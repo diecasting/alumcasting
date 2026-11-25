@@ -38,7 +38,7 @@ Cold chamber die casting is used for higher-melting metals such as many aluminum
 
 ## How the Cold Chamber Process Works
 
-In a cold chamber machine, molten metal is transferred into a shot sleeve for each cycle. The plunger then injects the metal into a closed die. Because the injection system is not immersed in the furnace, the process can handle higher-melting alloys than a hot-chamber route.
+In a cold chamber machine, molten metal is transferred into a shot sleeve for each cycle. The plunger then injects the metal into a closed die. Because the injection system is not immersed in the furnace, the process can handle higher-melting alloys than a hot-chamber route. For the underlying process distinction, review [hot-chamber versus cold-chamber die casting](/hot-chamber-vs-cold-chamber-aluminum-die-casting-myth/).
 
 Project review should cover:
 

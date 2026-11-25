@@ -42,8 +42,8 @@ Aluminum die-casting support for automotive and EV component programs. AlumCasti
 Typical component families considered during project review include:
 
 - **Powertrain and drivetrain:** housings, covers and mounting components.
-- **E-mobility:** motor housings, brackets and structural interfaces.
-- **Thermal management:** cooling plates, housings and sealed assemblies.
+- **E-mobility:** [aluminum motor housings](/die-cast-aluminum-electric-motor-housing-suppliers/), brackets and structural interfaces.
+- **Thermal management:** [liquid-cooled aluminum cooling plates](/liquid-cooled-aluminum-cooling-plates-for-electric-vehicles/), housings and sealed assemblies.
 - **Chassis and body:** structural brackets and other cast-and-machined interfaces.
 
 Final process suitability depends on load case, geometry, alloy, wall sections, sealing requirements, machining scope and expected production volume.

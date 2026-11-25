@@ -77,6 +77,10 @@ ADC12 is widely used for die-cast components where casting fluidity and dimensio
 
 A380 is a common aluminum die-casting alloy for housings and general commercial components. Its suitability depends on strength, corrosion exposure, thermal conditions and machining requirements. [View the A380 selection guide](/380-aluminum-die-casting-service/).
 
+### A383 Aluminum
+
+A383 is another Al-Si-Cu die-casting alloy to evaluate where its composition and process behavior fit the drawing. [Review A383 casting, die-soldering and machining considerations](/a383-aluminum-die-casting-service/).
+
 ### A356 Aluminum
 
 A356 may be evaluated where higher elongation or heat-treatment compatibility is needed. It should not be substituted for A380 or ADC12 without reviewing the complete process and validation plan. [Review A356 porosity-control considerations](/a356-aluminum-die-casting-porosity-control/).

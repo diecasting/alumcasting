@@ -40,6 +40,8 @@ Magnesium alloys can reduce component mass because their density is lower than a
 
 [Request an Aluminum-to-Magnesium Review](/contact/)
 
+For the commercial project-review route, see [aluminum-to-magnesium conversion services](/aluminum-to-magnesium-conversion/).
+
 ## Why “33% Lighter” Is Not a Design Guarantee
 
 A same-volume magnesium part may be lighter than an equivalent aluminum volume because magnesium has lower density. The finished component can also require different walls, ribs, bosses, inserts or attachments.

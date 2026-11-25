@@ -108,7 +108,7 @@ Machining feasibility depends on more than the nominal size of the part. The rev
 - Inspection access and datum control
 - Expected production volume
 
-Multi-axis machining requirements are reviewed against the part and the machine assigned to the project. A universal capability statement does not replace feature-level process planning.
+Multi-axis machining requirements are reviewed against the part and the machine assigned to the project. A universal capability statement does not replace feature-level process planning. For capacity and equipment due diligence, review the [automotive CNC equipment and capability checklist](/automotive-cnc-machining-equipment-list/).
 
 ## Workholding and Distortion Control
 

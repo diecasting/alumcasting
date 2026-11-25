@@ -51,7 +51,7 @@ High pressure die casting may be evaluated for aluminum components requiring rep
 - Expected annual volume and production stages
 - Inspection and documentation requirements
 
-Final feasibility depends on the complete drawing and manufacturing plan. [Explore aluminum die casting](/aluminum-die-casting/) or [ADC12 and CNC machining](/adc12-die-casting-cnc-machining/).
+Final feasibility depends on the complete drawing and manufacturing plan. [Explore aluminum die casting](/aluminum-die-casting/) or [ADC12 and CNC machining](/adc12-die-casting-cnc-machining/). Industrial enclosure projects can also review [explosion-proof aluminum enclosure casting requirements](/explosion-proof-aluminum-enclosures-oil-gas-industry/).
 
 ## Magnesium Die Casting
 
