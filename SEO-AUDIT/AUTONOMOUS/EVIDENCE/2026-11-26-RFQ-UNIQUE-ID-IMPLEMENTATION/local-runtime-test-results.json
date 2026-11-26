@@ -1,0 +1,36 @@
+{
+  "testDate": "2026-11-26",
+  "environment": "local Hugo staging build served from temporary localhost",
+  "productionAnalyticsLoaded": false,
+  "successCase": {
+    "idFormatValid": true,
+    "hiddenFieldIdMatchedFormData": true,
+    "subjectFieldRendered": "AlumCasting RFQ {{ rfq_id }} — New Inquiry",
+    "endpoint": "https://formspree.io/f/xpqgbdly",
+    "doubleSubmitFetchCount": 1,
+    "gtagEventCount": 1,
+    "eventName": "generate_lead",
+    "eventRfqIdMatched": true,
+    "eventContainsPii": false,
+    "successFormContentRendered": true
+  },
+  "formspreeErrorCase": {
+    "newPageProducedNewId": true,
+    "fetchCount": 1,
+    "gtagEventCount": 0,
+    "idPreserved": true,
+    "submitReenabled": true
+  },
+  "networkFailureCase": {
+    "fetchCount": 1,
+    "gtagEventCount": 0,
+    "idPreserved": true,
+    "submitReenabled": true
+  },
+  "nativeFallbackCase": {
+    "idFormatValid": true,
+    "nativeSubmitCount": 1,
+    "gtagEventCount": 0,
+    "submitLocked": true
+  }
+}

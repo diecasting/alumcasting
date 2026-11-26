@@ -1,0 +1,62 @@
+{
+  "testDate": "2026-11-26",
+  "release": {
+    "sourceCommit": "209ec0fd386dedf2ec424fc517a3895dfc96cbee",
+    "productionMergeCommit": "9f141e1380d5985826bf3468ea29c223d55d602b",
+    "pullRequest": "https://github.com/diecasting/alumcasting/pull/2",
+    "githubActionsRun": "45760487830",
+    "githubActionsConclusion": "success",
+    "productionMainSha": "9f141e1380d5985826bf3468ea29c223d55d602b"
+  },
+  "sourceVerification": {
+    "productionContactStatus": 200,
+    "hiddenSubjectFieldPresent": true,
+    "hiddenRfqIdFieldPresent": true,
+    "subjectTemplate": "AlumCasting RFQ {{ rfq_id }} — New Inquiry",
+    "secureRandomGenerationPresent": true,
+    "generateLeadPresent": true,
+    "rfqIdEventParameterPresent": true,
+    "formspreeEndpointPreserved": true,
+    "productionGoogleTagPresent": true,
+    "stagingHostnameLeakPresent": false
+  },
+  "controlledSubmission": {
+    "testMarker": "INTERNAL SYSTEM TEST — NOT A CUSTOMER RFQ — DO NOT PROCESS AS A SALES INQUIRY",
+    "rfqId": "RFQ-20261126-BF29E3AD3BA6",
+    "formspreeSubmissionId": "174445634",
+    "formspreeTimestamp": "2026-11-26T05:19:00Z",
+    "storedRfqIdMatchesWebsite": true,
+    "storedSubject": "AlumCasting RFQ RFQ-20261126-BF29E3AD3BA6 — New Inquiry",
+    "businessFieldsPresent": true,
+    "notificationPluginStatus": "processed",
+    "notificationRecipientIdentityRedacted": true,
+    "actualEmailInboxReceipt": "NOT VERIFIED",
+    "actualEmailReceiptLimitation": "Browser access to the mail provider login origin was blocked by policy, and the configured desktop mailbox was not available to CUA."
+  },
+  "ga4Verification": {
+    "propertyId": "527174041",
+    "streamId": "G-B48RJMJ2W6",
+    "realtimeGenerateLeadCount": 1,
+    "analyticsCollectGenerateLeadRequestCount": 1,
+    "eventName": "generate_lead",
+    "eventRfqId": "RFQ-20261126-BF29E3AD3BA6",
+    "eventRfqIdMatchesFormspree": true,
+    "eventContainsPersonalInformation": false,
+    "requestTimestampUtc": "2026-11-26T05:19:17.023Z",
+    "oldUrlBasedGenerateLeadRequestObserved": false,
+    "duplicateClientGenerateLeadObserved": false
+  },
+  "protectedConfiguration": {
+    "urlBasedCustomEventsRemainAbsent": true,
+    "generateLeadKeyEventRemains": true,
+    "automaticMeasurementRemains": true,
+    "googleSignalsRemainsEnabled": true,
+    "automaticUserDataRemainsEnabled": true,
+    "adsSettingsChanged": false,
+    "formspreeEndpointChanged": false
+  },
+  "remainingGaps": [
+    "The notification email was not independently opened in an authorized inbox.",
+    "No GA4 custom dimension is registered for rfq_id; parameter evidence comes from the collect request plus Realtime receipt."
+  ]
+}

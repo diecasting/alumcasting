@@ -1,0 +1,46 @@
+{
+  "validationDate": "2026-11-26",
+  "hugoVersion": "0.163.3+extended windows/amd64",
+  "productionBuild": {
+    "status": "PASS",
+    "pages": 64,
+    "aliases": 31,
+    "htmlFiles": 86,
+    "sitemapUrls": 55,
+    "missingInternalLinks": 0,
+    "missingImages": 0,
+    "missingImageAlt": 0,
+    "badCanonicals": 0,
+    "badH1": 0,
+    "productionNoindexPages": 0,
+    "robotsContainsProductionSitemap": true,
+    "containsProductionGoogleTag": true,
+    "containsFormspreeEndpoint": true
+  },
+  "stagingBuild": {
+    "status": "PASS",
+    "pages": 64,
+    "aliases": 31,
+    "htmlFiles": 86,
+    "sitemapUrls": 55,
+    "missingInternalLinks": 0,
+    "missingImages": 0,
+    "missingImageAlt": 0,
+    "stagingNoindexSitemapPages": 55,
+    "containsProductionGoogleTag": false,
+    "containsProductionAnalyticsId": false,
+    "containsProductionAdsId": false,
+    "robotsContainsProductionSitemap": false,
+    "containsFormspreeEndpoint": true
+  },
+  "formMarkup": {
+    "endpointPreserved": true,
+    "methodPost": true,
+    "existingBusinessFieldsPreserved": true,
+    "subjectField": "subject",
+    "subjectValue": "AlumCasting RFQ {{ rfq_id }} — New Inquiry",
+    "hiddenRfqIdField": true
+  },
+  "rfqInlineJavaScriptSyntax": "PASS",
+  "gitDiffCheck": "PASS"
+}

@@ -1,0 +1,82 @@
+{
+  "verificationTimestamp": "2026-11-26T13:56:05+08:00",
+  "deployment": {
+    "remoteMainObservedBeforePromotion": "0bdb005af33ecb2f996bd3db0b1618943e825d35",
+    "releaseBranch": "codex/rfq-unique-id-20261126",
+    "releaseCommit": "209ec0fd386dedf2ec424fc517a3895dfc96cbee",
+    "ordinaryFastForwardPush": "REJECTED — REMOTE MAIN HAD ADVANCED",
+    "fetchedRemoteMain": "9f141e1380d5985826bf3468ea29c223d55d602b",
+    "releaseCommitIsAncestorOfMain": true,
+    "mergeCommit": "9f141e1380d5985826bf3468ea29c223d55d602b",
+    "githubActionsRun": "45760487830",
+    "githubActionsConclusion": "success",
+    "githubPagesDeploymentId": "8077162596",
+    "githubPagesDeploymentSha": "9f141e1380d5985826bf3468ea29c223d55d602b",
+    "githubPagesDeploymentCreatedAt": "2026-11-26T05:16:25Z",
+    "deploymentJobConclusion": "success"
+  },
+  "releaseScope": {
+    "baselineCommit": "0bdb005af33ecb2f996bd3db0b1618943e825d35",
+    "changedFiles": [
+      "layouts/partials/analytics.html",
+      "layouts/shortcodes/formspree.html"
+    ],
+    "sourceDiffCheck": "PASS"
+  },
+  "productionChecks": {
+    "sitemapUrlCount": 55,
+    "sitemapPagesHttp200": 55,
+    "sitemapPagesNon200": 0,
+    "sitemapPagesNoindex": 0,
+    "sitemapPagesCanonicalMissing": 0,
+    "sitemapPagesCanonicalMismatch": 0,
+    "robotsStatus": 200,
+    "robotsSitemapDirectivePresent": true,
+    "aliasStatus": 200,
+    "aliasMetaRefreshPresent": true,
+    "contactPageStatus": 200,
+    "contactInternalReferencesChecked": 21,
+    "contactInternalReferencesNon200": 0,
+    "contactSubjectFieldPresent": true,
+    "contactSubjectTemplatePresent": true,
+    "contactRfqIdFieldPresent": true,
+    "contactSecureRandomGenerationPresent": true,
+    "contactGenerateLeadPresent": true,
+    "contactRfqIdEventParameterPresent": true,
+    "formspreeEndpointPreserved": true,
+    "productionGoogleTagPresent": true,
+    "stagingHostnameLeakPresent": false
+  },
+  "controlledRfq": {
+    "submissionCountThisRun": 1,
+    "rfqId": "RFQ-20261126-BF29E3AD3BA6",
+    "formspreeSubmissionId": "174445634",
+    "formspreeTimestamp": "2026-11-26T05:19:00Z",
+    "formspreeStoredSubject": "AlumCasting RFQ RFQ-20261126-BF29E3AD3BA6 — New Inquiry",
+    "formspreeNotificationPluginStatus": "processed",
+    "ga4GenerateLeadRealtimeCount": 1,
+    "ga4CollectGenerateLeadRequestCount": 1,
+    "ga4RfqIdMatched": true,
+    "ga4EventContainsPersonalInformation": false,
+    "notificationEmailInboxReceipt": "NOT VERIFIED",
+    "notificationEmailBodyRfqIdRendering": "NOT VERIFIED"
+  },
+  "deliveryStates": {
+    "sourceImplementation": "VERIFIED COMPLETE",
+    "productionDeployment": "VERIFIED COMPLETE",
+    "formspreeReceipt": "VERIFIED",
+    "notificationEmailInboxReceipt": "NOT VERIFIED",
+    "ga4ActualEventReceipt": "VERIFIED"
+  },
+  "rollback": {
+    "status": "PREPARED — NOT EXECUTED",
+    "method": "Revert the isolated source commit in a new release branch, validate Production and Staging, and use the standard pull-request deployment workflow.",
+    "forcePushRequired": false,
+    "productionHistoryRewriteRequired": false
+  },
+  "remainingGaps": [
+    "The configured notification mailbox was not independently opened to verify actual inbox receipt.",
+    "Default Formspree notification body rendering of rfq_id remains unverified.",
+    "No additional production RFQ test is authorized or required for this verification record."
+  ]
+}
