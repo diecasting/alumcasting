@@ -16,12 +16,16 @@
 .rfq-form fieldset.rfq-qual{border:1px solid #dde5ef;border-radius:8px;padding:.4rem 1rem 1rem;margin:.6rem 0;background:#f7faff}
 .rfq-form fieldset.rfq-qual legend{font-weight:700;font-size:.9rem;color:#0d4a8e;padding:0 .4rem}
 .rfq-form .rfq-note{font-size:.82rem;color:#5a6b7b;margin:.5rem 0 0;line-height:1.4}
+.rfq-form .rfq-status{font-size:.9rem;margin:.65rem 0 0;line-height:1.4}
+.rfq-form .rfq-status.is-error{color:#9b1c1c}
 .rfq-form button{margin-top:.8rem;padding:.65rem 1.4rem;border:0;border-radius:6px;cursor:pointer;
   background:#F97316;color:#fff;font:inherit;font-weight:700}
 .rfq-form button:hover{background:#EA580C}
+.rfq-form button:disabled{background:#9ca3af;cursor:not-allowed}
 </style>
 <form class="rfq-form" action="https://formspree.io/f/xpqgbdly" method="POST">
-  <input type="hidden" name="_subject" value="AlumCasting RFQ — New Inquiry">
+  <input type="hidden" name="subject" value="AlumCasting RFQ &#123;&#123; rfq_id &#125;&#125; — New Inquiry">
+  <input id="rfq-id" type="hidden" name="rfq_id" value="">
   <div class="rfq-row">
     <label for="rfq-name">Name *<input id="rfq-name" type="text" name="name" required></label>
     <label for="rfq-email">Email *<input id="rfq-email" type="email" name="email" required></label>
@@ -78,33 +82,119 @@
   <p class="rfq-note"><strong>Have a drawing or technical specification?</strong> Please email your drawing, 3D model, or technical specification to <a href="mailto:hank@alumcasting.com">hank@alumcasting.com</a>. Include your company name or enquiry subject so we can match the files to your RFQ.</p>
   <p class="rfq-note">We'll review your enquiry and get back to you as soon as possible. Your details are used only to evaluate and reply to your inquiry.</p>
   <button type="submit">Request a Quote</button>
+  <p class="rfq-status" role="status" aria-live="polite"></p>
 </form>
 {{- /* A.3 Tier-1 — progressive enhancement ONLY.
    Fires GA4 generate_lead on CONFIRMED Formspree success; native POST stays
-   the no-JS path and the fallback when gtag/fetch fail. The Google Ads
+   the no-JS path and the fallback when gtag is unavailable. The Google Ads
    conversion send_to event is intentionally omitted (label unavailable).
-   Safety: bind once; never double-submit. */ -}}
+   Safety: bind once; use one RFQ ID per attempt; lock concurrent submits. */ -}}
 <script>
 (function(){
+  function pad(value, length) {
+    var text = String(value);
+    while (text.length < length) text = '0' + text;
+    return text;
+  }
+
+  function createRfqId() {
+    if (!window.crypto || typeof window.crypto.getRandomValues !== 'function') return '';
+    var bytes = new Uint8Array(6);
+    window.crypto.getRandomValues(bytes);
+    var suffix = '';
+    for (var i = 0; i < bytes.length; i++) suffix += pad(bytes[i].toString(16), 2);
+    var now = new Date();
+    return 'RFQ-' + pad(now.getUTCFullYear(), 4) + pad(now.getUTCMonth() + 1, 2)
+      + pad(now.getUTCDate(), 2) + '-' + suffix.toUpperCase();
+  }
+
   var f = document.querySelector('form.rfq-form');
   if(!f || f.dataset.a3bound) return;
   f.dataset.a3bound = "1";
+  var idField = f.querySelector('input[name="rfq_id"]');
+  var submitButton = f.querySelector('button[type="submit"]');
+  var status = f.querySelector('.rfq-status');
+  if (!idField || !submitButton || !status) return;
+
+  var pendingId = idField.value;
+  var emitted = Object.create(null);
+  var inFlight = false;
+
+  function setStatus(message, isError) {
+    status.textContent = message || '';
+    status.className = 'rfq-status' + (isError ? ' is-error' : '');
+  }
+
+  function fail(message) {
+    inFlight = false;
+    submitButton.disabled = false;
+    setStatus(message, true);
+  }
+
+  if (!/^RFQ-\d{8}-[0-9A-F]{12}$/.test(pendingId)) pendingId = createRfqId();
+  if (!pendingId) {
+    submitButton.disabled = true;
+    setStatus('Secure RFQ reference generation is unavailable in this browser. Please email hank@alumcasting.com with your requirements.', true);
+    return;
+  }
+  idField.value = pendingId;
+
   f.addEventListener('submit', function(e){
-    if(typeof gtag !== 'function') return;          // gtag not ready → native POST proceeds
+    if (inFlight) {
+      e.preventDefault();
+      return;
+    }
+    if (!/^RFQ-\d{8}-[0-9A-F]{12}$/.test(pendingId)) {
+      e.preventDefault();
+      setStatus('The RFQ reference could not be generated. Please email hank@alumcasting.com with your requirements.', true);
+      return;
+    }
+    idField.value = pendingId;
+    inFlight = true;
+    submitButton.disabled = true;
+    setStatus('Submitting your RFQ…', false);
+
+    if(typeof gtag !== 'function') {
+      e.preventDefault();
+      HTMLFormElement.prototype.submit.call(f);
+      return;
+    }
+
     e.preventDefault();
     var data = new FormData(f);
     fetch(f.action, { method:'POST', body:data, headers:{'Accept':'application/json'} })
-      .then(function(r){ return r.json().catch(function(){ return {}; }); })
-      .then(function(res){
-        if(res && (res.ok || res.success)){
-          try { gtag('event','generate_lead', { currency:'USD', value:10, lead_type:'rfq', form_name:'contact-form', form_id:'rfq-form' }); } catch(_){}
+      .then(function(r){
+        return r.json().catch(function(){ return {}; }).then(function(res){
+          return { httpOk: r.ok, body: res };
+        });
+      })
+      .then(function(result){
+        if(result.httpOk && result.body && (result.body.ok || result.body.success)){
+          if (!emitted[pendingId]) {
+            emitted[pendingId] = true;
+            try {
+              gtag('event','generate_lead', {
+                currency:'USD',
+                value:10,
+                lead_type:'rfq',
+                form_name:'contact-form',
+                form_id:'rfq-form',
+                rfq_id:pendingId
+              });
+            } catch(_){}
+          }
           f.innerHTML = '<p class="rfq-note" style="font-size:1rem;color:#0d4a8e">'
-            + 'Thank you — your RFQ has been received. We will review your enquiry and get back to you as soon as possible.</p>';
+            + 'Thank you — your RFQ has been received. Reference: <strong>' + pendingId
+            + '</strong>. We will review your enquiry and get back to you as soon as possible.</p>';
         } else {
-          f.submit();                                // Formspree error → native fallback (single submit)
+          fail('We could not confirm this RFQ submission. Your reference is ' + pendingId
+            + '. Please retry once or email hank@alumcasting.com with your requirements.');
         }
       })
-      .catch(function(){ f.submit(); });             // network failure → native fallback (single submit)
+      .catch(function(){
+        fail('The submission result could not be confirmed. Your reference is ' + pendingId
+          + '. Please retry once or email hank@alumcasting.com with your requirements.');
+      });
   });
 })();
 </script>

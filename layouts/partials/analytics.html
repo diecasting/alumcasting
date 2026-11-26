@@ -1,7 +1,10 @@
 {{- /* A.3 — gated analytics snippet (Tier-1: GA4 + Google Ads global tag).
+   Production-only by B1 decision: Staging and local development must not load
+   or emit the Production Google tag, GA4 or Google Ads destinations.
    Renders nothing when disabled or the GA4 ID is absent. Public IDs only;
    not secrets. The Ads conversion send_to event is intentionally omitted
    (conversion label unavailable; not authorized in Tier-1). */ -}}
+{{- if hugo.IsProduction -}}
 {{- with .Site.Params.marketing -}}
 {{- if and .enable_analytics .ga4_id -}}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ .google_tag_id }}"></script>
@@ -12,5 +15,6 @@
   gtag('config', '{{ .google_tag_id }}');
   {{- if .google_ads_id }}gtag('config', '{{ .google_ads_id }}');{{- end }}
 </script>
+{{- end -}}
 {{- end -}}
 {{- end -}}
